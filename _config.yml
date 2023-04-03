@@ -1,12 +1,12 @@
 # Site
-name: "Mediumish"
-title: "apple 호갱노노"
-description: "Apple IPHONE IPAD WATCH MACBOOK 최저가 찾기"
+name: "Apple IPHONE CHKCHK"
+title: "apple CHKCHK"
+description: "Apple IPHONE13 IPHONE14 IPHONE SE3"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+disqus: 'iphone-chkchk-co-kr'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
@@ -62,7 +62,8 @@ kramdown:
       line_numbers: true
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "disabled"
+# disabled
+adsense: "enabled"
 adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 

@@ -1,12 +1,16 @@
 ---
 layout: post
-title:  "아이폰13"
-date: 2022-03-09 12:46:10 +03:00
+title:  "아이폰14 PRO 막강한 성능"
+date: 2023-02-09 14:46:10 +03:00
 author: sal
-categories: [ IPHONE13]
-image: assets/images/iphone13/iphone13-mini.jpg
+categories: [ IPHONE14PRO, IPHONE14 ]
+image: assets/images/iphone14/iphone14-pro.png
+featured: true
+comments: true
+price: "1,344,320"
 ---
-2023-03-22 아이폰13 최저가 1,057,300원
+
+2023-03-22 아이폰14 PLUS 최저가 {{page.price}}원
 
 2030년까지 탄소중립성을 달성하기 위한 Apple의 지속적인 노력의 일환으로 iPhone 13 및 iPhone 13 mini 제품 구성에는 전원 어댑터 및 EarPods이 포함되지 않습니다. 대신 급속 충전을 지원하고 USB‑C 전원 어댑터 및 컴퓨터 포트와 호환되는 USB-C-Lightning 케이블은 포함되어 있습니다.
 
