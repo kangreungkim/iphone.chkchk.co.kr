@@ -70,7 +70,7 @@ adsense-data-ad-slot: "6129709832"
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
 
-include: 
-  \- .nojekyll
+#include: 
+#  \- .nojekyll
   
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
