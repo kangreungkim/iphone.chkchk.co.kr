@@ -6,7 +6,7 @@ author: sal
 categories: [ IPHONE14PRO, IPHONE14 ]
 image: assets/images/iphone14/iphone14-pro.png
 featured: true
-comments: true
+comments: false
 price: "1,344,320"
 ---
 
