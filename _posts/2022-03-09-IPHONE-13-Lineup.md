@@ -1,14 +1,98 @@
 ---
 layout: post
-title:  "아이폰13"
-date: 2022-03-09 12:46:10 +03:00
+date: 2023-03-09 12:46:10 +03:00
 author: sal
-categories: [ IPHONE13]
+categories: [IPHONE13]
 image: assets/images/iphone13/iphone13-mini.jpg
-price: "1,057,300"
+price: "1,046,300"
+today: "2023-04-25"
+featured: false
+comments: true
+chart_path: "/assets/images/chart/IPHONE13_chart.png"
 ---
-2023-03-22 아이폰13 최저가 {{page.price}}원
 
-2030년까지 탄소중립성을 달성하기 위한 Apple의 지속적인 노력의 일환으로 iPhone 13 및 iPhone 13 mini 제품 구성에는 전원 어댑터 및 EarPods이 포함되지 않습니다. 대신 급속 충전을 지원하고 USB‑C 전원 어댑터 및 컴퓨터 포트와 호환되는 USB-C-Lightning 케이블은 포함되어 있습니다.
+{{page.today}} 아이폰13 최저가 {{page.price}}원
 
-기존에 사용 중이던 USB‑A-Lightning 케이블, 전원 어댑터, 헤드폰이 이 iPhone 모델과 호환된다면 계속 사용하시길 권장합니다. 하지만 새로운 Apple 전원 어댑터 또는 헤드폰이 필요하다면 원하시는 제품을 구입할 수 있습니다.
+## 아이폰13 일자별 판매가격 차트
+![alt text]({{page.chart_path}} "아이폰13 판매가격 차트")
+
+## 아이폰13 오늘의 판매가격
+<main>
+<table id="rwd-table-large">
+  <thead>
+    <tr>
+      <th>제품명</th>
+      <th>SPEC</th>
+      <th>판매가격</th>
+      <th>제품링크</th>
+    </tr>
+  </thead>
+  <tbody><tr>
+        <td>apple iphone13 그린 128gb </td>
+        <td>128gb</td>
+        <td>재고없음</td>
+        <td><a href='https://link.coupang.com/a/SOUTm' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone13 미드나이트 128gb </td>
+        <td>128gb</td>
+        <td>재고없음</td>
+        <td><a href='https://link.coupang.com/a/SOU2r' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone13 블루 128gb </td>
+        <td>128gb</td>
+        <td>재고없음</td>
+        <td><a href='https://link.coupang.com/a/SOU6A' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone13 스타라이트 128gb </td>
+        <td>128gb</td>
+        <td>재고없음</td>
+        <td><a href='https://link.coupang.com/a/SOU9z' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone13 그린 256gb </td>
+        <td>256gb</td>
+        <td>재고없음</td>
+        <td><a href='https://link.coupang.com/a/SOVki' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone13 레드 256gb </td>
+        <td>256gb</td>
+        <td>재고없음</td>
+        <td><a href='https://link.coupang.com/a/SOVnU' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone13 블루 256gb </td>
+        <td>256gb</td>
+        <td>재고없음</td>
+        <td><a href='https://link.coupang.com/a/SOVqc' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone13 스타라이트 256gb </td>
+        <td>256gb</td>
+        <td>재고없음</td>
+        <td><a href='https://link.coupang.com/a/SOVsX' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone13 그린 512gb </td>
+        <td>512gb</td>
+        <td>1,326,000원</td>
+        <td><a href='https://link.coupang.com/a/SOVvl' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone13 레드 512gb </td>
+        <td>512gb</td>
+        <td>1,326,000원</td>
+        <td><a href='https://link.coupang.com/a/SOVxV' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone13 블루 512gb </td>
+        <td>512gb</td>
+        <td>1,326,000원</td>
+        <td><a href='https://link.coupang.com/a/SOVAD' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone13 스타라이트 512gb </td>
+        <td>512gb</td>
+        <td>1,349,000원</td>
+        <td><a href='https://link.coupang.com/a/SOVCL' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone13 핑크 512gb </td>
+        <td>512gb</td>
+        <td>1,326,000원</td>
+        <td><a href='https://link.coupang.com/a/SOVEZ' target='_blank'>오늘 최저가구매</a></td>
+        </tr></tbody>
+</table>
+</main>
+이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
