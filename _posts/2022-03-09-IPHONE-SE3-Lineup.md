@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-02-09 17:46:10 +03:00
-author: sal
+author: IPHONESE3
 categories: [IPHONE-SE3]
 image: assets/images/iphone-se3/iphone-se3.png
 price: "572,130"

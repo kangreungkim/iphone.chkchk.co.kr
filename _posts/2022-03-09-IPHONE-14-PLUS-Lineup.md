@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-02-09 13:46:10 +03:00
-author: sal
+author: IPHONE14
 categories: [IPHONE14PLUS]
 image: assets/images/iphone14/iphone14-plus.jpg
 price: "1,176,000"

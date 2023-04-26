@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-03-09 12:46:10 +03:00
-author: sal
+author: IPHONE13
 categories: [IPHONE13]
 image: assets/images/iphone13/iphone13-mini.jpg
 price: "1,046,300"

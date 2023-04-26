@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-02-09 15:46:10 +03:00
-author: sal
+author: IPHONE14
 categories: [IPHONE14PROMAX]
 image: assets/images/iphone14/iphone14-promax.jpg
 price: "1,488,000"

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-03-09 13:46:10 +03:00
-author: sal
+author: IPHONE13
 categories: [IPHONE13PRO]
 image: assets/images/iphone13/iphone13-pro.jpg
 price: "1,350,000"

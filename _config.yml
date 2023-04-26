@@ -13,23 +13,33 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  IPHONE13:
+    name: IPHONE13
+    display_name: 아이폰13
+    avatar: 'assets/images/avatar.png'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
+    web: https://www.chkchk.co.kr
     twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
+    description: "칩셋: A14 -> A15(4코어), 베터리 Up. 2815mAh -> 3227mAh, 디스플레이 120Hz, .. 5G 네트워크"
+  IPHONE14:
+    name: IPHONE14
+    display_name: 아이폰14
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
+    web: https://www.chkchk.co.kr
     twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    description: "아이폰 14는 전작인 아이폰 13에 비해 크게 나아진 점을 느끼기 어렵습니다. 눈에 띄는 점은 아이폰 14에서 처음 적용되는 위성통신 기술을 통해 인터넷의 사용이 불가능한 환경에서의 조난을 당할 경우, 위성 신호를 감지해서 이를 구조대에 알리는 기능이 탑재"
+  IPHONESE3:
+    name: IPHONESE3
+    display_name: 아이폰 SE3
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: wowthemesnet@gmail.com
+    web: https://www.chkchk.co.kr
+    twitter: https://twitter.com/wowthemesnet
+    description: "아이폰 SE3와 아이폰 SE2의 가장 큰 차이는 바로 사양입니다.신형 아이폰SE는 아이폰 13과 아이폰 13 프로의 동일한 A15 바이오닉 칩을 사용했습니다.6코어 CPU를 탑재한 A15 바이오닉은 아이폰SE가 아이폰8보다 1.8배 빠릅니다.머신러닝 과제를 목표로 하는 16코어 뉴럴엔진은 초당 15조 8000억 대의 연산을 해 아이폰8보다 26배 빠릅니다.또한, 아이폰 SE3는 A15 바이오닉 덕분에 포토 기능인 라이브 텍스트 지원도 됩니다"
 
 # Plugins
 plugins:
