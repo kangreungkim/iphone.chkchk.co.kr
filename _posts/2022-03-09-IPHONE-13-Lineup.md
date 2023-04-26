@@ -5,9 +5,10 @@ author: sal
 categories: [IPHONE13]
 image: assets/images/iphone13/iphone13-mini.jpg
 price: "1,046,300"
-today: "2023-04-25"
+today: "2023-04-26"
 featured: false
 comments: true
+title: 아이폰13
 chart_path: "/assets/images/chart/IPHONE13_chart.png"
 ---
 
@@ -70,17 +71,17 @@ chart_path: "/assets/images/chart/IPHONE13_chart.png"
         </tr><tr>
         <td>apple iphone13 그린 512gb </td>
         <td>512gb</td>
-        <td>1,326,000원</td>
+        <td>1,349,000원</td>
         <td><a href='https://link.coupang.com/a/SOVvl' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone13 레드 512gb </td>
         <td>512gb</td>
-        <td>1,326,000원</td>
+        <td>1,349,000원</td>
         <td><a href='https://link.coupang.com/a/SOVxV' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone13 블루 512gb </td>
         <td>512gb</td>
-        <td>1,326,000원</td>
+        <td>1,349,000원</td>
         <td><a href='https://link.coupang.com/a/SOVAD' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone13 스타라이트 512gb </td>
@@ -90,7 +91,7 @@ chart_path: "/assets/images/chart/IPHONE13_chart.png"
         </tr><tr>
         <td>apple iphone13 핑크 512gb </td>
         <td>512gb</td>
-        <td>1,326,000원</td>
+        <td>1,349,000원</td>
         <td><a href='https://link.coupang.com/a/SOVEZ' target='_blank'>오늘 최저가구매</a></td>
         </tr></tbody>
 </table>

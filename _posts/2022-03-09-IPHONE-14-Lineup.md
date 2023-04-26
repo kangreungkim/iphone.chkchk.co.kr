@@ -1,14 +1,109 @@
 ---
 layout: post
-title:  "아이폰14"
 date: 2023-02-09 12:46:10 +03:00
 author: sal
-categories: [ IPHONE14, IPHONE ]
+categories: [IPHONE14]
 image: assets/images/iphone14/iphone14.png
-price: "1,099,750"
+price: "1,091,800"
+today: "2023-04-26"
+featured: true
+comments: true
+title: 아이폰14
+chart_path: "/assets/images/chart/IPHONE14_chart.png"
 ---
-2023-03-22 아이폰14 최저가 {{page.price}}원
 
-2030년까지 탄소중립성을 달성하기 위한 Apple의 지속적인 노력의 일환으로 iPhone 13 및 iPhone 13 mini 제품 구성에는 전원 어댑터 및 EarPods이 포함되지 않습니다. 대신 급속 충전을 지원하고 USB‑C 전원 어댑터 및 컴퓨터 포트와 호환되는 USB-C-Lightning 케이블은 포함되어 있습니다.
+{{page.today}} 아이폰14 최저가 {{page.price}}원
 
-기존에 사용 중이던 USB‑A-Lightning 케이블, 전원 어댑터, 헤드폰이 이 iPhone 모델과 호환된다면 계속 사용하시길 권장합니다. 하지만 새로운 Apple 전원 어댑터 또는 헤드폰이 필요하다면 원하시는 제품을 구입할 수 있습니다.
+## 아이폰14 일자별 판매가격 차트
+![alt text]({{page.chart_path}} "아이폰14 판매가격 차트")
+
+## 아이폰14 오늘의 판매가격
+<main>
+<table id="rwd-table-large">
+  <thead>
+    <tr>
+      <th>제품명</th>
+      <th>SPEC</th>
+      <th>판매가격</th>
+      <th>제품링크</th>
+    </tr>
+  </thead>
+  <tbody><tr>
+        <td>apple iphone14 레드 128gb </td>
+        <td>128gb</td>
+        <td>재고없음</td>
+        <td><a href='https://link.coupang.com/a/SOW27' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone14 미드나이트 128gb </td>
+        <td>128gb</td>
+        <td>재고없음</td>
+        <td><a href='https://link.coupang.com/a/SOW5X' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone14 블루 128gb </td>
+        <td>128gb</td>
+        <td>재고없음</td>
+        <td><a href='https://link.coupang.com/a/SOW70' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone14 스타라이트 128gb </td>
+        <td>128gb</td>
+        <td>재고없음</td>
+        <td><a href='https://link.coupang.com/a/SOXat' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone14 퍼플 128gb </td>
+        <td>128gb</td>
+        <td>재고없음</td>
+        <td><a href='https://link.coupang.com/a/SOXcx' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone14 레드 256gb </td>
+        <td>256gb</td>
+        <td>재고없음</td>
+        <td><a href='https://link.coupang.com/a/SOXeB' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone14 미드나이트 256gb </td>
+        <td>256gb</td>
+        <td>재고없음</td>
+        <td><a href='https://link.coupang.com/a/SOXgn' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone14 블루 256gb </td>
+        <td>256gb</td>
+        <td>재고없음</td>
+        <td><a href='https://link.coupang.com/a/SOXif' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone14 스타라이트 256gb </td>
+        <td>256gb</td>
+        <td>재고없음</td>
+        <td><a href='https://link.coupang.com/a/SOXlS' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone14 퍼플 256gb </td>
+        <td>256gb</td>
+        <td>재고없음</td>
+        <td><a href='https://link.coupang.com/a/SOXnF' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone14 레드 512gb </td>
+        <td>512gb</td>
+        <td>1,589,000원</td>
+        <td><a href='https://link.coupang.com/a/SOXpX' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone14 미드나이트 512gb </td>
+        <td>512gb</td>
+        <td>1,432,760원</td>
+        <td><a href='https://link.coupang.com/a/SOXsg' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone14 블루 512gb </td>
+        <td>512gb</td>
+        <td>1,496,000원</td>
+        <td><a href='https://link.coupang.com/a/SOXuT' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone14 스타라이트 512gb </td>
+        <td>512gb</td>
+        <td>1,466,080원</td>
+        <td><a href='https://link.coupang.com/a/SOXw0' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone14 퍼플 512gb </td>
+        <td>512gb</td>
+        <td>1,432,760원</td>
+        <td><a href='https://link.coupang.com/a/SOXyl' target='_blank'>오늘 최저가구매</a></td>
+        </tr></tbody>
+</table>
+</main>
+이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.

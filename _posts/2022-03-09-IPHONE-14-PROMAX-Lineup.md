@@ -1,15 +1,94 @@
 ---
 layout: post
-title:  "아이폰14 PRO MAX"
 date: 2023-02-09 15:46:10 +03:00
 author: sal
-categories: [ IPHONE14PROMAX, IPHONE14 ]
+categories: [IPHONE14PROMAX]
 image: assets/images/iphone14/iphone14-promax.jpg
+price: "1,488,000"
+today: "2023-04-26"
 featured: false
-price: "1,509,200"
+comments: true
+title: 아이폰14 프로맥스
+chart_path: "/assets/images/chart/IPHONE14PROMAX_chart.png"
 ---
-2023-03-22 아이폰14 PRO MAX 최저가 {{page.price}}원
 
-2030년까지 탄소중립성을 달성하기 위한 Apple의 지속적인 노력의 일환으로 iPhone 13 및 iPhone 13 mini 제품 구성에는 전원 어댑터 및 EarPods이 포함되지 않습니다. 대신 급속 충전을 지원하고 USB‑C 전원 어댑터 및 컴퓨터 포트와 호환되는 USB-C-Lightning 케이블은 포함되어 있습니다.
+{{page.today}} 아이폰14 PROMAX 최저가 {{page.price}}원
 
-기존에 사용 중이던 USB‑A-Lightning 케이블, 전원 어댑터, 헤드폰이 이 iPhone 모델과 호환된다면 계속 사용하시길 권장합니다. 하지만 새로운 Apple 전원 어댑터 또는 헤드폰이 필요하다면 원하시는 제품을 구입할 수 있습니다.
+## 아이폰14 PROMAX 일자별 판매가격 차트
+![alt text]({{page.chart_path}} "아이폰14 PROMAX 판매가격 차트")
+
+## 아이폰14 PROMAX 오늘의 판매가격
+<main>
+<table id="rwd-table-large">
+  <thead>
+    <tr>
+      <th>제품명</th>
+      <th>SPEC</th>
+      <th>판매가격</th>
+      <th>제품링크</th>
+    </tr>
+  </thead>
+  <tbody><tr>
+        <td>apple iphone14promax 골드 128gb </td>
+        <td>128gb</td>
+        <td>재고없음</td>
+        <td><a href='https://link.coupang.com/a/SOYZQ' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone14promax 딥퍼플 128gb </td>
+        <td>128gb</td>
+        <td>재고없음</td>
+        <td><a href='https://link.coupang.com/a/SOY16' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone14promax 스페이스블랙 128gb </td>
+        <td>128gb</td>
+        <td>재고없음</td>
+        <td><a href='https://link.coupang.com/a/SOY4h' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone14promax 실버 128gb </td>
+        <td>128gb</td>
+        <td>재고없음</td>
+        <td><a href='https://link.coupang.com/a/SOY6u' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone14promax 골드 256gb </td>
+        <td>256gb</td>
+        <td>재고없음</td>
+        <td><a href='https://link.coupang.com/a/SOY8s' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone14promax 딥퍼플 256gb </td>
+        <td>256gb</td>
+        <td>재고없음</td>
+        <td><a href='https://link.coupang.com/a/SOY9V' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone14promax 스페이스블랙 256gb </td>
+        <td>256gb</td>
+        <td>재고없음</td>
+        <td><a href='https://link.coupang.com/a/SOZca' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone14promax 실버 256gb </td>
+        <td>256gb</td>
+        <td>재고없음</td>
+        <td><a href='https://link.coupang.com/a/SOZei' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone14promax 골드 512gb </td>
+        <td>512gb</td>
+        <td>1,898,000원</td>
+        <td><a href='https://link.coupang.com/a/SOZgP' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone14promax 딥퍼플 512gb </td>
+        <td>512gb</td>
+        <td>2,025,000원</td>
+        <td><a href='https://link.coupang.com/a/SOZjn' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone14promax 스페이스블랙 512gb </td>
+        <td>512gb</td>
+        <td>1,965,000원</td>
+        <td><a href='https://link.coupang.com/a/SOZls' target='_blank'>오늘 최저가구매</a></td>
+        </tr><tr>
+        <td>apple iphone14promax 실버 512gb </td>
+        <td>512gb</td>
+        <td>1,898,000원</td>
+        <td><a href='https://link.coupang.com/a/SOZnK' target='_blank'>오늘 최저가구매</a></td>
+        </tr></tbody>
+</table>
+</main>
+이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
