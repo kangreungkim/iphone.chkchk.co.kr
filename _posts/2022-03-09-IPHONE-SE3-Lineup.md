@@ -1,11 +1,11 @@
 ---
 layout: post
 date: 2023-02-09 17:46:10 +03:00
-author: IPHONESE3
+author: sal
 categories: [IPHONE-SE3]
 image: assets/images/iphone-se3/iphone-se3.png
-price: "572,130"
-today: "2023-04-26"
+price: "572,500"
+today: "2023-04-27"
 featured: false
 comments: true
 title: 아이폰 SE3
@@ -14,10 +14,15 @@ chart_path: "/assets/images/chart/IPHONE-SE3_chart.png"
 
 {{page.today}} 아이폰 SE3 최저가 {{page.price}}원
 
+아이폰SE의 작은 화면은 단점이지만, 반면 작은 사이즈의 스마트폰을 선호하는 소비자에게는 관심을 끌만하다.
+아이폰SE 사이즈는 세로13.8cm x 가로6.7cm x 두께0.7cm, 무게 144g으로 콤팩트하다. 
+특히 여성 사용자 또는 손이 작은 사용자의 경우 한 손에 쏙 들어오고, 주머니에 잘 들어가는 아이폰SE가 편리하게 느껴질 것이다.
+가벼운 폰 선호자라면 장점일 수도
+
 ## 아이폰 SE3 일자별 판매가격 차트
 ![alt text]({{page.chart_path}} "아이폰 SE3 판매가격 차트")
 
-## 아이폰 SE3 오늘의 판매가격
+## 아이폰 SE3 {{page.today}} 판매가격
 <main>
 <table id="rwd-table-large">
   <thead>
@@ -31,27 +36,27 @@ chart_path: "/assets/images/chart/IPHONE-SE3_chart.png"
   <tbody><tr>
         <td>apple iphonese3 product red 64gb </td>
         <td>64gb</td>
-        <td>재고없음</td>
+        <td>640,000원</td>
         <td><a href='https://link.coupang.com/a/SOZrL' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphonese3 스타라이트 64gb </td>
         <td>64gb</td>
-        <td>재고없음</td>
+        <td>572,500원</td>
         <td><a href='https://link.coupang.com/a/SOZuC' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphonese3 product red 128gb </td>
         <td>128gb</td>
-        <td>재고없음</td>
+        <td>660,000원</td>
         <td><a href='https://link.coupang.com/a/SOZx2' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphonese3 미드나이트 128gb </td>
         <td>128gb</td>
-        <td>재고없음</td>
+        <td>651,560원</td>
         <td><a href='https://link.coupang.com/a/SOZBl' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphonese3 스타라이트 128gb </td>
         <td>128gb</td>
-        <td>재고없음</td>
+        <td>688,750원</td>
         <td><a href='https://link.coupang.com/a/SOZJU' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphonese3 product red 256gb </td>

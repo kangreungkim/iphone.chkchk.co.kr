@@ -1,11 +1,11 @@
 ---
 layout: post
 date: 2022-03-09 13:46:10 +03:00
-author: IPHONE13
+author: sal
 categories: [IPHONE13PRO]
 image: assets/images/iphone13/iphone13-pro.jpg
 price: "1,350,000"
-today: "2023-04-26"
+today: "2023-04-27"
 featured: false
 comments: true
 title: 아이폰13 프로
@@ -14,10 +14,12 @@ chart_path: "/assets/images/chart/IPHONE13PRO_chart.png"
 
 {{page.today}} 아이폰13 PRO 최저가 {{page.price}}원
 
+아이폰13 기본형과 프로를 구분하는 가장 큰 특징은 바로 '카메라'다. 아이폰13에는 듀얼(2개, 초광각·광각) 카메라가, 아이폰13 프로에는 트리플(3개, 초광각·광각·망원) 카메라가 적용됐다. 프로는 망원 렌즈를 더해 6배 광학 줌이 가능하다. 기본형은 2배 광학 줌에 머문다.
+
 ## 아이폰13 PRO 일자별 판매가격 차트
 ![alt text]({{page.chart_path}} "아이폰13 PRO 판매가격 차트")
 
-## 아이폰13 PRO 오늘의 판매가격
+## 아이폰13 PRO {{page.today}} 판매가격
 <main>
 <table id="rwd-table-large">
   <thead>

@@ -1,11 +1,11 @@
 ---
 layout: post
 date: 2022-03-09 11:46:10 +03:00
-author: IPHONE13
+author: sal
 categories: [IPHONE13MINI]
 image: assets/images/iphone13/iphone13-mini.jpg
 price: "830,000"
-today: "2023-04-26"
+today: "2023-04-27"
 featured: false
 comments: true
 title: 아이폰13 미니
@@ -14,10 +14,13 @@ chart_path: "/assets/images/chart/IPHONE13MINI_chart.png"
 
 {{page.today}} 아이폰13 MINI 최저가 {{page.price}}원
 
+아담한 사이즈 : 131.5 × 64.2 × 7.65mm, 무게는 140g으로 아담하고, 가볍습니다. ...
+작은 휴대폰 중 가장 좋은 성능 : 아이폰14 미니가 없으므로 현존하는 작은 아이폰 중 가장 성능이 좋습니다.
+
 ## 아이폰13 MINI  일자별 판매가격 차트
 ![alt text]({{page.chart_path}} "아이폰13 MINI 판매가격 차트")
 
-## 아이폰13 MINI  오늘의 판매가격
+## 아이폰13 MINI  {{page.today}} 판매가격
 <main>
 <table id="rwd-table-large">
   <thead>
@@ -31,57 +34,57 @@ chart_path: "/assets/images/chart/IPHONE13MINI_chart.png"
   <tbody><tr>
         <td>apple iphone13mini 그린 128gb </td>
         <td>128gb</td>
-        <td>재고없음</td>
+        <td>883,000원</td>
         <td><a href='https://link.coupang.com/a/SOVOH' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone13mini 레드 128gb </td>
         <td>128gb</td>
-        <td>재고없음</td>
+        <td>902,000원</td>
         <td><a href='https://link.coupang.com/a/SOVSa' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone13mini 미드나이트 128gb </td>
         <td>128gb</td>
-        <td>재고없음</td>
+        <td>848,000원</td>
         <td><a href='https://link.coupang.com/a/SOVVe' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone13mini 블루 128gb </td>
         <td>128gb</td>
-        <td>재고없음</td>
+        <td>830,000원</td>
         <td><a href='https://link.coupang.com/a/SOVXj' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone13mini 핑크 128gb </td>
         <td>128gb</td>
-        <td>재고없음</td>
+        <td>848,000원</td>
         <td><a href='https://link.coupang.com/a/SOVY5' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone13mini 그린 256gb </td>
         <td>256gb</td>
-        <td>재고없음</td>
+        <td>1,035,400원</td>
         <td><a href='https://link.coupang.com/a/SQ75I' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone13mini 레드 256gb </td>
         <td>256gb</td>
-        <td>재고없음</td>
+        <td>1,025,470원</td>
         <td><a href='https://link.coupang.com/a/SQ7fL' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone13mini 미드나이트 256gb </td>
         <td>256gb</td>
-        <td>재고없음</td>
+        <td>952,600원</td>
         <td><a href='https://link.coupang.com/a/SQ7tt' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone13mini 블루 256gb </td>
         <td>256gb</td>
-        <td>재고없음</td>
+        <td>1,035,400원</td>
         <td><a href='https://link.coupang.com/a/SQ7CP' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone13mini 스타라이트 256gb </td>
         <td>256gb</td>
-        <td>재고없음</td>
+        <td>952,350원</td>
         <td><a href='https://link.coupang.com/a/SQ7JQ' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone13mini 핑크 256gb </td>
         <td>256gb</td>
-        <td>재고없음</td>
+        <td>973,150원</td>
         <td><a href='https://link.coupang.com/a/SQ7Sb' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone13mini 그린 512gb </td>

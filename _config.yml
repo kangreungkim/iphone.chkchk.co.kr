@@ -1,13 +1,14 @@
 # Site
-name: "Apple IPHONE CHKCHK"
+name: "애플 IPHONE CHKCHK"
 title: "apple CHKCHK"
-description: "Apple IPHONE13 IPHONE14 IPHONE SE3"
+description: "Apple IPHONE13 / IPHONE14  / IPHONE SE3 판매가격 히스토리"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
+url: 'http://www.chkchk.co.kr'
 baseurl: ''
 google_analytics: 'G-FRLYY7SFLH'
 disqus: 'iphone-chkchk-co-kr'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 

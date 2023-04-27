@@ -1,11 +1,11 @@
 ---
 layout: post
 date: 2023-02-09 12:46:10 +03:00
-author: IPHONE14
+author: sal
 categories: [IPHONE14]
 image: assets/images/iphone14/iphone14.png
-price: "1,091,800"
-today: "2023-04-26"
+price: "1,092,750"
+today: "2023-04-27"
 featured: true
 comments: true
 title: 아이폰14
@@ -14,10 +14,12 @@ chart_path: "/assets/images/chart/IPHONE14_chart.png"
 
 {{page.today}} 아이폰14 최저가 {{page.price}}원
 
+아이폰14의 차이점은 크게 세 가지로 요약된다. 전면 디스플레이에 카메라 모듈 부분을 뚫어 구현한 '다이내믹 아일랜드', 상시 디스플레이 기능인 AOD(올웨이즈온 디스플레이), 메인 카메라의 화질 개선이다.
+
 ## 아이폰14 일자별 판매가격 차트
 ![alt text]({{page.chart_path}} "아이폰14 판매가격 차트")
 
-## 아이폰14 오늘의 판매가격
+## 아이폰14 {{page.today}} 판매가격
 <main>
 <table id="rwd-table-large">
   <thead>
@@ -31,52 +33,52 @@ chart_path: "/assets/images/chart/IPHONE14_chart.png"
   <tbody><tr>
         <td>apple iphone14 레드 128gb </td>
         <td>128gb</td>
-        <td>재고없음</td>
+        <td>1,116,000원</td>
         <td><a href='https://link.coupang.com/a/SOW27' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14 미드나이트 128gb </td>
         <td>128gb</td>
-        <td>재고없음</td>
+        <td>1,094,800원</td>
         <td><a href='https://link.coupang.com/a/SOW5X' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14 블루 128gb </td>
         <td>128gb</td>
-        <td>재고없음</td>
+        <td>1,092,750원</td>
         <td><a href='https://link.coupang.com/a/SOW70' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14 스타라이트 128gb </td>
         <td>128gb</td>
-        <td>재고없음</td>
+        <td>1,103,500원</td>
         <td><a href='https://link.coupang.com/a/SOXat' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14 퍼플 128gb </td>
         <td>128gb</td>
-        <td>재고없음</td>
+        <td>1,102,500원</td>
         <td><a href='https://link.coupang.com/a/SOXcx' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14 레드 256gb </td>
         <td>256gb</td>
-        <td>재고없음</td>
+        <td>1,250,000원</td>
         <td><a href='https://link.coupang.com/a/SOXeB' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14 미드나이트 256gb </td>
         <td>256gb</td>
-        <td>재고없음</td>
+        <td>1,227,940원</td>
         <td><a href='https://link.coupang.com/a/SOXgn' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14 블루 256gb </td>
         <td>256gb</td>
-        <td>재고없음</td>
+        <td>1,248,520원</td>
         <td><a href='https://link.coupang.com/a/SOXif' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14 스타라이트 256gb </td>
         <td>256gb</td>
-        <td>재고없음</td>
+        <td>1,250,000원</td>
         <td><a href='https://link.coupang.com/a/SOXlS' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14 퍼플 256gb </td>
         <td>256gb</td>
-        <td>재고없음</td>
+        <td>1,248,520원</td>
         <td><a href='https://link.coupang.com/a/SOXnF' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14 레드 512gb </td>
