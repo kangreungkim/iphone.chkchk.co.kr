@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "http://localhost:4000/about",
     "title": "About CHKCHK",
-    "body": "ChkChk Blog는 가격히스토리를 제공하여 똑똑한 소비를 할 수 있도록 도와줍니다. 앞으로 많은 제품을 준비해서 포스팅 하겠습니다. . Buy me a coffeeThank you for your support! Your donation helps me to maintain and improve Mediumish . Buy me a coffee Documentation"
+    "body": "ChkChk Blog는 가격히스토리를 제공하여 똑똑한 소비를 할 수 있도록 도와줍니다. 앞으로 많은 제품을 준비해서 포스팅 하겠습니다. . "
     }, {
     "id": 2,
     "url": "http://localhost:4000/categories",
