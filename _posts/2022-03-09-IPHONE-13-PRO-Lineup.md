@@ -1,14 +1,14 @@
 ---
 layout: post
 date: 2022-03-09 13:46:10 +03:00
-author: IPHONE
-categories: [IPHONE13PRO]
+categories: [IPHONE]
 image: assets/images/iphone13/iphone13-pro.jpg
 price: "1,350,000"
 today: "2023-04-28"
 featured: false
 comments: true
 title: 아이폰13 프로
+author: IPHONE
 chart_path: "/assets/images/chart/IPHONE13PRO_chart.png"
 ---
 

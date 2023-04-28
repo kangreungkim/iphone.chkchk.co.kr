@@ -1,14 +1,14 @@
 ---
 layout: post
 date: 2023-04-27 17:46:10 +03:00
-author: APPLEWATCH
-categories: [AppleWatchUltra]
+categories: [APPLEWATCH]
 image: assets/images/applewatch/watchultra.png
 price: "993,570"
 today: "2023-04-28"
 featured: false
 comments: true
 title: 애플워치울트라
+author: APPLEWATCH
 chart_path: "/assets/images/chart/AppleWatchUltra_chart.png"
 ---
 

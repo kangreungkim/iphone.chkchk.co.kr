@@ -1,14 +1,14 @@
 ---
 layout: post
 date: 2023-04-27 17:46:10 +03:00
-author: APPLEWATCH
-categories: [AppleWatchSE]
+categories: [APPLEWATCH]
 image: assets/images/applewatch/watchse.png
 price: "334,580"
 today: "2023-04-28"
 featured: false
 comments: true
 title: 애플워치SE
+author: APPLEWATCH
 chart_path: "/assets/images/chart/AppleWatchSE_chart.png"
 ---
 

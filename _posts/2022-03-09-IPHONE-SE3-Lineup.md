@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-02-09 17:46:10 +03:00
-categories: [IPHONE-SE3]
+categories: [IPHONE]
 image: assets/images/iphone-se3/iphone-se3.png
 price: "555,500"
 today: "2023-04-28"

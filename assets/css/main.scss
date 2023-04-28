@@ -256,9 +256,9 @@ $global-radius: 4px;
 }
 
 #rwd-table {
-  @extend %responive-tables;
-  @include responive-tables('Heading Col 1', 'Heading Col 2', 'Heading Col 3');
-}
+	@extend %responive-tables;
+	@include responive-tables('제품명', '설명', '제품링크');
+  }
 
 #rwd-table-large {
   @extend %responive-tables-large;

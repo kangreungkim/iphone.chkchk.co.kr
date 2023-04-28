@@ -1,14 +1,14 @@
 ---
 layout: post
 date: 2023-02-09 13:46:10 +03:00
-author: IPHONE
-categories: [IPHONE14PLUS]
+categories: [IPHONE]
 image: assets/images/iphone14/iphone14-plus.jpg
 price: "1,176,000"
 today: "2023-04-28"
 featured: false
 comments: true
 title: 아이폰14 플러스
+author: IPHONE
 chart_path: "/assets/images/chart/IPHONE14PLUS_chart.png"
 ---
 

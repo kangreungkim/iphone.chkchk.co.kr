@@ -1,14 +1,14 @@
 ---
 layout: post
 date: 2022-03-09 11:46:10 +03:00
-author: IPHONE
-categories: [IPHONE13MINI]
+categories: [IPHONE]
 image: assets/images/iphone13/iphone13-mini.jpg
 price: "830,000"
 today: "2023-04-28"
 featured: false
 comments: true
 title: 아이폰13 미니
+author: IPHONE
 chart_path: "/assets/images/chart/IPHONE13MINI_chart.png"
 ---
 

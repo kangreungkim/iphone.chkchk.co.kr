@@ -1,14 +1,14 @@
 ---
 layout: post
 date: 2023-04-27 17:46:10 +03:00
-author: APPLEWATCH
-categories: [AppleWatch7]
+categories: [APPLEWATCH]
 image: assets/images/applewatch/watch7.png
 price: "441,320"
 today: "2023-04-28"
 featured: false
 comments: true
 title: 애플워치7
+author: APPLEWATCH
 chart_path: "/assets/images/chart/AppleWatch7_chart.png"
 ---
 
