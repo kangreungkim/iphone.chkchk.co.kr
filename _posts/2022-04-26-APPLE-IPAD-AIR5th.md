@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-04-26 17:46:10 +03:00
+date: 2023-04-28 13:20:04 +09:00
 categories: [IPAD]
 image: assets/images/ipad/ipadair5th.png
 price: "794,050"
