@@ -1,11 +1,11 @@
 ---
 layout: post
 date: 2023-02-09 14:46:10 +03:00
-author: sal
+author: IPHONE
 categories: [IPHONE14PRO]
 image: assets/images/iphone14/iphone14-pro.png
 price: "1,316,880"
-today: "2023-04-27"
+today: "2023-04-28"
 featured: true
 comments: true
 title: 아이폰14 프로
@@ -58,7 +58,7 @@ chart_path: "/assets/images/chart/IPHONE14PRO_chart.png"
         </tr><tr>
         <td>apple iphone14pro 골드 256gb </td>
         <td>256gb</td>
-        <td>1,533,000원</td>
+        <td>1,550,000원</td>
         <td><a href='https://link.coupang.com/a/SOYzH' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14pro 딥퍼플 256gb </td>
@@ -68,17 +68,17 @@ chart_path: "/assets/images/chart/IPHONE14PRO_chart.png"
         </tr><tr>
         <td>apple iphone14pro 스페이스블랙 256gb </td>
         <td>256gb</td>
-        <td>1,533,000원</td>
+        <td>1,565,000원</td>
         <td><a href='https://link.coupang.com/a/SOYEY' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14pro 실버 256gb </td>
         <td>256gb</td>
-        <td>1,484,090원</td>
+        <td>1,454,000원</td>
         <td><a href='https://link.coupang.com/a/SOYLE' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14pro 골드 512gb </td>
         <td>512gb</td>
-        <td>1,840,000원</td>
+        <td>1,714,000원</td>
         <td><a href='https://link.coupang.com/a/SOYNI' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14pro 딥퍼플 512gb </td>
@@ -88,14 +88,16 @@ chart_path: "/assets/images/chart/IPHONE14PRO_chart.png"
         </tr><tr>
         <td>apple iphone14pro 스페이스블랙 512gb </td>
         <td>512gb</td>
-        <td>1,746,870원</td>
+        <td>1,714,000원</td>
         <td><a href='https://link.coupang.com/a/SOYRG' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14pro 실버 512gb </td>
         <td>512gb</td>
-        <td>1,738,500원</td>
+        <td>1,714,000원</td>
         <td><a href='https://link.coupang.com/a/SOYUa' target='_blank'>오늘 최저가구매</a></td>
         </tr></tbody>
 </table>
 </main>
+<div style="color:#e56a2c;font-size: 0.7em;" >
 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
+</div>

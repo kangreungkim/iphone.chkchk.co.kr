@@ -1,11 +1,11 @@
 ---
 layout: post
 date: 2022-03-09 13:46:10 +03:00
-author: sal
+author: IPHONE
 categories: [IPHONE13PRO]
 image: assets/images/iphone13/iphone13-pro.jpg
 price: "1,350,000"
-today: "2023-04-27"
+today: "2023-04-28"
 featured: false
 comments: true
 title: 아이폰13 프로
@@ -58,4 +58,6 @@ chart_path: "/assets/images/chart/IPHONE13PRO_chart.png"
         </tr></tbody>
 </table>
 </main>
+<div style="color:#e56a2c;font-size: 0.7em;" >
 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
+</div>

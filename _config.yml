@@ -1,7 +1,7 @@
 # Site
 name: "애플 IPHONE CHKCHK"
-title: "apple CHKCHK"
-description: "Apple IPHONE13 / IPHONE14  / IPHONE SE3 판매가격 히스토리"
+title: "애플 판매 가격 동향"
+description: "IPHONE13/IPHONE14/IPHONE SE3/Apple WATCH SE, SE2, 7, 8 ULTRA 판매가격 히스토리"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 url: 'http://www.chkchk.co.kr'
@@ -14,33 +14,21 @@ permalink: /:title/
 
 # Authors
 authors:
-  IPHONE13:
-    name: IPHONE13
-    display_name: 아이폰13
-    avatar: 'assets/images/avatar.png'
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.chkchk.co.kr
-    twitter: https://twitter.com/wowthemesnet
-    description: "칩셋: A14 -> A15(4코어), 베터리 Up. 2815mAh -> 3227mAh, 디스플레이 120Hz, .. 5G 네트워크"
-  IPHONE14:
-    name: IPHONE14
-    display_name: 아이폰14
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.chkchk.co.kr
-    twitter: https://twitter.com/wowthemesnet
-    description: "아이폰 14는 전작인 아이폰 13에 비해 크게 나아진 점을 느끼기 어렵습니다. 눈에 띄는 점은 아이폰 14에서 처음 적용되는 위성통신 기술을 통해 인터넷의 사용이 불가능한 환경에서의 조난을 당할 경우, 위성 신호를 감지해서 이를 구조대에 알리는 기능이 탑재"
-  IPHONESE3:
-    name: IPHONESE3
-    display_name: 아이폰 SE3
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.chkchk.co.kr
-    twitter: https://twitter.com/wowthemesnet
-    description: "아이폰 SE3와 아이폰 SE2의 가장 큰 차이는 바로 사양입니다.신형 아이폰SE는 아이폰 13과 아이폰 13 프로의 동일한 A15 바이오닉 칩을 사용했습니다.6코어 CPU를 탑재한 A15 바이오닉은 아이폰SE가 아이폰8보다 1.8배 빠릅니다.머신러닝 과제를 목표로 하는 16코어 뉴럴엔진은 초당 15조 8000억 대의 연산을 해 아이폰8보다 26배 빠릅니다.또한, 아이폰 SE3는 A15 바이오닉 덕분에 포토 기능인 라이브 텍스트 지원도 됩니다"
+  IPHONE:
+    name: IPHONE
+    display_name: 아이폰
+    avatar: 'assets/images/avatar_iphone.png'
+    description: "아이폰을 쓰는 이유 1. 디자인 · 2. 성능 · 3. 가격 방어, 중고 가격 · 4. 애플의 사후지원, 소프트웨어 업데이트 · 5. 애플 생태계의 연동성"
+  APPLEWATCH:
+    name: APPLEWATCH
+    display_name: 애플워치
+    avatar: 'assets/images/avatar_applewatch.png'
+    description: " 애플 워치는 높은 완성도의 디자인을 갖추고 있습니다. 또한 스마트워치의 경우 같은 제조회사에서 만든 스마트폰만 연동되기 때문에 사용하는 스마트폰에 따라 결정하시면 되겠습니다."
+  IPAD:
+    name: IPAD
+    display_name: 아이패드
+    avatar: 'assets/images/avatar_ipad.png'
+    description: "스피커가 4개나 탑재되어 있어서 영상 시청을 하거나 음악 감상 시 사운드가 훌륭하다. ✔️ 라미네이팅 기능으로 인해 메모나 그림 등 필기감이 많이 우수하다. ✔️ 주사율을 120Hz까지 지원하기 때문에 화면 움직임이 매우 부드럽다."
 
 # Plugins
 plugins:
