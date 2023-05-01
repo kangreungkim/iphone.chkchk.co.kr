@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-04-28 13:19:22 +09:00
+date: 2023-05-01 08:57:02 +09:00
 categories: [IPHONE]
 image: assets/images/iphone14/iphone14-pro.png
 price: "1,316,880"
-today: "2023-04-28"
+today: "2023-05-01"
 featured: true
 comments: true
 title: 아이폰14 프로
@@ -48,7 +48,7 @@ chart_path: "/assets/images/chart/IPHONE14PRO_chart.png"
         </tr><tr>
         <td>apple iphone14pro 스페이스블랙 128gb </td>
         <td>128gb</td>
-        <td>1,339,200원</td>
+        <td>1,367,100원</td>
         <td><a href='https://link.coupang.com/a/SOYvt' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14pro 실버 128gb </td>
@@ -58,7 +58,7 @@ chart_path: "/assets/images/chart/IPHONE14PRO_chart.png"
         </tr><tr>
         <td>apple iphone14pro 골드 256gb </td>
         <td>256gb</td>
-        <td>1,550,000원</td>
+        <td>1,570,000원</td>
         <td><a href='https://link.coupang.com/a/SOYzH' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14pro 딥퍼플 256gb </td>
@@ -68,32 +68,32 @@ chart_path: "/assets/images/chart/IPHONE14PRO_chart.png"
         </tr><tr>
         <td>apple iphone14pro 스페이스블랙 256gb </td>
         <td>256gb</td>
-        <td>1,565,000원</td>
+        <td>1,570,000원</td>
         <td><a href='https://link.coupang.com/a/SOYEY' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14pro 실버 256gb </td>
         <td>256gb</td>
-        <td>1,454,000원</td>
+        <td>1,440,640원</td>
         <td><a href='https://link.coupang.com/a/SOYLE' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14pro 골드 512gb </td>
         <td>512gb</td>
-        <td>1,714,000원</td>
+        <td>1,820,000원</td>
         <td><a href='https://link.coupang.com/a/SOYNI' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14pro 딥퍼플 512gb </td>
         <td>512gb</td>
-        <td>1,714,000원</td>
+        <td>1,820,000원</td>
         <td><a href='https://link.coupang.com/a/SOYPE' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14pro 스페이스블랙 512gb </td>
         <td>512gb</td>
-        <td>1,714,000원</td>
+        <td>1,779,400원</td>
         <td><a href='https://link.coupang.com/a/SOYRG' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14pro 실버 512gb </td>
         <td>512gb</td>
-        <td>1,714,000원</td>
+        <td>1,739,860원</td>
         <td><a href='https://link.coupang.com/a/SOYUa' target='_blank'>오늘 최저가구매</a></td>
         </tr></tbody>
 </table>
