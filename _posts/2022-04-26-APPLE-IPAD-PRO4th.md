@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-01 09:16:36 +09:00
+date: 2023-05-02 09:52:29 +09:00
 categories: [IPAD]
 image: assets/images/ipad/ipadpro4th.png
-price: "1,081,820"
-today: "2023-05-01"
+price: "1,054,900"
+today: "2023-05-02"
 featured: false
 comments: true
 title: 아이패드 프로 11인치 4세대
@@ -71,7 +71,7 @@ chart_path: "/assets/images/chart/IPAD-PRO4th_chart.png"
   <tbody><tr>
         <td>Apple 정품 2022 아이패드 프로 11 4세대 M2칩 스페이스그레이 128gb wi-fi</td>
         <td>128gbWifi</td>
-        <td>1,081,820원</td>
+        <td>1,054,900원</td>
         <td><a href='https://link.coupang.com/a/SA5ym' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>Apple 정품 2022 아이패드 프로 11 4세대 M2칩 스페이스그레이 128gb wi-fi + cellular</td>
@@ -86,7 +86,7 @@ chart_path: "/assets/images/chart/IPAD-PRO4th_chart.png"
         </tr><tr>
         <td>Apple 정품 2022 아이패드 프로 11 4세대 M2칩 스페이스그레이 256gb wi-fi + cellular</td>
         <td>256gbCellular</td>
-        <td>1,520,000원</td>
+        <td>1,431,000원</td>
         <td><a href='https://link.coupang.com/a/SA5Hm' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>Apple 정품 2022 아이패드 프로 11 4세대 M2칩 스페이스그레이 512gb wi-fi</td>
@@ -126,7 +126,7 @@ chart_path: "/assets/images/chart/IPAD-PRO4th_chart.png"
         </tr><tr>
         <td>Apple 정품 2022 아이패드 프로 11 4세대 M2칩 실버 128gb wi-fi + cellular</td>
         <td>128gbCellular</td>
-        <td>1,353,660원</td>
+        <td>1,385,660원</td>
         <td><a href='https://link.coupang.com/a/SA53O' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>Apple 정품 2022 아이패드 프로 11 4세대 M2칩 실버  256gb wi-fi</td>
@@ -151,7 +151,7 @@ chart_path: "/assets/images/chart/IPAD-PRO4th_chart.png"
         </tr><tr>
         <td>Apple 정품 2022 아이패드 프로 11 4세대 M2칩 실버 1tb wi-fi</td>
         <td>1tbWifi</td>
-        <td>2,161,060원</td>
+        <td>2,026,060원</td>
         <td><a href='https://link.coupang.com/a/SA6fu' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>Apple 정품 2022 아이패드 프로 11 4세대 M2칩 실버 1tb wi-fi+ cellular</td>
