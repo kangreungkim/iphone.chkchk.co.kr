@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-02 09:51:31 +09:00
+date: 2023-05-03 11:40:29 +09:00
 categories: [IPHONE]
 image: assets/images/iphone13/iphone13-mini.jpg
-price: "838,000"
-today: "2023-05-02"
+price: "856,520"
+today: "2023-05-03"
 featured: false
 comments: true
 title: 아이폰13 미니
@@ -34,7 +34,7 @@ chart_path: "/assets/images/chart/IPHONE13MINI_chart.png"
   <tbody><tr>
         <td>apple iphone13mini 그린 128gb </td>
         <td>128gb</td>
-        <td>864,000원</td>
+        <td>893,000원</td>
         <td><a href='https://link.coupang.com/a/SOVOH' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone13mini 레드 128gb </td>
@@ -49,12 +49,12 @@ chart_path: "/assets/images/chart/IPHONE13MINI_chart.png"
         </tr><tr>
         <td>apple iphone13mini 블루 128gb </td>
         <td>128gb</td>
-        <td>838,000원</td>
+        <td>866,000원</td>
         <td><a href='https://link.coupang.com/a/SOVXj' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone13mini 핑크 128gb </td>
         <td>128gb</td>
-        <td>838,000원</td>
+        <td>856,520원</td>
         <td><a href='https://link.coupang.com/a/SOVY5' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone13mini 그린 256gb </td>
@@ -69,7 +69,7 @@ chart_path: "/assets/images/chart/IPHONE13MINI_chart.png"
         </tr><tr>
         <td>apple iphone13mini 미드나이트 256gb </td>
         <td>256gb</td>
-        <td>961,400원</td>
+        <td>993,400원</td>
         <td><a href='https://link.coupang.com/a/SQ7tt' target='_blank'>오늘 최저가구매</a></td>
         </tr><tr>
         <td>apple iphone13mini 블루 256gb </td>

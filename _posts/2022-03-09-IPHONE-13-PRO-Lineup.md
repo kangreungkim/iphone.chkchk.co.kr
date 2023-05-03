@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-02 09:51:25 +09:00
+date: 2023-05-03 11:40:35 +09:00
 categories: [IPHONE]
 image: assets/images/iphone13/iphone13-pro.jpg
 price: "1,350,000"
-today: "2023-05-02"
+today: "2023-05-03"
 featured: false
 comments: true
 title: 아이폰13 프로

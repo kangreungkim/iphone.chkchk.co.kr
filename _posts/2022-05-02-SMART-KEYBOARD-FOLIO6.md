@@ -1,29 +1,17 @@
 ---
 layout: post
-date: 2023-05-02 13:57:26 +09:00
+date: 2023-05-03 11:42:25 +09:00
 categories: [애플키보드]
 image: assets/images/apple_parts/SMART-KEYBOARD-FOLIO6.png
-price: "272,050"
-today: "2023-05-02"
+price: "281,050"
+today: "2023-05-03"
 featured: false
 comments: true
 title: Apple 정품 Smart Keyboard Folio iPad Pro11 6세대
-author: APPLE-PARTS
+author: 애플키보드
 chart_path: "/assets/images/chart/APPLEPARTS.s_keyboard_Folio12_chart.png"
 ---
 
-{{page.today}} Apple 정품 Smart Keyboard Folio iPad Pro11 6세대 [최저가 {{page.price}}원]
-
-iPad Pro 및 iPad Air용 Smart Keyboard Folio는 필요할 땐 편리한 키보드가 되어주고, 쓰지 않을 때는 기기 앞면과 뒷면을 우아하게 감싸 보호해주죠. 두 가지 거치 각도 중 편한 각도로 조절할 수 있으며, 충전할 필요도, 페어링할 필요도 없이 키보드를 그냥 착 붙이고 바로 타이핑을 시작하기만 하면 됩니다.
-
-![앞뒤 가리지 않고 가려주는 풀사이즈 키보드.](/assets/images/apple_parts/SMART-KEYBOARD-FOLIO-2.PNG)
-
-![손 가까운 곳 친숙한 단축키들.](/assets/images/apple_parts/SMART-KEYBOARD-FOLIO-1.PNG)
-
-## Apple 정품 Smart Keyboard Folio iPad Pro11 6세대 일자별 판매가격 차트
-![alt text]({{page.chart_path}} "Apple 정품 Smart Keyboard Folio iPad Pro11 6세대 판매가격 차트")
-
-## Apple 정품 Smart Keyboard Folio iPad Pro11 6세대 {{page.today}} 판매가격
 <main>
 <table id="rwd-table-large">
   <thead>
@@ -37,7 +25,7 @@ iPad Pro 및 iPad Air용 Smart Keyboard Folio는 필요할 땐 편리한 키보�
   <tbody><tr>
         <td>Apple 정품 Smart Keyboard Folio iPad Pro12.9 6세대</td>
         <td>s_keyboard_Folio12</td>
-        <td>272,050원</td>
+        <td>281,050원</td>
         <td><a href='https://link.coupang.com/a/SG8TQ' target='_blank'>오늘 최저가구매</a></td>
         </tr></tbody>
 </table>
