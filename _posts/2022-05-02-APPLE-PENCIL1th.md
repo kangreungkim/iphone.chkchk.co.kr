@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-05-04 10:46:46 +09:00
+date: 2023-05-04 14:15:14 +09:00
 categories: [애플펜슬]
 image: assets/images/apple_parts/apple-pencil1th.png
 price: "138,570"
@@ -12,6 +12,27 @@ author: 애플펜슬
 chart_path: "/assets/images/chart/APPLEPARTS.pencil1th_chart.png"
 ---
 
+{{page.today}} 애플팬슬 1세대 최저가 {{page.price}}원
+
+Apple Pencil은 iPad의 성능을 확장시키고, 새로운 창의적 가능성을 열어줍니다. 압력과 기울기를 감지하기 때문에 선 굵기를 손쉽게 조절하고, 미세한 음영을 더하고, 다양한 예술적 효과를 가미할 수 있습니다. 기존 연필처럼 자연스러운 사용성에 픽셀 단위의 완벽한 정밀함까지 더해졌죠. 
+
+- iPad 모델(호환성)
+  - iPad Pro 12.9(2세대)
+  - iPad Pro 12.9(1세대)
+  - iPad Pro 10.5
+  - iPad Pro 9.7
+  - iPad Air(3세대)
+  - iPad(10세대)
+  - iPad(9세대)
+  - iPad(8세대)
+  - iPad(7세대)
+  - iPad(6세대)
+  - iPad mini(5세대)
+
+## 애플팬슬 1세대 일자별 판매가격 차트
+![alt text]({{page.chart_path}} "애플팬슬 1세대 판매가격 차트")
+
+## 애플팬슬 1세대 {{page.today}} 판매가격
 <main>
 <table id="rwd-table-large">
   <thead>
