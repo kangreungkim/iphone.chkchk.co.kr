@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-03 11:42:17 +09:00
+date: 2023-05-04 10:46:50 +09:00
 categories: [애플펜슬]
 image: assets/images/apple_parts/apple-pencil2th.png
-price: "167,400"
-today: "2023-05-03"
+price: "158,600"
+today: "2023-05-04"
 featured: false
 comments: true
 title: 애플팬슬 2세대
@@ -25,8 +25,8 @@ chart_path: "/assets/images/chart/APPLEPARTS.pencil2th_chart.png"
   <tbody><tr>
         <td>Apple 정품 애플펜슬 2세대</td>
         <td>pencil2th</td>
-        <td>167,400원</td>
-        <td><a href='https://link.coupang.com/a/SG8MW' target='_blank'>오늘 최저가구매</a></td>
+        <td>158,600원</td>
+        <td><a href='https://link.coupang.com/a/SG8MW' target='_blank'>최저가구매</a></td>
         </tr></tbody>
 </table>
 </main>

@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-03 11:41:02 +09:00
+date: 2023-05-04 10:45:34 +09:00
 categories: [IPHONE]
 image: assets/images/iphone-se3/iphone-se3.png
-price: "572,500"
-today: "2023-05-03"
+price: "572,140"
+today: "2023-05-04"
 featured: false
 comments: true
 title: 아이폰 SE3
@@ -37,42 +37,42 @@ chart_path: "/assets/images/chart/IPHONE-SE3_chart.png"
         <td>apple iphonese3 product red 64gb </td>
         <td>64gb</td>
         <td>639,000원</td>
-        <td><a href='https://link.coupang.com/a/SOZrL' target='_blank'>오늘 최저가구매</a></td>
+        <td><a href='https://link.coupang.com/a/SOZrL' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>apple iphonese3 스타라이트 64gb </td>
         <td>64gb</td>
-        <td>572,500원</td>
-        <td><a href='https://link.coupang.com/a/SOZuC' target='_blank'>오늘 최저가구매</a></td>
+        <td>572,140원</td>
+        <td><a href='https://link.coupang.com/a/SOZuC' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>apple iphonese3 product red 128gb </td>
         <td>128gb</td>
         <td>660,000원</td>
-        <td><a href='https://link.coupang.com/a/SOZx2' target='_blank'>오늘 최저가구매</a></td>
+        <td><a href='https://link.coupang.com/a/SOZx2' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>apple iphonese3 미드나이트 128gb </td>
         <td>128gb</td>
-        <td>709,000원</td>
-        <td><a href='https://link.coupang.com/a/SOZBl' target='_blank'>오늘 최저가구매</a></td>
+        <td>650,750원</td>
+        <td><a href='https://link.coupang.com/a/SOZBl' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>apple iphonese3 스타라이트 128gb </td>
         <td>128gb</td>
         <td>688,750원</td>
-        <td><a href='https://link.coupang.com/a/SOZJU' target='_blank'>오늘 최저가구매</a></td>
+        <td><a href='https://link.coupang.com/a/SOZJU' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>apple iphonese3 product red 256gb </td>
         <td>256gb</td>
         <td>870,000원</td>
-        <td><a href='https://link.coupang.com/a/SOZL6' target='_blank'>오늘 최저가구매</a></td>
+        <td><a href='https://link.coupang.com/a/SOZL6' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>apple iphonese3 미드나이트 256gb </td>
         <td>256gb</td>
         <td>870,000원</td>
-        <td><a href='https://link.coupang.com/a/SOZOg' target='_blank'>오늘 최저가구매</a></td>
+        <td><a href='https://link.coupang.com/a/SOZOg' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>apple iphonese3 스타라이트 256gb </td>
         <td>256gb</td>
         <td>870,000원</td>
-        <td><a href='https://link.coupang.com/a/SOZPV' target='_blank'>오늘 최저가구매</a></td>
+        <td><a href='https://link.coupang.com/a/SOZPV' target='_blank'>최저가구매</a></td>
         </tr></tbody>
 </table>
 </main>
