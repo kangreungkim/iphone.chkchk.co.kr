@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-04 10:45:43 +09:00
+date: 2023-05-08 15:04:55 +09:00
 categories: [APPLEWATCH]
 image: assets/images/applewatch/watch7.png
 price: "441,320"
-today: "2023-05-04"
+today: "2023-05-08"
 featured: false
 comments: true
 title: 애플워치7
@@ -40,7 +40,7 @@ chart_path: "/assets/images/chart/AppleWatch7_chart.png"
         </tr><tr>
         <td>Apple 워치 7 41mm GPS × 알루미늄 × 스타라이트 케이스, 퓨어플래티넘/블랙 밴드</td>
         <td>41mm_GPS</td>
-        <td>489,200원</td>
+        <td>464,740원</td>
         <td><a href='https://link.coupang.com/a/SHLT6' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 7 41mm GPS+Cellular × 스테인리스 스틸 × 골드 / 골드 밀레니즈 루프</td>
@@ -90,7 +90,7 @@ chart_path: "/assets/images/chart/AppleWatch7_chart.png"
         </tr><tr>
         <td>Apple 워치 7 45mm GPS × 알루미늄 × 그린 / 클로버 스포츠 밴드</td>
         <td>45mm_GPS</td>
-        <td>539,000원</td>
+        <td>512,050원</td>
         <td><a href='https://link.coupang.com/a/SHMgJ' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 7 45mm GPS × 알루미늄 × 미드나이트 케이스, 안트라사이트/블랙 밴드</td>
@@ -125,7 +125,7 @@ chart_path: "/assets/images/chart/AppleWatch7_chart.png"
         </tr><tr>
         <td>Apple 워치 7 45mm GPS+Cellular × 스테인리스 스틸 × 그래파이트 / 어비스블루 스포츠 밴드</td>
         <td>45mm_GPS+Cellular</td>
-        <td>909,000원</td>
+        <td>863,550원</td>
         <td><a href='https://link.coupang.com/a/SHMwc' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 7 45mm GPS+Cellular × 알루미늄 × 미드나이트 케이스, 안트라사이트/블랙 밴드</td>

@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-04 10:45:30 +09:00
+date: 2023-05-08 15:04:50 +09:00
 categories: [IPHONE]
 image: assets/images/iphone14/iphone14-promax.jpg
 price: "1,488,980"
-today: "2023-05-04"
+today: "2023-05-08"
 featured: false
 comments: true
 title: 아이폰14 프로맥스
@@ -37,12 +37,12 @@ chart_path: "/assets/images/chart/IPHONE14PROMAX_chart.png"
   <tbody><tr>
         <td>apple iphone14promax 골드 128gb </td>
         <td>128gb</td>
-        <td>1,524,000원</td>
+        <td>1,509,200원</td>
         <td><a href='https://link.coupang.com/a/SOYZQ' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14promax 딥퍼플 128gb </td>
         <td>128gb</td>
-        <td>1,549,000원</td>
+        <td>1,554,000원</td>
         <td><a href='https://link.coupang.com/a/SOY16' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14promax 스페이스블랙 128gb </td>
@@ -57,7 +57,7 @@ chart_path: "/assets/images/chart/IPHONE14PROMAX_chart.png"
         </tr><tr>
         <td>apple iphone14promax 골드 256gb </td>
         <td>256gb</td>
-        <td>1,647,870원</td>
+        <td>1,714,000원</td>
         <td><a href='https://link.coupang.com/a/SOY8s' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14promax 딥퍼플 256gb </td>

@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-04 10:45:20 +09:00
+date: 2023-05-08 15:04:46 +09:00
 categories: [IPHONE]
 image: assets/images/iphone14/iphone14-plus.jpg
-price: "1,152,000"
-today: "2023-05-04"
+price: "1,151,500"
+today: "2023-05-08"
 featured: false
 comments: true
 title: 아이폰14 플러스
@@ -34,7 +34,7 @@ chart_path: "/assets/images/chart/IPHONE14PLUS_chart.png"
   <tbody><tr>
         <td>apple iphone14plus 레드 128gb </td>
         <td>128gb</td>
-        <td>1,152,000원</td>
+        <td>1,151,500원</td>
         <td><a href='https://link.coupang.com/a/SOXMI' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14plus 미드나이트 128gb </td>
@@ -49,17 +49,17 @@ chart_path: "/assets/images/chart/IPHONE14PLUS_chart.png"
         </tr><tr>
         <td>apple iphone14plus 스타라이트 128gb </td>
         <td>128gb</td>
-        <td>1,152,000원</td>
+        <td>1,178,550원</td>
         <td><a href='https://link.coupang.com/a/SOXTi' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14plus 퍼플 128gb </td>
         <td>128gb</td>
-        <td>1,217,000원</td>
+        <td>1,152,000원</td>
         <td><a href='https://link.coupang.com/a/SOXVy' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14plus 레드 256gb </td>
         <td>256gb</td>
-        <td>1,267,000원</td>
+        <td>1,280,000원</td>
         <td><a href='https://link.coupang.com/a/SOXYu' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14plus 미드나이트 256gb </td>
@@ -84,7 +84,7 @@ chart_path: "/assets/images/chart/IPHONE14PLUS_chart.png"
         </tr><tr>
         <td>apple iphone14plus 레드 512gb </td>
         <td>512gb</td>
-        <td>1,699,000원</td>
+        <td>1,536,000원</td>
         <td><a href='https://link.coupang.com/a/SOX95' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14plus 미드나이트 512gb </td>
@@ -94,7 +94,7 @@ chart_path: "/assets/images/chart/IPHONE14PLUS_chart.png"
         </tr><tr>
         <td>apple iphone14plus 블루 512gb </td>
         <td>512gb</td>
-        <td>1,588,000원</td>
+        <td>1,536,000원</td>
         <td><a href='https://link.coupang.com/a/SOYeZ' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>apple iphone14plus 스타라이트 512gb </td>
@@ -104,7 +104,7 @@ chart_path: "/assets/images/chart/IPHONE14PLUS_chart.png"
         </tr><tr>
         <td>apple iphone14plus 퍼플 512gb </td>
         <td>512gb</td>
-        <td>1,535,500원</td>
+        <td>1,536,000원</td>
         <td><a href='https://link.coupang.com/a/SOYko' target='_blank'>최저가구매</a></td>
         </tr></tbody>
 </table>
