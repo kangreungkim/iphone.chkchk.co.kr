@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-08 15:05:29 +09:00
+date: 2023-05-09 10:14:47 +09:00
 categories: [애플키보드]
 image: assets/images/apple_parts/MAGIC-KEYBOARDpro12.png
 price: "486,450"
-today: "2023-05-08"
+today: "2023-05-09"
 featured: false
 comments: true
 title: Apple 정품 매직 키보드 iPad Pro 12.9 용

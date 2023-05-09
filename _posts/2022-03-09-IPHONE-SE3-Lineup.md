@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-08 15:04:52 +09:00
+date: 2023-05-09 10:14:17 +09:00
 categories: [IPHONE]
 image: assets/images/iphone-se3/iphone-se3.png
-price: "578,320"
-today: "2023-05-08"
+price: "578,500"
+today: "2023-05-09"
 featured: false
 comments: true
 title: 아이폰 SE3
@@ -41,7 +41,7 @@ chart_path: "/assets/images/chart/IPHONE-SE3_chart.png"
         </tr><tr>
         <td>apple iphonese3 스타라이트 64gb </td>
         <td>64gb</td>
-        <td>578,320원</td>
+        <td>578,500원</td>
         <td><a href='https://link.coupang.com/a/SOZuC' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>apple iphonese3 product red 128gb </td>
@@ -51,7 +51,7 @@ chart_path: "/assets/images/chart/IPHONE-SE3_chart.png"
         </tr><tr>
         <td>apple iphonese3 미드나이트 128gb </td>
         <td>128gb</td>
-        <td>635,350원</td>
+        <td>620,500원</td>
         <td><a href='https://link.coupang.com/a/SOZBl' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>apple iphonese3 스타라이트 128gb </td>

@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-08 15:04:55 +09:00
+date: 2023-05-09 10:14:20 +09:00
 categories: [APPLEWATCH]
 image: assets/images/applewatch/watch7.png
 price: "441,320"
-today: "2023-05-08"
+today: "2023-05-09"
 featured: false
 comments: true
 title: 애플워치7
@@ -19,6 +19,8 @@ chart_path: "/assets/images/chart/AppleWatch7_chart.png"
 배터리 수명은 전작과 동일하지만, 급속 충전이 가능합니다.
 
 ## 애플워치7 일자별 판매가격 차트
+2023.05.08 애플워치7 GPS 45mm 그린 클로버스포츠밴드 가격이 와우 타켓 추가쿠폰 발행으로 397,780원까지 내려갔습니다.
+
 ![alt text]({{page.chart_path}} "애플워치7 판매가격 차트")
 
 ## 애플워치7 {{page.today}} 판매가격

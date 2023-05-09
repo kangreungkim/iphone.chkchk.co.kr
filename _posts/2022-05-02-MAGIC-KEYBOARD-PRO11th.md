@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-08 15:05:27 +09:00
+date: 2023-05-09 10:14:46 +09:00
 categories: [애플키보드]
 image: assets/images/apple_parts/MAGIC-KEYBOARDpro11.png
 price: "420,590"
-today: "2023-05-08"
+today: "2023-05-09"
 featured: false
 comments: true
 title: Apple 정품 매직 키보드 iPad Pro 11 4세대/iPad Air 5세대용
