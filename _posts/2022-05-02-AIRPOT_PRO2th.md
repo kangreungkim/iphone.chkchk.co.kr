@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-09 10:14:50 +09:00
+date: 2023-05-10 10:02:55 +09:00
 categories: [에어팟]
 image: assets/images/apple_parts/apple_airpotpro2th.png
-price: "300,780"
-today: "2023-05-09"
+price: "309,780"
+today: "2023-05-10"
 featured: false
 comments: true
 title: Apple 정품 2022 에어팟 프로 2세대
@@ -46,7 +46,7 @@ chart_path: "/assets/images/chart/APPLEPARTS.airpotpro_chart.png"
   <tbody><tr>
         <td>Apple 2022 에어팟 프로 2세대 블루투스 이어폰</td>
         <td>airpotpro2022_2th</td>
-        <td>300,780원</td>
+        <td>309,780원</td>
         <td><a href='https://link.coupang.com/a/SG9be' target='_blank'>최저가구매</a></td>
         </tr></tbody>
 </table>

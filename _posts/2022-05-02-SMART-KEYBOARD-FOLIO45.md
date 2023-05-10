@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-09 10:14:41 +09:00
+date: 2023-05-10 10:02:45 +09:00
 categories: [애플키보드]
 image: assets/images/apple_parts/SMART-KEYBOARD-FOLIO45.png
-price: "257,300"
-today: "2023-05-09"
+price: "236,080"
+today: "2023-05-10"
 featured: false
 comments: true
 title: Apple 정품 Smart Keyboard Folio iPad Pro11 4세대 / Air 5세대용
@@ -37,7 +37,7 @@ iPad Pro 및 iPad Air용 Smart Keyboard Folio는 필요할 땐 편리한 키보�
   <tbody><tr>
         <td>Apple 정품 Smart Keyboard Folio iPad Pro11 4세대 / Air 5세대용</td>
         <td>s_keyboard_Folio11</td>
-        <td>257,300원</td>
+        <td>236,080원</td>
         <td><a href='https://link.coupang.com/a/SG8RV' target='_blank'>최저가구매</a></td>
         </tr></tbody>
 </table>
