@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-11 10:02:49 +09:00
+date: 2023-05-12 10:02:48 +09:00
 categories: [애플키보드]
 image: assets/images/apple_parts/MAGIC-KEYBOARD10th.png
-price: "331,900"
-today: "2023-05-11"
+price: "344,900"
+today: "2023-05-12"
 featured: false
 comments: true
 title: Apple 정품 Smart Keyboard Folio iPad 10세대용
@@ -40,7 +40,7 @@ iPad(10세대)와 찰떡궁합인 Magic Keyboard Folio. 놀라운 타이핑 경�
   <tbody><tr>
         <td>Apple 정품 매직 키보드 폴리오 iPad 10세대용</td>
         <td>m_keyboard_10th</td>
-        <td>331,900원</td>
+        <td>344,900원</td>
         <td><a href='https://link.coupang.com/a/SG8VJ' target='_blank'>최저가구매</a></td>
         </tr></tbody>
 </table>
