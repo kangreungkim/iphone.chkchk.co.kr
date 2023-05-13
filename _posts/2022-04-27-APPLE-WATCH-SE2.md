@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-12 10:02:29 +09:00
+date: 2023-05-13 10:02:29 +09:00
 categories: [APPLEWATCH]
 image: assets/images/applewatch/watchse2.png
 price: "313,500"
-today: "2023-05-12"
+today: "2023-05-13"
 featured: false
 comments: true
 title: 애플워치SE2
@@ -92,7 +92,7 @@ SE2는 고중력 가속도계와 향상된 자이로스코프를 제공하며, �
         </tr><tr>
         <td>Apple 워치 se2 44mm GPS+Cellular × 알루미늄 × 실버 / 화이트  스포츠밴드</td>
         <td>44mm_GPS+Cellular</td>
-        <td>444,000원</td>
+        <td>449,000원</td>
         <td><a href='https://link.coupang.com/a/TeRyA' target='_blank'>최저가구매</a></td>
         </tr></tbody>
 </table>

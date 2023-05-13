@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-12 10:02:26 +09:00
+date: 2023-05-13 10:02:26 +09:00
 categories: [APPLEWATCH]
 image: assets/images/applewatch/watchultra.png
-price: "1,014,790"
-today: "2023-05-12"
+price: "1,004,220"
+today: "2023-05-13"
 featured: false
 comments: true
 title: 애플워치울트라
@@ -40,17 +40,17 @@ chart_path: "/assets/images/chart/AppleWatchUltra_chart.png"
   <tbody><tr>
         <td>Apple 워치 ultra 49mm GPS+Cellular × 티타늄 × 미드나이트 / regular 오션 밴드</td>
         <td>49mm_GPS+Cellular</td>
-        <td>1,104,530원</td>
+        <td>1,079,530원</td>
         <td><a href='https://link.coupang.com/a/Tfl1n' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 ultra 49mm GPS+Cellular × 티타늄 × 옐로 /  regular 오션 밴드</td>
         <td>49mm_GPS+Cellular</td>
-        <td>1,079,630원</td>
+        <td>1,079,550원</td>
         <td><a href='https://link.coupang.com/a/TfmbM' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 ultra 49mm GPS+Cellular × 티타늄 × 화이트 /  regular 오션 밴드</td>
         <td>49mm_GPS+Cellular</td>
-        <td>1,079,530원</td>
+        <td>1,079,550원</td>
         <td><a href='https://link.coupang.com/a/TfmjS' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 ultra 49mm GPS+Cellular × 티타늄 × 그린 /  large 알파인 루프</td>
@@ -85,7 +85,7 @@ chart_path: "/assets/images/chart/AppleWatchUltra_chart.png"
         </tr><tr>
         <td>Apple 워치 ultra 49mm GPS+Cellular × 티타늄 × 오렌지 /  large 알파인 루프</td>
         <td>49mm_GPS+Cellular</td>
-        <td>1,080,000원</td>
+        <td>1,079,630원</td>
         <td><a href='https://link.coupang.com/a/TfnbR' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 ultra 49mm GPS+Cellular × 티타늄 × 오렌지 /  medium 알파인 루프</td>
@@ -105,7 +105,7 @@ chart_path: "/assets/images/chart/AppleWatchUltra_chart.png"
         </tr><tr>
         <td>Apple 워치 ultra 49mm GPS+Cellular × 티타늄 × 블랙그레이 / s/m 트레일 루프</td>
         <td>49mm_GPS+Cellular</td>
-        <td>1,046,080원</td>
+        <td>1,004,220원</td>
         <td><a href='https://link.coupang.com/a/TfnB3' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 ultra 49mm GPS+Cellular × 티타늄 × 블루그레이 / m/l 트레일 루프</td>
