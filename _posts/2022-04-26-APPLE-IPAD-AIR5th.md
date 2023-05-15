@@ -1,13 +1,13 @@
 ---
 layout: post
-date: 2023-05-15 10:11:00 +09:00
+date: 2023-05-15 10:15:40 +09:00
 categories: [IPAD]
 image: assets/images/ipad/ipadair5th.png
 price: "985,340"
 today: "2023-05-15"
 featured: false
 comments: true
-title: 아이패드 에어5세대  셀룰러
+title: 아이패드 에어5세대
 author: IPAD
 chart_path2: "/assets/images/chart/IPAD-AIR5th.Cellular_chart2.png"
 chart_path: "/assets/images/chart/IPAD-AIR5th.Wifi_chart.png"

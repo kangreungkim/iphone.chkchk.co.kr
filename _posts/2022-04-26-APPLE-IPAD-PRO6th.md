@@ -1,13 +1,13 @@
 ---
 layout: post
-date: 2023-05-15 10:11:04 +09:00
+date: 2023-05-15 10:15:44 +09:00
 categories: [IPAD]
 image: assets/images/ipad/ipadpro6th.png
 price: "1,720,900"
 today: "2023-05-15"
 featured: false
 comments: true
-title: 아이패드 프로 12.9인치 6세대  셀룰러
+title: 아이패드 프로 12.9인치 6세대
 author: IPAD
 chart_path2: "/assets/images/chart/IPAD-PRO6th.Cellular_chart2.png"
 chart_path: "/assets/images/chart/IPAD-PRO6th.Wifi_chart.png"

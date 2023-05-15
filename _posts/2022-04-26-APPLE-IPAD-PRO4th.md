@@ -1,13 +1,13 @@
 ---
 layout: post
-date: 2023-05-15 10:10:56 +09:00
+date: 2023-05-15 10:15:36 +09:00
 categories: [IPAD]
 image: assets/images/ipad/ipadpro4th.png
 price: "1,291,050"
 today: "2023-05-15"
 featured: false
 comments: true
-title: 아이패드 프로 11인치 4세대  셀룰러
+title: 아이패드 프로 11인치 4세대
 author: IPAD
 chart_path2: "/assets/images/chart/IPAD-PRO4th.Cellular_chart2.png"
 chart_path: "/assets/images/chart/IPAD-PRO4th.Wifi_chart.png"
