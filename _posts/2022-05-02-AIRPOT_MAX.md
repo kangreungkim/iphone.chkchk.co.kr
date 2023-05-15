@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-05-15 10:02:59 +09:00
+date: 2023-05-15 10:11:23 +09:00
 categories: [에어팟]
 image: assets/images/apple_parts/apple_airpotmax.png
 price: "678,250"

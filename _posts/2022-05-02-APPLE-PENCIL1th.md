@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-05-15 10:02:45 +09:00
+date: 2023-05-15 10:11:06 +09:00
 categories: [애플펜슬]
 image: assets/images/apple_parts/apple-pencil1th.png
 price: "138,570"
