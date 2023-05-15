@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-05-15 09:48:32 +09:00
+date: 2023-05-15 09:55:40 +09:00
 categories: [IPAD]
 image: assets/images/ipad/ipadpro4th.png
 price: "1,291,050"
