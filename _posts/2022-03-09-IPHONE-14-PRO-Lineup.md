@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-05-15 09:55:20 +09:00
+date: 2023-05-15 10:02:20 +09:00
 categories: [IPHONE]
 image: assets/images/iphone14/iphone14-pro.png
 price: "1,297,500"
