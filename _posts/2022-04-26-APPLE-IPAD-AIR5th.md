@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-14 10:02:38 +09:00
+date: 2023-05-15 09:48:35 +09:00
 categories: [IPAD]
 image: assets/images/ipad/ipadair5th.png
 price: "985,340"
-today: "2023-05-14"
+today: "2023-05-15"
 featured: false
 comments: true
 title: 아이패드 에어5세대  셀룰러
@@ -13,6 +13,52 @@ chart_path2: "/assets/images/chart/IPAD-AIR5th.Cellular_chart2.png"
 chart_path: "/assets/images/chart/IPAD-AIR5th.Wifi_chart.png"
 ---
 
+{{page.today}} 아이패드 에어 5세대 최저가 {{page.price}}원
+
+아이패드 프로 5세대에 비해 저렴한 가격 경쟁력,
+아이패드 프로 5세대 보다 가격적인 면에서 더 저렴한 것이 큰 강점이기도 합니다. 같은 M1 칩을 탑재하는 것 외에도, 애플 펜슬 2, 매직 키보드, 스마트 폴리오 키보드, 그리고 아이패드 프로 5세대에서 사용할 수 있는 다른 모든 장치들에 대한 기본 지원도 가능한 것 또한 가성비면에서 뛰어난 성능을 보여 준다는 것을 말합니다.
+
+<main>
+<P>아이패드 무엇을 사야할지 고민이라면</P>
+<table id="rwd-table">
+  <thead>
+    <tr>
+      <th>제품명</th>
+      <th>설명</th>
+      <th>제품링크</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+       <td>아이패드 10세대</td>
+       <td>저렴한 가격 / 무난한 성능(중고등학생)</td>
+       <td><a href='/APPLE-IPAD-10th/'>아이패드 10</a></td>
+    </tr>
+    <tr>
+       <td>아이패드 에어 5세대</td>
+       <td>가성비 최고, 갖출건 다 갖춘 베스트 셀러(고등학생/대학생)</td>
+       <td><a href='/APPLE-IPAD-AIR5th/'>아이패드 에어 5세대</a></td>
+    </tr>
+    <tr>
+       <td>아이패드 프로 11인치 4세대</td>
+       <td>압도적인 성능 / 비싼가격</td>
+       <td><a href='/APPLE-IPAD-PRO4th/'>아이패드 프로 4세대</a></td>
+    </tr>
+    <tr>
+       <td>아이패드 프로 12.9인치 6세대</td>
+       <td>리퀴드 레티나 XDR 디스플레이가 적용된 모델</td>
+       <td><a href='/APPLE-IPAD-PRO6th/'>아이패드 프로 6세대</a></td>
+    </tr>
+  </tbody>
+</table>
+</main>
+
+
+## 아이패드 에어 5세대 일자별 판매가격 차트
+![alt text]({{page.chart_path}} "아이패드 에어 5세대 Wifi 판매가격 차트")
+![alt text]({{page.chart_path2}} "아이패드 에어 5세대 Cellular 판매가격 차트")
+
+## 아이패드 에어 5세대 {{page.today}} 판매가격
 <main>
 <table id="rwd-table-large">
   <thead>
@@ -26,7 +72,7 @@ chart_path: "/assets/images/chart/IPAD-AIR5th.Wifi_chart.png"
   <tbody><tr>
         <td>Apple 2022 아이패드 에어 5세대 블루 64gb wi-fi</td>
         <td>64gbWifi</td>
-        <td>797,900원</td>
+        <td>840,000원</td>
         <td><a href='https://link.coupang.com/a/SAerg' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 2022 아이패드 에어 5세대 블루 64gb wi-fi + cellular</td>
@@ -36,7 +82,7 @@ chart_path: "/assets/images/chart/IPAD-AIR5th.Wifi_chart.png"
         </tr><tr>
         <td>Apple 2022 아이패드 에어 5세대 블루  256gb wi-fi</td>
         <td>256gbWifi</td>
-        <td>1,043,500원</td>
+        <td>1,042,500원</td>
         <td><a href='https://link.coupang.com/a/SAez7' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 2022 아이패드 에어 5세대 블루 256gb wi-fi + cellular</td>

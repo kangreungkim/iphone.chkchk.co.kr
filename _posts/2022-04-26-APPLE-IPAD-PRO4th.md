@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-14 10:02:35 +09:00
+date: 2023-05-15 09:48:32 +09:00
 categories: [IPAD]
 image: assets/images/ipad/ipadpro4th.png
 price: "1,291,050"
-today: "2023-05-14"
+today: "2023-05-15"
 featured: false
 comments: true
 title: 아이패드 프로 11인치 4세대  셀룰러
@@ -13,6 +13,53 @@ chart_path2: "/assets/images/chart/IPAD-PRO4th.Cellular_chart2.png"
 chart_path: "/assets/images/chart/IPAD-PRO4th.Wifi_chart.png"
 ---
 
+{{page.today}} 아이패드 프로 11인치 4세대 최저가 {{page.price}}원
+
+프로 11인치는 크기, 디자인까지 에어 5세대와 아주 흡사하여 에어5의 상위호환 포지션의 제품입니다.
+에어 5세대와 비교하자면 M1 프로세서의 후속작인 M2 프로세서가 탑재된점, 그리고 가변 120hz 주사율을 지원하는 패널로 업그레이드되었다는 점입니다.
+애플펜슬 2세대를 지원하는 에어 5세대도 부족함없는 필기경험을 제공하지만, 프로모델부터 탑재되는 120hz 주사율 패널은 더더욱 부드럽고 빠릿한 필기경험을 제공합니다.
+이 때문에 패드로 전문적인 그림/디자인 작업을하는 경우 프로기종으로 눈을 돌리는 경우가 많습니다.
+
+<main>
+<P>아이패드 무엇을 사야할지 고민이라면</P>
+<table id="rwd-table">
+  <thead>
+    <tr>
+      <th>제품명</th>
+      <th>설명</th>
+      <th>제품링크</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+       <td>아이패드 10세대</td>
+       <td>저렴한 가격 / 무난한 성능(중고등학생)</td>
+       <td><a href='/APPLE-IPAD-10th/'>아이패드 10</a></td>
+    </tr>
+    <tr>
+       <td>아이패드 에어 5세대</td>
+       <td>가성비 최고, 갖출건 다 갖춘 베스트 셀러(고등학생/대학생)</td>
+       <td><a href='/APPLE-IPAD-AIR5th/'>아이패드 에어 5세대</a></td>
+    </tr>
+    <tr>
+       <td>아이패드 프로 11인치 4세대</td>
+       <td>압도적인 성능 / 비싼가격</td>
+       <td><a href='/APPLE-IPAD-PRO4th/'>아이패드 프로 4세대</a></td>
+    </tr>
+    <tr>
+       <td>아이패드 프로 12.9인치 6세대</td>
+       <td>리퀴드 레티나 XDR 디스플레이가 적용된 모델</td>
+       <td><a href='/APPLE-IPAD-PRO6th/'>아이패드 프로 6세대</a></td>
+    </tr>
+  </tbody>
+</table>
+</main>
+
+## 아이패드 프로 11인치 4세대 일자별 판매가격 차트
+![alt text]({{page.chart_path}} "아이패드 프로 11인치 4세대 Wifi 판매가격 차트")
+![alt text]({{page.chart_path2}} "아이패드 프로 11인치 4세대 Cellular 판매가격 차트")
+
+## 아이패드 프로 11인치 4세대 {{page.today}} 판매가격
 <main>
 <table id="rwd-table-large">
   <thead>
