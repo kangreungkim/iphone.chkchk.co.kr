@@ -5,9 +5,160 @@
     <description>애플 최저가, 아이폰 자급제, 아이패드 최저가, 애플워치 최저가</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 15 May 2023 10:12:13 +0900</pubDate>
-    <lastBuildDate>Mon, 15 May 2023 10:12:13 +0900</lastBuildDate>
+    <pubDate>Mon, 15 May 2023 13:21:28 +0900</pubDate>
+    <lastBuildDate>Mon, 15 May 2023 13:21:28 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>코스트코 매장 애플 제품</title>
+        <description>&lt;p style=&quot;font-size:15px&quot;&gt;아래 코스트코 판매 제품은 매장마다 재고 차이가 있을 수 있습니다.
+제품 조사는 코스트코 공세점 재고사항입니다.&lt;/p&gt;
+&lt;main&gt;
+&lt;p&gt;코스트코 아이폰 판매가&lt;/p&gt;
+&lt;table id=&quot;rwd-table&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;제품명&lt;/th&gt;
+      &lt;th&gt;가격 조사일자&lt;/th&gt;
+      &lt;th&gt;판매가격&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+       &lt;td&gt;아이폰 14 PRO MAX 256GB 스파이스블랙&lt;/td&gt;
+       &lt;td&gt;2023-05-13&lt;/td&gt;
+       &lt;td&gt;1,839,000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+       &lt;td&gt;아이폰 14 PRO 256GB 딥퍼플/실버&lt;/td&gt;
+       &lt;td&gt;2023-05-13&lt;/td&gt;
+       &lt;td&gt;1,639,000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+       &lt;td&gt;아이폰 14 PLUS 128GB 블루&lt;/td&gt;
+       &lt;td&gt;2023-05-13&lt;/td&gt;
+       &lt;td&gt;1,319,000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+       &lt;td&gt;아이폰 14 128GB 블루/스타라이트&lt;/td&gt;
+       &lt;td&gt;2023-05-13&lt;/td&gt;
+       &lt;td&gt;1,219,000&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;코스트코 애플워치 판매가&lt;/p&gt;
+&lt;p style=&quot;font-size:10px&quot;&gt;- 오늘자 애플워치는 코스트코 이그제큐티브 골드 회원인 경우 5% 적립을 받을 수 있으므로 쿠팡 최저가 보다 쌉니다.&lt;br /&gt;
+- 애플워치8은 -3만원, 워치SE2 -1.6만원 할인행사중입니다.&lt;/p&gt;
+&lt;table id=&quot;rwd-table&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;제품명&lt;/th&gt;
+      &lt;th&gt;가격 조사일자&lt;/th&gt;
+      &lt;th&gt;판매가격&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+       &lt;td&gt;애플워치8 45MM GPS+CELLULAR 그라파이트&lt;/td&gt;
+       &lt;td&gt;2023-05-13&lt;/td&gt;
+       &lt;td&gt;1,029,000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+       &lt;td&gt;애플워치8 41MM GPS+CELLULAR 그라파이트&lt;/td&gt;
+       &lt;td&gt;2023-05-13&lt;/td&gt;
+       &lt;td&gt;959,000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+       &lt;td&gt;[할인행사]애플워치8 41MM GPS 미드나이트&lt;/td&gt;
+       &lt;td&gt;2023-05-13&lt;/td&gt;
+       &lt;td&gt;(579,000)549,000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+       &lt;td&gt;[할인행사]애플워치 SE2 40MM GPS 미드나이트&lt;/td&gt;
+       &lt;td&gt;2023-05-13&lt;/td&gt;
+       &lt;td&gt;(344,900)328,900&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+       &lt;td&gt;[할인행사]애플워치 SE2 44MM GPS 미드나이트&lt;/td&gt;
+       &lt;td&gt;2023-05-13&lt;/td&gt;
+       &lt;td&gt;(384,900)368,900&lt;/td&gt;
+    &lt;/tr&gt;    
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;코스트코 아이패드 판매가&lt;/p&gt;
+&lt;p style=&quot;font-size:10px&quot;&gt;- 아이패드 할인행사중입니다.&lt;/p&gt;
+&lt;table id=&quot;rwd-table&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;제품명&lt;/th&gt;
+      &lt;th&gt;가격 조사일자&lt;/th&gt;
+      &lt;th&gt;판매가격&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+       &lt;td&gt;[할인행사]아이패드 에어 5세대 256GB 블루&lt;/td&gt;
+       &lt;td&gt;2023-05-13&lt;/td&gt;
+       &lt;td&gt;(1,059,000)1,119,000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+       &lt;td&gt;[할인행사]아이패드 에어 5세대 64GB 스페이스그레이&lt;/td&gt;
+       &lt;td&gt;2023-05-13&lt;/td&gt;
+       &lt;td&gt;(829,000)889,000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+       &lt;td&gt;아이패드 10세대 64GB 실버/핑크&lt;/td&gt;
+       &lt;td&gt;2023-05-13&lt;/td&gt;
+       &lt;td&gt;649,000&lt;/td&gt;
+    &lt;/tr&gt;    
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;코스트코 에어팟/에어팟MAX 판매가&lt;/p&gt;
+&lt;table id=&quot;rwd-table&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;제품명&lt;/th&gt;
+      &lt;th&gt;가격 조사일자&lt;/th&gt;
+      &lt;th&gt;판매가격&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+       &lt;td&gt;애플 에어팟 프로 2세대&lt;/td&gt;
+       &lt;td&gt;2023-05-13&lt;/td&gt;
+       &lt;td&gt;329,000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+       &lt;td&gt;애플 에어팟 3세대&lt;/td&gt;
+       &lt;td&gt;2023-05-13&lt;/td&gt;
+       &lt;td&gt;238,900&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+       &lt;td&gt;애플 에어팟 2세대(유선충전)&lt;/td&gt;
+       &lt;td&gt;2023-05-13&lt;/td&gt;
+       &lt;td&gt;175,900&lt;/td&gt;
+    &lt;/tr&gt; 
+    &lt;tr&gt;
+       &lt;td&gt;애플 에어팟 MAX 스페이스그레이/실버&lt;/td&gt;
+       &lt;td&gt;2023-05-13&lt;/td&gt;
+       &lt;td&gt;699,000&lt;/td&gt;
+    &lt;/tr&gt;           
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;/main&gt;
+</description>
+        <pubDate>Mon, 15 May 2023 11:15:40 +0900</pubDate>
+        <link>http://localhost:4000/COSTCO-APPLE/</link>
+        <guid isPermaLink="true">http://localhost:4000/COSTCO-APPLE/</guid>
+        
+        
+        <category>코스트코</category>
+        
+      </item>
     
       <item>
         <title>Apple 에어팟 맥스 블루투스 헤드셋</title>
@@ -66,7 +217,7 @@ AirPods Max는 하이파이 오디오와 업계 최고 수준의 액티브 노�
 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
 &lt;/div&gt;
 </description>
-        <pubDate>Mon, 15 May 2023 10:11:23 +0900</pubDate>
+        <pubDate>Mon, 15 May 2023 10:16:04 +0900</pubDate>
         <link>http://localhost:4000/AIRPOT_MAX/</link>
         <guid isPermaLink="true">http://localhost:4000/AIRPOT_MAX/</guid>
         
@@ -121,7 +272,7 @@ AirPods Max는 하이파이 오디오와 업계 최고 수준의 액티브 노�
 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
 &lt;/div&gt;
 </description>
-        <pubDate>Mon, 15 May 2023 10:11:21 +0900</pubDate>
+        <pubDate>Mon, 15 May 2023 10:16:03 +0900</pubDate>
         <link>http://localhost:4000/AIRPOT_PRO2th/</link>
         <guid isPermaLink="true">http://localhost:4000/AIRPOT_PRO2th/</guid>
         
@@ -172,7 +323,7 @@ AirPods Max는 하이파이 오디오와 업계 최고 수준의 액티브 노�
 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
 &lt;/div&gt;
 </description>
-        <pubDate>Mon, 15 May 2023 10:11:19 +0900</pubDate>
+        <pubDate>Mon, 15 May 2023 10:16:01 +0900</pubDate>
         <link>http://localhost:4000/AIRPOT3th/</link>
         <guid isPermaLink="true">http://localhost:4000/AIRPOT3th/</guid>
         
@@ -226,7 +377,7 @@ AirPods Max는 하이파이 오디오와 업계 최고 수준의 액티브 노�
 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
 &lt;/div&gt;
 </description>
-        <pubDate>Mon, 15 May 2023 10:11:18 +0900</pubDate>
+        <pubDate>Mon, 15 May 2023 10:15:59 +0900</pubDate>
         <link>http://localhost:4000/MAGIC-KEYBOARD-PRO12th/</link>
         <guid isPermaLink="true">http://localhost:4000/MAGIC-KEYBOARD-PRO12th/</guid>
         
@@ -282,7 +433,7 @@ AirPods Max는 하이파이 오디오와 업계 최고 수준의 액티브 노�
 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
 &lt;/div&gt;
 </description>
-        <pubDate>Mon, 15 May 2023 10:11:16 +0900</pubDate>
+        <pubDate>Mon, 15 May 2023 10:15:57 +0900</pubDate>
         <link>http://localhost:4000/MAGIC-KEYBOARD-PRO11th/</link>
         <guid isPermaLink="true">http://localhost:4000/MAGIC-KEYBOARD-PRO11th/</guid>
         
@@ -337,7 +488,7 @@ AirPods Max는 하이파이 오디오와 업계 최고 수준의 액티브 노�
 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
 &lt;/div&gt;
 </description>
-        <pubDate>Mon, 15 May 2023 10:11:14 +0900</pubDate>
+        <pubDate>Mon, 15 May 2023 10:15:55 +0900</pubDate>
         <link>http://localhost:4000/MAGIC-KEYBOARD-PRO10th/</link>
         <guid isPermaLink="true">http://localhost:4000/MAGIC-KEYBOARD-PRO10th/</guid>
         
@@ -390,7 +541,7 @@ AirPods Max는 하이파이 오디오와 업계 최고 수준의 액티브 노�
 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
 &lt;/div&gt;
 </description>
-        <pubDate>Mon, 15 May 2023 10:11:13 +0900</pubDate>
+        <pubDate>Mon, 15 May 2023 10:15:53 +0900</pubDate>
         <link>http://localhost:4000/MAGIC-KEYBOARD10th/</link>
         <guid isPermaLink="true">http://localhost:4000/MAGIC-KEYBOARD10th/</guid>
         
@@ -435,7 +586,7 @@ AirPods Max는 하이파이 오디오와 업계 최고 수준의 액티브 노�
 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
 &lt;/div&gt;
 </description>
-        <pubDate>Mon, 15 May 2023 10:11:11 +0900</pubDate>
+        <pubDate>Mon, 15 May 2023 10:15:52 +0900</pubDate>
         <link>http://localhost:4000/SMART-KEYBOARD-FOLIO6/</link>
         <guid isPermaLink="true">http://localhost:4000/SMART-KEYBOARD-FOLIO6/</guid>
         
@@ -480,73 +631,12 @@ AirPods Max는 하이파이 오디오와 업계 최고 수준의 액티브 노�
 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
 &lt;/div&gt;
 </description>
-        <pubDate>Mon, 15 May 2023 10:11:09 +0900</pubDate>
+        <pubDate>Mon, 15 May 2023 10:15:50 +0900</pubDate>
         <link>http://localhost:4000/SMART-KEYBOARD-FOLIO45/</link>
         <guid isPermaLink="true">http://localhost:4000/SMART-KEYBOARD-FOLIO45/</guid>
         
         
         <category>애플키보드</category>
-        
-      </item>
-    
-      <item>
-        <title>애플팬슬 2세대</title>
-        <description>&lt;p&gt;2023-05-15 애플팬슬 2세대 최저가 179,340원&lt;/p&gt;
-
-&lt;p&gt;2세대 Apple Pencil은 픽셀 단위의 정밀함과 업계 최고 수준으로 짧은 지연 시간을 자랑합니다. 덕분에 그림 그리기, 스케치하기, 색칠하기, 메모 적기, PDF에 주석 달기까지 그 무엇을 하든 훌륭한 도구가 되어주죠. 게다가 진짜 연필처럼 손쉽고 자연스럽게 쓸 수 있답니다.
-또한 2세대 Apple Pencil에는 더블 탭을 지원하는 직관적인 터치 감지형 표면이 탑재되어 있어, 도구 아이콘을 찾아 헤매이지 않고도 간편하게 도구를 변경할 수 있습니다.
-iPad Pro, iPad Air, iPad mini의 디자인에 맞춰 제작된 이 Apple Pencil은 한쪽 면이 평평하기 때문에 자석처럼 부착할 수 있고, 그 상태에서 충전과 페어링도 자동으로 이루어집니다.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;iPad 모델(호환성)
-    &lt;ul&gt;
-      &lt;li&gt;iPad Pro 12.9(6세대)&lt;/li&gt;
-      &lt;li&gt;iPad Pro 12.9(5세대)&lt;/li&gt;
-      &lt;li&gt;iPad Pro 12.9(4세대)&lt;/li&gt;
-      &lt;li&gt;iPad Pro 12.9(3세대)&lt;/li&gt;
-      &lt;li&gt;iPad Pro 11(4세대)&lt;/li&gt;
-      &lt;li&gt;iPad Pro 11(3세대)&lt;/li&gt;
-      &lt;li&gt;iPad Pro 11(2세대)&lt;/li&gt;
-      &lt;li&gt;iPad Pro 11(1세대)&lt;/li&gt;
-      &lt;li&gt;iPad Air(5세대)&lt;/li&gt;
-      &lt;li&gt;iPad Air(4세대)&lt;/li&gt;
-      &lt;li&gt;iPad mini(6세대)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;애플팬슬-2세대-일자별-판매가격-차트&quot;&gt;애플팬슬 2세대 일자별 판매가격 차트&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/chart/APPLEPARTS.pencil2th_chart.png&quot; alt=&quot;alt text&quot; title=&quot;애플팬슬 2세대 판매가격 차트&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;애플팬슬-2세대-2023-05-15-판매가격&quot;&gt;애플팬슬 2세대 2023-05-15 판매가격&lt;/h2&gt;
-&lt;main&gt;
-&lt;table id=&quot;rwd-table-large&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;제품명&lt;/th&gt;
-      &lt;th&gt;SPEC&lt;/th&gt;
-      &lt;th&gt;판매가격&lt;/th&gt;
-      &lt;th&gt;제품링크&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;&lt;tr&gt;
-        &lt;td&gt;Apple 정품 애플펜슬 2세대&lt;/td&gt;
-        &lt;td&gt;pencil2th&lt;/td&gt;
-        &lt;td&gt;179,340원&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&quot;https://link.coupang.com/a/SG8MW&quot; target=&quot;_blank&quot;&gt;최저가구매&lt;/a&gt;&lt;/td&gt;
-        &lt;/tr&gt;&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/main&gt;
-&lt;div style=&quot;color:#e56a2c;font-size: 0.7em;&quot;&gt;
-이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-&lt;/div&gt;
-</description>
-        <pubDate>Mon, 15 May 2023 10:11:07 +0900</pubDate>
-        <link>http://localhost:4000/APPLE-PENCIL2th/</link>
-        <guid isPermaLink="true">http://localhost:4000/APPLE-PENCIL2th/</guid>
-        
-        
-        <category>애플펜슬</category>
         
       </item>
     

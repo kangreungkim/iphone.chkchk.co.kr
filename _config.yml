@@ -29,6 +29,11 @@ authors:
     display_name: 아이패드
     avatar: 'assets/images/avatar_ipad.png'
     description: "스피커가 4개나 탑재되어 있어서 영상 시청을 하거나 음악 감상 시 사운드가 훌륭하다. ✔️ 라미네이팅 기능으로 인해 메모나 그림 등 필기감이 많이 우수하다. ✔️ 주사율을 120Hz까지 지원하기 때문에 화면 움직임이 매우 부드럽다."
+  COSTCO:
+    name: COSTCO
+    display_name: 코스트코
+    avatar: 'assets/images/costco/costco_avatar.jfif'
+    description: "코스트코 애플 아이폰/아이패드 제품이 오프라인 최저가인 사실 아셨나요? 세일에 코스트코 적립 5%까지 더하면 쿠팡가격보다 쌀때도 있습니다."
 
 # Plugins
 plugins:
