@@ -5,8 +5,8 @@
     <description>애플 최저가, 아이폰 자급제, 아이패드 최저가, 애플워치 최저가</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 15 May 2023 13:25:18 +0900</pubDate>
-    <lastBuildDate>Mon, 15 May 2023 13:25:18 +0900</lastBuildDate>
+    <pubDate>Mon, 15 May 2023 13:35:58 +0900</pubDate>
+    <lastBuildDate>Mon, 15 May 2023 13:35:58 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
