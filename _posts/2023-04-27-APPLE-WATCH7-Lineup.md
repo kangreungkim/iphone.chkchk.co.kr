@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-17 10:02:25 +09:00
+date: 2023-05-18 10:02:25 +09:00
 categories: [APPLEWATCH]
 image: assets/images/applewatch/watch7.png
 price: "441,320"
-today: "2023-05-17"
+today: "2023-05-18"
 featured: false
 comments: true
 title: 애플워치7
