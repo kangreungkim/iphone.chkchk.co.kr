@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-19 10:02:50 +09:00
+date: 2023-05-20 10:02:51 +09:00
 categories: [애플키보드]
 image: assets/images/apple_parts/MAGIC-KEYBOARDpro10.png
-price: "217,240"
-today: "2023-05-19"
+price: "222,240"
+today: "2023-05-20"
 featured: false
 comments: true
 title: Apple 정품 매직 키보드 iPad Smart Keyboard pro 10세대/iPad 9세대/iPad Air 3세대용
@@ -42,7 +42,7 @@ chart_path: "/assets/images/chart/APPLEPARTS.m_keyboard_p10_chart.png"
   <tbody><tr>
         <td>Apple 정품 iPad Smart Keyboard pro 10세대/iPad 9세대/iPad Air 3세대용</td>
         <td>m_keyboard_p10</td>
-        <td>217,240원</td>
+        <td>222,240원</td>
         <td><a href='https://link.coupang.com/a/SG81s' target='_blank'>최저가구매</a></td>
         </tr></tbody>
 </table>
