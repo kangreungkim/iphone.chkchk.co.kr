@@ -1,7 +1,7 @@
 # Site
 name: "애플 CHKCHK(첵첵)"
 title: "애플 판매 가격 동향"
-description: "애플 최저가, 아이폰 자급제, 아이패드 최저가, 애플워치 최저가"
+description: "애플 아이폰 자급제, 아이패드, 애플워치, 갤럭시S23 자급제, 갤럭시탭 S8 "
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 url: 'http://www.chkchk.co.kr'
@@ -34,6 +34,11 @@ authors:
     display_name: 코스트코
     avatar: 'assets/images/costco/costco_avatar.jfif'
     description: "코스트코 애플 아이폰/아이패드 제품이 오프라인 최저가인 사실 아셨나요? 세일에 코스트코 적립 5%까지 더하면 쿠팡가격보다 쌀때도 있습니다."
+  GALAXY:
+    name: GALAXY
+    display_name: 갤럭시
+    avatar: 'assets/images/galaxy/galaxy.png'
+    description: "삼성 갤럭시"    
 
 # Plugins
 plugins:
