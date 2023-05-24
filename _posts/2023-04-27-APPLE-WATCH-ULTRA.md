@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-23 10:02:27 +09:00
+date: 2023-05-24 10:02:27 +09:00
 categories: [APPLEWATCH]
 image: assets/images/applewatch/watchultra.png
 price: "1,015,530"
-today: "2023-05-23"
+today: "2023-05-24"
 featured: false
 comments: true
 title: 애플워치울트라
@@ -55,12 +55,12 @@ chart_path: "/assets/images/chart/AppleWatchUltra_chart.png"
         </tr><tr>
         <td>Apple 워치 ultra 49mm GPS+Cellular × 티타늄 × 그린 /  large 알파인 루프</td>
         <td>49mm_GPS+Cellular</td>
-        <td>1,025,530원</td>
+        <td>1,015,530원</td>
         <td><a href='https://link.coupang.com/a/Tfmsb' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 ultra 49mm GPS+Cellular × 티타늄 × 그린 /  medium 알파인 루프</td>
         <td>49mm_GPS+Cellular</td>
-        <td>1,036,570원</td>
+        <td>1,015,570원</td>
         <td><a href='https://link.coupang.com/a/Tfmzc' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 ultra 49mm GPS+Cellular × 티타늄 × 그린 / small 알파인 루프</td>
@@ -70,12 +70,12 @@ chart_path: "/assets/images/chart/AppleWatchUltra_chart.png"
         </tr><tr>
         <td>Apple 워치 ultra 49mm GPS+Cellular × 티타늄 × 스타라이트 /  large 알파인 루프</td>
         <td>49mm_GPS+Cellular</td>
-        <td>1,025,530원</td>
+        <td>1,015,530원</td>
         <td><a href='https://link.coupang.com/a/TfmL2' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 ultra 49mm GPS+Cellular × 티타늄 × 스타라이트 /  medium 알파인 루프</td>
         <td>49mm_GPS+Cellular</td>
-        <td>1,057,570원</td>
+        <td>1,015,570원</td>
         <td><a href='https://link.coupang.com/a/TfmVZ' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 ultra 49mm GPS+Cellular × 티타늄 × 스타라이트 / small 알파인 루프</td>

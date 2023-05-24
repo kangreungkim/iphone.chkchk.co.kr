@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-23 10:02:40 +09:00
+date: 2023-05-24 10:02:39 +09:00
 categories: [IPAD]
 image: assets/images/ipad/ipadair5th.png
 price: "985,340"
-today: "2023-05-23"
+today: "2023-05-24"
 featured: false
 comments: true
 title: 아이패드 에어5세대
@@ -72,7 +72,7 @@ chart_path: "/assets/images/chart/IPAD-AIR5th.Wifi_chart.png"
   <tbody><tr>
         <td>Apple 2022 아이패드 에어 5세대 블루 64gb wi-fi</td>
         <td>64gbWifi</td>
-        <td>803,690원</td>
+        <td>797,690원</td>
         <td><a href='https://link.coupang.com/a/SAerg' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 2022 아이패드 에어 5세대 블루 64gb wi-fi + cellular</td>
@@ -87,12 +87,12 @@ chart_path: "/assets/images/chart/IPAD-AIR5th.Wifi_chart.png"
         </tr><tr>
         <td>Apple 2022 아이패드 에어 5세대 블루 256gb wi-fi + cellular</td>
         <td>256gbCellular</td>
-        <td>1,296,730원</td>
+        <td>1,258,730원</td>
         <td><a href='https://link.coupang.com/a/SAeEA' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 2022 아이패드 에어 5세대 스타라이트 64gb wi-fi</td>
         <td>64gbWifi</td>
-        <td>820,000원</td>
+        <td>800,000원</td>
         <td><a href='https://link.coupang.com/a/SAeeA' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 2022 아이패드 에어 5세대 스타라이트 64gb wi-fi+ cellular</td>
@@ -107,12 +107,12 @@ chart_path: "/assets/images/chart/IPAD-AIR5th.Wifi_chart.png"
         </tr><tr>
         <td>Apple 2022 아이패드 에어 5세대 스타라이트 256gb wi-fi+ cellular</td>
         <td>256gbCellular</td>
-        <td>1,296,730원</td>
+        <td>1,258,730원</td>
         <td><a href='https://link.coupang.com/a/SAea1' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 2022 아이패드 에어 5세대 스페이스그레이 64gb wi-fi</td>
         <td>64gbWifi</td>
-        <td>820,000원</td>
+        <td>812,730원</td>
         <td><a href='https://link.coupang.com/a/SAfcf' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 2022 아이패드 에어 5세대 스페이스그레이 64gb wi-fi+ cellular</td>
@@ -127,12 +127,12 @@ chart_path: "/assets/images/chart/IPAD-AIR5th.Wifi_chart.png"
         </tr><tr>
         <td>Apple 2022 아이패드 에어 5세대 스페이스그레이 256gb wi-fi+ cellular</td>
         <td>256gbCellular</td>
-        <td>1,296,730원</td>
+        <td>1,258,730원</td>
         <td><a href='https://link.coupang.com/a/SAfme' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 2022 아이패드 에어 5세대 퍼플 64gb wi-fi</td>
         <td>64gbWifi</td>
-        <td>820,000원</td>
+        <td>815,040원</td>
         <td><a href='https://link.coupang.com/a/SAfvg' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 2022 아이패드 에어 5세대 퍼플 64gb wi-fi+ cellular</td>
@@ -152,7 +152,7 @@ chart_path: "/assets/images/chart/IPAD-AIR5th.Wifi_chart.png"
         </tr><tr>
         <td>Apple 2022 아이패드 에어 5세대 핑크 64gb wi-fi</td>
         <td>64gbWifi</td>
-        <td>820,130원</td>
+        <td>813,200원</td>
         <td><a href='https://link.coupang.com/a/SAfO5' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 2022 아이패드 에어 5세대 핑크 64gb wi-fii+ cellular</td>
