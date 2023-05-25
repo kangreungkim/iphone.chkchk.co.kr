@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-24 10:02:24 +09:00
+date: 2023-05-25 10:02:24 +09:00
 categories: [APPLEWATCH]
 image: assets/images/applewatch/watch8.png
-price: "524,100"
-today: "2023-05-24"
+price: "522,920"
+today: "2023-05-25"
 featured: false
 comments: true
 title: 애플워치8
@@ -39,17 +39,17 @@ chart_path: "/assets/images/chart/AppleWatch8_chart.png"
         </tr><tr>
         <td>Apple 워치 8 41mm GPS × 알루미늄 × 미드나이트 / 미드나이트 스포츠 밴드</td>
         <td>41mm_GPS</td>
-        <td>524,100원</td>
+        <td>522,920원</td>
         <td><a href='https://link.coupang.com/a/TetfQ' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 8 41mm GPS × 알루미늄 × 스타라이트 / 스타라이트 스포츠 밴드</td>
         <td>41mm_GPS</td>
-        <td>534,070원</td>
+        <td>529,210원</td>
         <td><a href='https://link.coupang.com/a/Tetm5' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 8 41mm GPS × 알루미늄 × 실버 / 화이트 스포츠 밴드</td>
         <td>41mm_GPS</td>
-        <td>545,920원</td>
+        <td>534,070원</td>
         <td><a href='https://link.coupang.com/a/Tetth' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 8 41mm GPS+Cellular × 스테인리스 스틸 × 골드 / 골드 밀레니즈 루프</td>
@@ -59,7 +59,7 @@ chart_path: "/assets/images/chart/AppleWatch8_chart.png"
         </tr><tr>
         <td>Apple 워치 8 41mm GPS+Cellular × 스테인리스 스틸 × 그래파이트 / 그래파이트 밀레니즈 루프</td>
         <td>41mm_GPS+Cellular</td>
-        <td>955,170원</td>
+        <td>984,170원</td>
         <td><a href='https://link.coupang.com/a/TetHA' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 8 41mm GPS+Cellular × 스테인리스 스틸 × 실버 / 실버 밀레니즈 루프</td>
@@ -69,17 +69,17 @@ chart_path: "/assets/images/chart/AppleWatch8_chart.png"
         </tr><tr>
         <td>Apple 워치 8 41mm GPS+Cellular × 스테인리스 스틸 × 골드 / 스타라이트 스포츠 밴드</td>
         <td>41mm_GPS+Cellular</td>
-        <td>892,030원</td>
+        <td>934,030원</td>
         <td><a href='https://link.coupang.com/a/TetUP' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 8 41mm GPS+Cellular × 스테인리스 스틸 × 그래파이트 / 미드나이트 스포츠 밴드</td>
         <td>41mm_GPS+Cellular</td>
-        <td>892,070원</td>
+        <td>910,480원</td>
         <td><a href='https://link.coupang.com/a/Tet29' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 8 41mm GPS+Cellular × 스테인리스 스틸 × 실버 / 화이트 스포츠 밴드</td>
         <td>41mm_GPS+Cellular</td>
-        <td>892,860원</td>
+        <td>949,000원</td>
         <td><a href='https://link.coupang.com/a/Tet8E' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 8 41mm GPS+Cellular × 알루미늄 × product red / 레드 스포츠 밴드</td>
@@ -89,12 +89,12 @@ chart_path: "/assets/images/chart/AppleWatch8_chart.png"
         </tr><tr>
         <td>Apple 워치 8 41mm GPS+Cellular × 알루미늄 × 미드나이트 / 미드나이트 스포츠 밴드</td>
         <td>41mm_GPS+Cellular</td>
-        <td>655,100원</td>
+        <td>667,100원</td>
         <td><a href='https://link.coupang.com/a/Teuq3' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 8 41mm GPS+Cellular × 알루미늄 × 스타라이트 / 스타라이트 스포츠 밴드</td>
         <td>41mm_GPS+Cellular</td>
-        <td>711,550원</td>
+        <td>711,000원</td>
         <td><a href='https://link.coupang.com/a/Teu34' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 8 41mm GPS+Cellular × 알루미늄 × 실버 / 화이트 스포츠 밴드</td>
@@ -114,17 +114,17 @@ chart_path: "/assets/images/chart/AppleWatch8_chart.png"
         </tr><tr>
         <td>Apple 워치 8 45mm GPS × 알루미늄 × 스타라이트 / 스타라이트 스포츠 밴드</td>
         <td>45mm_GPS</td>
-        <td>559,100원</td>
+        <td>570,100원</td>
         <td><a href='https://link.coupang.com/a/TevxI' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 8 45mm GPS × 알루미늄 × 실버 / 화이트 스포츠 밴드</td>
         <td>45mm_GPS</td>
-        <td>564,550원</td>
+        <td>547,270원</td>
         <td><a href='https://link.coupang.com/a/TevC7' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 8 45mm GPS+Cellular × 스테인리스 스틸 × 골드 / 골드 밀레니즈 루프</td>
         <td>45mm_GPS+Cellular</td>
-        <td>1,016,660원</td>
+        <td>1,016,700원</td>
         <td><a href='https://link.coupang.com/a/TevIm' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 8 45mm GPS+Cellular × 스테인리스 스틸 × 그래파이트 / 그래파이트 밀레니즈 루프</td>
@@ -134,7 +134,7 @@ chart_path: "/assets/images/chart/AppleWatch8_chart.png"
         </tr><tr>
         <td>Apple 워치 8 45mm GPS+Cellular × 스테인리스 스틸 × 실버 / 실버 밀레니즈 루프</td>
         <td>45mm_GPS+Cellular</td>
-        <td>1,006,400원</td>
+        <td>1,016,660원</td>
         <td><a href='https://link.coupang.com/a/TevRD' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 8 45mm GPS+Cellular × 스테인리스 스틸 × 골드 / 스타라이트 스포츠 밴드</td>
@@ -144,12 +144,12 @@ chart_path: "/assets/images/chart/AppleWatch8_chart.png"
         </tr><tr>
         <td>Apple 워치 8 45mm GPS+Cellular × 스테인리스 스틸 × 그래파이트 / 미드나이트 스포츠 밴드</td>
         <td>45mm_GPS+Cellular</td>
-        <td>955,170원</td>
+        <td>984,170원</td>
         <td><a href='https://link.coupang.com/a/Tev3P' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 8 45mm GPS+Cellular × 스테인리스 스틸 × 실버 / 화이트 스포츠 밴드</td>
         <td>45mm_GPS+Cellular</td>
-        <td>945,230원</td>
+        <td>953,860원</td>
         <td><a href='https://link.coupang.com/a/Tev63' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 8 45mm GPS+Cellular × product red / 레드 스포츠 밴드</td>
@@ -164,12 +164,12 @@ chart_path: "/assets/images/chart/AppleWatch8_chart.png"
         </tr><tr>
         <td>Apple 워치 8 45mm GPS+Cellular × 스타라이트 / 스타라이트 스포츠 밴드</td>
         <td>45mm_GPS+Cellular</td>
-        <td>704,290원</td>
+        <td>724,000원</td>
         <td><a href='https://link.coupang.com/a/TewnL' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 워치 8 45mm GPS+Cellular × 실버 / 화이트 스포츠 밴드</td>
         <td>45mm_GPS+Cellular</td>
-        <td>704,770원</td>
+        <td>704,420원</td>
         <td><a href='https://link.coupang.com/a/Tewrj' target='_blank'>최저가구매</a></td>
         </tr></tbody>
 </table>
