@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-25 10:03:04 +09:00
+date: 2023-05-26 10:03:04 +09:00
 categories: [GALAXY]
 image: assets/images/galaxy/galaxy_zflip4.png
 price: "1,091,610"
-today: "2023-05-25"
+today: "2023-05-26"
 featured: false
 comments: true
 title: 갤럭시 ZFLIP4

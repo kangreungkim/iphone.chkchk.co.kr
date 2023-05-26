@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-25 10:02:13 +09:00
+date: 2023-05-26 10:02:13 +09:00
 categories: [IPHONE]
 image: assets/images/iphone13/iphone13-mini.jpg
 price: "830,300"
-today: "2023-05-25"
+today: "2023-05-26"
 featured: false
 comments: true
 title: 아이폰13 미니
@@ -39,7 +39,7 @@ chart_path: "/assets/images/chart/IPHONE13MINI_chart.png"
         </tr><tr>
         <td>apple iphone13mini 레드 128gb </td>
         <td>128gb</td>
-        <td>902,000원</td>
+        <td>884,640원</td>
         <td><a href='https://link.coupang.com/a/SOVSa' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>apple iphone13mini 미드나이트 128gb </td>
@@ -59,17 +59,17 @@ chart_path: "/assets/images/chart/IPHONE13MINI_chart.png"
         </tr><tr>
         <td>apple iphone13mini 그린 256gb </td>
         <td>256gb</td>
-        <td>1,035,400원</td>
+        <td>1,015,000원</td>
         <td><a href='https://link.coupang.com/a/SQ75I' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>apple iphone13mini 레드 256gb </td>
         <td>256gb</td>
-        <td>1,035,400원</td>
+        <td>1,015,000원</td>
         <td><a href='https://link.coupang.com/a/SQ7fL' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>apple iphone13mini 미드나이트 256gb </td>
         <td>256gb</td>
-        <td>1,025,470원</td>
+        <td>994,400원</td>
         <td><a href='https://link.coupang.com/a/SQ7tt' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>apple iphone13mini 블루 256gb </td>
@@ -99,7 +99,7 @@ chart_path: "/assets/images/chart/IPHONE13MINI_chart.png"
         </tr><tr>
         <td>apple iphone13mini 미드나이트 512gb </td>
         <td>512gb</td>
-        <td>1,211,000원</td>
+        <td>1,187,280원</td>
         <td><a href='https://link.coupang.com/a/SOWk0' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>apple iphone13mini 블루 512gb </td>
@@ -114,7 +114,7 @@ chart_path: "/assets/images/chart/IPHONE13MINI_chart.png"
         </tr><tr>
         <td>apple iphone13mini 핑크 512gb </td>
         <td>512gb</td>
-        <td>1,291,600원</td>
+        <td>1,266,430원</td>
         <td><a href='https://link.coupang.com/a/SOWqA' target='_blank'>최저가구매</a></td>
         </tr></tbody>
 </table>
