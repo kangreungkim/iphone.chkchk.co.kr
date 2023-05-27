@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-26 10:03:04 +09:00
+date: 2023-05-27 10:03:05 +09:00
 categories: [GALAXY]
 image: assets/images/galaxy/galaxy_zflip4.png
-price: "1,091,610"
-today: "2023-05-26"
+price: "1,076,020"
+today: "2023-05-27"
 featured: false
 comments: true
 title: 갤럭시 ZFLIP4
@@ -51,7 +51,7 @@ chart_path: "/assets/images/chart/GALAXY-ZFLIP4_chart.png"
         </tr><tr>
         <td>갤럭시폰zflip4 핑크골드 512gb</td>
         <td>512gb</td>
-        <td>1,179,200원</td>
+        <td>1,076,020원</td>
         <td><a href='https://link.coupang.com/a/SHIZg' target='_blank'>최저가구매</a></td>
         </tr></tbody>
 </table>
