@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-27 10:02:28 +09:00
+date: 2023-05-28 10:02:28 +09:00
 categories: [APPLEWATCH]
 image: assets/images/applewatch/watchultra.png
 price: "994,660"
-today: "2023-05-27"
+today: "2023-05-28"
 featured: false
 comments: true
 title: 애플워치울트라

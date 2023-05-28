@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-27 10:02:34 +09:00
+date: 2023-05-28 10:02:34 +09:00
 categories: [IPAD]
 image: assets/images/ipad/ipad10th.png
 price: "836,480"
-today: "2023-05-27"
+today: "2023-05-28"
 featured: false
 comments: true
 title: 아이패드 10세대[2022] 셀룰러

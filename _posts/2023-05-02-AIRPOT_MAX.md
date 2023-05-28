@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-27 10:02:59 +09:00
+date: 2023-05-28 10:02:59 +09:00
 categories: [에어팟]
 image: assets/images/apple_parts/apple_airpotmax.png
 price: "680,770"
-today: "2023-05-27"
+today: "2023-05-28"
 featured: false
 comments: true
 title: Apple 에어팟 맥스 블루투스 헤드셋

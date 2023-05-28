@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-27 10:02:37 +09:00
+date: 2023-05-28 10:02:37 +09:00
 categories: [IPAD]
 image: assets/images/ipad/ipadpro4th.png
 price: "1,316,000"
-today: "2023-05-27"
+today: "2023-05-28"
 featured: false
 comments: true
 title: 아이패드 프로 11인치 4세대
@@ -93,7 +93,7 @@ chart_path: "/assets/images/chart/IPAD-PRO4th.Wifi_chart.png"
         </tr><tr>
         <td>Apple 2022 아이패드 프로 11 4세대 M2칩 스페이스그레이 512gb wi-fi</td>
         <td>512gbWifi</td>
-        <td>1,506,030원</td>
+        <td>1,546,030원</td>
         <td><a href='https://link.coupang.com/a/SA5Jl' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 2022 아이패드 프로 11 4세대 M2칩 스페이스그레이 512gb wi-fi+ cellular</td>
@@ -123,7 +123,7 @@ chart_path: "/assets/images/chart/IPAD-PRO4th.Wifi_chart.png"
         </tr><tr>
         <td>Apple 2022 아이패드 프로 11 4세대 M2칩 실버 128gb wi-fi</td>
         <td>128gbWifi</td>
-        <td>1,086,900원</td>
+        <td>1,078,900원</td>
         <td><a href='https://link.coupang.com/a/SA51w' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 2022 아이패드 프로 11 4세대 M2칩 실버 128gb wi-fi + cellular</td>
@@ -143,7 +143,7 @@ chart_path: "/assets/images/chart/IPAD-PRO4th.Wifi_chart.png"
         </tr><tr>
         <td>Apple 2022 아이패드 프로 11 4세대 M2칩 실버 512gb wi-fi</td>
         <td>512gbWifi</td>
-        <td>1,505,550원</td>
+        <td>1,549,060원</td>
         <td><a href='https://link.coupang.com/a/SA6ay' target='_blank'>최저가구매</a></td>
         </tr><tr>
         <td>Apple 2022 아이패드 프로 11 4세대 M2칩 실버 512gb wi-fi+ cellular</td>
@@ -168,7 +168,7 @@ chart_path: "/assets/images/chart/IPAD-PRO4th.Wifi_chart.png"
         </tr><tr>
         <td>Apple 2022 아이패드 프로 11 4세대 M2칩 실버 2tb wi-fi+ cellular</td>
         <td>2tnCellular</td>
-        <td>2,804,880원</td>
+        <td>2,887,880원</td>
         <td><a href='https://link.coupang.com/a/SA6oG' target='_blank'>최저가구매</a></td>
         </tr></tbody>
 </table>

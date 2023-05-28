@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-27 10:02:58 +09:00
+date: 2023-05-28 10:02:58 +09:00
 categories: [에어팟]
 image: assets/images/apple_parts/apple_airpotpro2th.png
 price: "309,920"
-today: "2023-05-27"
+today: "2023-05-28"
 featured: false
 comments: true
 title: Apple 정품 2022 에어팟 프로 2세대
