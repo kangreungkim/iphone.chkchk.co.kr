@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-05-30 14:55:08 +09:00
+date: 2023-05-30 16:51:50 +09:00
 categories: [애플키보드]
 image: assets/images/apple_parts/MAGIC-KEYBOARD10th.png
 price: "344,900"
@@ -44,6 +44,7 @@ iPad(10세대)와 찰떡궁합인 Magic Keyboard Folio. 놀라운 타이핑 경�
         <td><a href='https://link.coupang.com/a/SG8VJ' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>
+
 </main>
 <div style="color:#e56a2c;font-size: 0.7em;" >
 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.

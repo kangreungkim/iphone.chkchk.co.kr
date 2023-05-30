@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-05-30 14:55:16 +09:00
+date: 2023-05-30 16:51:58 +09:00
 categories: [에어팟]
 image: assets/images/apple_parts/apple_airpotmax.png
 price: "680,770"
@@ -60,6 +60,7 @@ AirPods Max는 하이파이 오디오와 업계 최고 수준의 액티브 노�
         <td><a href='https://link.coupang.com/a/SG9JL' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>
+
 </main>
 <div style="color:#e56a2c;font-size: 0.7em;" >
 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.

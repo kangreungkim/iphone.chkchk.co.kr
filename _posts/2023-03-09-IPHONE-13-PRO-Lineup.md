@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-05-30 14:54:31 +09:00
+date: 2023-05-30 16:51:13 +09:00
 categories: [IPHONE]
 image: assets/images/iphone13/iphone13-pro.jpg
 price: "1,350,000"
@@ -59,6 +59,7 @@ chart_path: "/assets/images/chart/IPHONE13PRO_chart.png"
         <td><a href='https://link.coupang.com/a/SQ3q6' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>
+
 </main>
 <div style="color:#e56a2c;font-size: 0.7em;" >
 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.

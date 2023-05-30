@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-05-30 14:55:12 +09:00
+date: 2023-05-30 16:51:54 +09:00
 categories: [애플키보드]
 image: assets/images/apple_parts/MAGIC-KEYBOARDpro12.png
 price: "486,450"
@@ -45,6 +45,7 @@ Magic Keyboard는 iPad Pro 12.9의 멋진 파트너입니다. 최고의 타이�
         <td><a href='https://link.coupang.com/a/SG8ZN' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>
+
 </main>
 <div style="color:#e56a2c;font-size: 0.7em;" >
 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-05-30 14:55:22 +09:00
+date: 2023-05-30 16:52:04 +09:00
 categories: [GALAXY]
 image: assets/images/galaxy/galaxy_zflip4.png
 price: "1,091,610"
@@ -55,6 +55,7 @@ chart_path: "/assets/images/chart/GALAXY-ZFLIP4_chart.png"
         <td><a href='https://link.coupang.com/a/SHIZg' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>
+
 </main>
 <div style="color:#e56a2c;font-size: 0.7em;" >
 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.

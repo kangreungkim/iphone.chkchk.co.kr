@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-05-30 14:55:05 +09:00
+date: 2023-05-30 16:51:47 +09:00
 categories: [애플키보드]
 image: assets/images/apple_parts/SMART-KEYBOARD-FOLIO45.png
 price: "257,300"
@@ -41,6 +41,7 @@ iPad Pro 및 iPad Air용 Smart Keyboard Folio는 필요할 땐 편리한 키보�
         <td><a href='https://link.coupang.com/a/SG8RV' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>
+
 </main>
 <div style="color:#e56a2c;font-size: 0.7em;" >
 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.

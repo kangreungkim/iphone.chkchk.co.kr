@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-05-30 14:54:46 +09:00
+date: 2023-05-30 16:51:28 +09:00
 categories: [APPLEWATCH]
 image: assets/images/applewatch/watchse.png
 price: "359,000"
@@ -49,6 +49,7 @@ Apple Watch SE(GPS+Cellular)모델은 이동통신 연결을 통해 긴급 구�
         <td><a href='https://link.coupang.com/a/TeQgE' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>
+
 </main>
 <div style="color:#e56a2c;font-size: 0.7em;" >
 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
