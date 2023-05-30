@@ -5,7 +5,7 @@ categories: 코스트코
 image: assets/images/costco/costco_log.png
 price: "100,000"
 today: "2023-05-15"
-featured: true
+featured: false
 comments: true
 title: 코스트코 매장 애플 제품
 author: COSTCO
