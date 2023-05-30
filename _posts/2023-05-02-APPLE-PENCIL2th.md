@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-05-29 10:02:45 +09:00
+date: 2023-05-30 10:02:46 +09:00
 categories: [애플펜슬]
 image: assets/images/apple_parts/apple-pencil2th.png
 price: "177,340"
-today: "2023-05-29"
-featured: false
+today: "2023-05-30"
+featured: true
 comments: true
 title: 애플팬슬 2세대
 author: 애플펜슬
