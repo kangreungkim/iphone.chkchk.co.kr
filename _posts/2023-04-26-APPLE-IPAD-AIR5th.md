@@ -5,7 +5,7 @@ categories: [IPAD]
 image: assets/images/ipad/ipadair5th.png
 price: "985,340"
 today: "2023-05-30"
-featured: false
+featured: true
 comments: true
 title: 아이패드 에어5세대
 author: IPAD
