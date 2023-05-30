@@ -1,13 +1,13 @@
 ---
 layout: post
-date: 2023-05-30 14:41:26 +09:00
+date: 2023-05-30 14:54:49 +09:00
 categories: [APPLEWATCH]
 image: assets/images/applewatch/watchse2.png
 price: "344,040"
 today: "2023-05-30"
 featured: false
 comments: true
-title: 애플워치SE2 44MM
+title: 애플워치SE2
 author: APPLEWATCH
 chart_path2: "/assets/images/chart/AppleWatchSE2.44mm_chart2.png"
 chart_path: "/assets/images/chart/AppleWatchSE2.40mm_chart.png"

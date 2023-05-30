@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-05-30 14:41:58 +09:00
+date: 2023-05-30 14:55:15 +09:00
 categories: [에어팟]
 image: assets/images/apple_parts/apple_airpotpro2th.png
 price: "309,920"

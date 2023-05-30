@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-05-30 14:42:06 +09:00
+date: 2023-05-30 14:55:22 +09:00
 categories: [GALAXY]
 image: assets/images/galaxy/galaxy_zflip4.png
 price: "1,091,610"

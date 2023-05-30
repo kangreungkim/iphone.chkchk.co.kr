@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-05-30 14:41:37 +09:00
+date: 2023-05-30 14:54:57 +09:00
 categories: [IPAD]
 image: assets/images/ipad/ipadair5th.png
 price: "985,340"
 today: "2023-05-30"
-featured: false
+featured: true
 comments: true
 title: 아이패드 에어5세대
 author: IPAD

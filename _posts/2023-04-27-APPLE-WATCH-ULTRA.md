@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-05-30 14:41:20 +09:00
+date: 2023-05-30 14:54:44 +09:00
 categories: [APPLEWATCH]
 image: assets/images/applewatch/watchultra.png
 price: "994,660"

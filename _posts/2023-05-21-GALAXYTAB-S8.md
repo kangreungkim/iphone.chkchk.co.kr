@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-05-30 14:42:11 +09:00
+date: 2023-05-30 14:55:26 +09:00
 categories: [GALAXY]
 image: assets/images/galaxy/galaxytab-s8.png
 price: "678,980"
