@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-05-30 14:54:41 +09:00
+date: 2023-05-30 14:59:38 +09:00
 categories: [APPLEWATCH]
 image: assets/images/applewatch/watch8.png
 price: "547,270"
@@ -11,7 +11,6 @@ title: 애플워치8
 author: APPLEWATCH
 chart_path2: "/assets/images/chart/AppleWatch8.45mm_chart2.png"
 chart_path: "/assets/images/chart/AppleWatch8.41mm_chart.png"
-chart_path: "/assets/images/chart/AppleWatch8.45mm_chart.png"
 ---
 
 {{page.today}} 애플워치8 {{page.price}}원
