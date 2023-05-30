@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-05-30 10:03:07 +09:00
+date: 2023-05-30 14:42:08 +09:00
 categories: [GALAXY]
 image: assets/images/galaxy/galaxy_zfold4.png
 price: "1,612,560"
@@ -32,27 +32,27 @@ chart_path: "/assets/images/chart/GALAXY-ZFOLD4_chart.png"
         <td>갤럭시폰zfold4 그레이그린 256gb</td>
         <td>256gb</td>
         <td>1,612,560원</td>
-        <td><a href='https://link.coupang.com/a/SHIIP' target='_blank'>최저가구매</a></td>
+        <td><a href='https://link.coupang.com/a/SHIIP' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시폰zfold4 베이지 256gb</td>
         <td>256gb</td>
         <td>1,612,560원</td>
-        <td><a href='https://link.coupang.com/a/SHILC' target='_blank'>최저가구매</a></td>
+        <td><a href='https://link.coupang.com/a/SHILC' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시폰zfold4 그레이그린 512gb</td>
         <td>512gb</td>
         <td>1,710,180원</td>
-        <td><a href='https://link.coupang.com/a/SLtLg' target='_blank'>최저가구매</a></td>
+        <td><a href='https://link.coupang.com/a/SLtLg' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시폰zfold4 베이지 512gb</td>
         <td>512gb</td>
         <td>1,708,880원</td>
-        <td><a href='https://link.coupang.com/a/SLtME' target='_blank'>최저가구매</a></td>
+        <td><a href='https://link.coupang.com/a/SLtME' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시폰zfold4 블랙 512gb</td>
         <td>512gb</td>
         <td>1,751,680원</td>
-        <td><a href='https://link.coupang.com/a/SLtF3' target='_blank'>최저가구매</a></td>
+        <td><a href='https://link.coupang.com/a/SLtF3' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>
 </main>

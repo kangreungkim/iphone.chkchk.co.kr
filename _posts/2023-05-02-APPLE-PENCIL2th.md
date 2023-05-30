@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-05-30 10:02:46 +09:00
+date: 2023-05-30 14:41:44 +09:00
 categories: [애플펜슬]
 image: assets/images/apple_parts/apple-pencil2th.png
 price: "177,340"
@@ -49,7 +49,7 @@ iPad Pro, iPad Air, iPad mini의 디자인에 맞춰 제작된 이 Apple Pencil�
         <td>Apple 정품 애플펜슬 2세대</td>
         <td>pencil2th</td>
         <td>177,340원</td>
-        <td><a href='https://link.coupang.com/a/SG8MW' target='_blank'>최저가구매</a></td>
+        <td><a href='https://link.coupang.com/a/SG8MW' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>
 </main>
