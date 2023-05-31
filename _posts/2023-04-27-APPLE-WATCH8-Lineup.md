@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-30 16:51:23 +09:00
+date: 2023-05-31 10:02:25 +09:00
 categories: [APPLEWATCH]
 image: assets/images/applewatch/watch8.png
-price: "547,270"
-today: "2023-05-30"
+price: "542,750"
+today: "2023-05-31"
 featured: false
 comments: true
 title: 애플워치8
@@ -35,72 +35,72 @@ chart_path: "/assets/images/chart/AppleWatch8.41mm_chart.png"
       <th>제품링크</th>
     </tr>
   </thead>
-  <tbody><tr>
+  <tbody><tr onclick="window.open('https://link.coupang.com/a/Tes9m')">
         <td>Apple 워치 8 41mm GPS × 알루미늄 × product red / 레드 스포츠 밴드</td>
         <td>41mm_GPS</td>
-        <td>533,000원</td>
+        <td>522,830원</td>
         <td><a href='https://link.coupang.com/a/Tes9m' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/TetfQ')">
         <td>Apple 워치 8 41mm GPS × 알루미늄 × 미드나이트 / 미드나이트 스포츠 밴드</td>
         <td>41mm_GPS</td>
         <td>507,100원</td>
         <td><a href='https://link.coupang.com/a/TetfQ' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/Tetm5')">
         <td>Apple 워치 8 41mm GPS × 알루미늄 × 스타라이트 / 스타라이트 스포츠 밴드</td>
         <td>41mm_GPS</td>
-        <td>534,070원</td>
+        <td>529,210원</td>
         <td><a href='https://link.coupang.com/a/Tetm5' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/Tetth')">
         <td>Apple 워치 8 41mm GPS × 알루미늄 × 실버 / 화이트 스포츠 밴드</td>
         <td>41mm_GPS</td>
-        <td>534,070원</td>
+        <td>529,210원</td>
         <td><a href='https://link.coupang.com/a/Tetth' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/TetyY')">
         <td>Apple 워치 8 41mm GPS+Cellular × 스테인리스 스틸 × 골드 / 골드 밀레니즈 루프</td>
         <td>41mm_GPS+Cellular</td>
         <td>1,024,000원</td>
         <td><a href='https://link.coupang.com/a/TetyY' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/TetHA')">
         <td>Apple 워치 8 41mm GPS+Cellular × 스테인리스 스틸 × 그래파이트 / 그래파이트 밀레니즈 루프</td>
         <td>41mm_GPS+Cellular</td>
         <td>984,170원</td>
         <td><a href='https://link.coupang.com/a/TetHA' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/TetNh')">
         <td>Apple 워치 8 41mm GPS+Cellular × 스테인리스 스틸 × 실버 / 실버 밀레니즈 루프</td>
         <td>41mm_GPS+Cellular</td>
         <td>999,000원</td>
         <td><a href='https://link.coupang.com/a/TetNh' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/TetUP')">
         <td>Apple 워치 8 41mm GPS+Cellular × 스테인리스 스틸 × 골드 / 스타라이트 스포츠 밴드</td>
         <td>41mm_GPS+Cellular</td>
         <td>934,030원</td>
         <td><a href='https://link.coupang.com/a/TetUP' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/Tet29')">
         <td>Apple 워치 8 41mm GPS+Cellular × 스테인리스 스틸 × 그래파이트 / 미드나이트 스포츠 밴드</td>
         <td>41mm_GPS+Cellular</td>
         <td>883,070원</td>
         <td><a href='https://link.coupang.com/a/Tet29' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/Tet8E')">
         <td>Apple 워치 8 41mm GPS+Cellular × 스테인리스 스틸 × 실버 / 화이트 스포츠 밴드</td>
         <td>41mm_GPS+Cellular</td>
         <td>892,860원</td>
         <td><a href='https://link.coupang.com/a/Tet8E' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/Teuhd')">
         <td>Apple 워치 8 41mm GPS+Cellular × 알루미늄 × product red / 레드 스포츠 밴드</td>
         <td>41mm_GPS+Cellular</td>
-        <td>683,000원</td>
+        <td>690,000원</td>
         <td><a href='https://link.coupang.com/a/Teuhd' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/Teuq3')">
         <td>Apple 워치 8 41mm GPS+Cellular × 알루미늄 × 미드나이트 / 미드나이트 스포츠 밴드</td>
         <td>41mm_GPS+Cellular</td>
         <td>667,100원</td>
         <td><a href='https://link.coupang.com/a/Teuq3' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/Teu34')">
         <td>Apple 워치 8 41mm GPS+Cellular × 알루미늄 × 스타라이트 / 스타라이트 스포츠 밴드</td>
         <td>41mm_GPS+Cellular</td>
-        <td>711,550원</td>
+        <td>719,000원</td>
         <td><a href='https://link.coupang.com/a/Teu34' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/Tevch')">
         <td>Apple 워치 8 41mm GPS+Cellular × 알루미늄 × 실버 / 화이트 스포츠 밴드</td>
         <td>41mm_GPS+Cellular</td>
         <td>675,670원</td>
@@ -118,72 +118,72 @@ chart_path: "/assets/images/chart/AppleWatch8.41mm_chart.png"
     </tr>
   </thead>
   <tbody>               
-                <tr>
+                <tr onclick="window.open('https://link.coupang.com/a/Tevch')">
             <td>Apple 워치 8 45mm GPS × 알루미늄 × product red / 레드 스포츠 밴드</td>
             <td>45mm_GPS</td>
             <td>575,000원</td>
             <td><a href='https://link.coupang.com/a/Tevmm' target='_blank'>구매</a></td>
-            </tr><tr>
+            </tr><tr onclick="window.open('https://link.coupang.com/a/Tevch')">
             <td>Apple 워치 8 45mm GPS × 알루미늄 × 미드나이트 / 미드나이트 스포츠 밴드</td>
             <td>45mm_GPS</td>
             <td>558,640원</td>
             <td><a href='https://link.coupang.com/a/TevqK' target='_blank'>구매</a></td>
-            </tr><tr>
+            </tr><tr onclick="window.open('https://link.coupang.com/a/Tevch')">
             <td>Apple 워치 8 45mm GPS × 알루미늄 × 스타라이트 / 스타라이트 스포츠 밴드</td>
             <td>45mm_GPS</td>
-            <td>555,590원</td>
+            <td>542,750원</td>
             <td><a href='https://link.coupang.com/a/TevxI' target='_blank'>구매</a></td>
-            </tr><tr>
+            </tr><tr onclick="window.open('https://link.coupang.com/a/Tevch')">
             <td>Apple 워치 8 45mm GPS × 알루미늄 × 실버 / 화이트 스포츠 밴드</td>
             <td>45mm_GPS</td>
             <td>547,270원</td>
             <td><a href='https://link.coupang.com/a/TevC7' target='_blank'>구매</a></td>
-            </tr><tr>
+            </tr><tr onclick="window.open('https://link.coupang.com/a/Tevch')">
             <td>Apple 워치 8 45mm GPS+Cellular × 스테인리스 스틸 × 골드 / 골드 밀레니즈 루프</td>
             <td>45mm_GPS+Cellular</td>
             <td>1,048,700원</td>
             <td><a href='https://link.coupang.com/a/TevIm' target='_blank'>구매</a></td>
-            </tr><tr>
+            </tr><tr onclick="window.open('https://link.coupang.com/a/Tevch')">
             <td>Apple 워치 8 45mm GPS+Cellular × 스테인리스 스틸 × 그래파이트 / 그래파이트 밀레니즈 루프</td>
             <td>45mm_GPS+Cellular</td>
             <td>1,048,270원</td>
             <td><a href='https://link.coupang.com/a/TevNd' target='_blank'>구매</a></td>
-            </tr><tr>
+            </tr><tr onclick="window.open('https://link.coupang.com/a/Tevch')">
             <td>Apple 워치 8 45mm GPS+Cellular × 스테인리스 스틸 × 실버 / 실버 밀레니즈 루프</td>
             <td>45mm_GPS+Cellular</td>
-            <td>1,038,700원</td>
+            <td>1,048,700원</td>
             <td><a href='https://link.coupang.com/a/TevRD' target='_blank'>구매</a></td>
-            </tr><tr>
+            </tr><tr onclick="window.open('https://link.coupang.com/a/Tevch')">
             <td>Apple 워치 8 45mm GPS+Cellular × 스테인리스 스틸 × 골드 / 스타라이트 스포츠 밴드</td>
             <td>45mm_GPS+Cellular</td>
             <td>985,000원</td>
             <td><a href='https://link.coupang.com/a/TevXC' target='_blank'>구매</a></td>
-            </tr><tr>
+            </tr><tr onclick="window.open('https://link.coupang.com/a/Tevch')">
             <td>Apple 워치 8 45mm GPS+Cellular × 스테인리스 스틸 × 그래파이트 / 미드나이트 스포츠 밴드</td>
             <td>45mm_GPS+Cellular</td>
-            <td>984,170원</td>
+            <td>964,340원</td>
             <td><a href='https://link.coupang.com/a/Tev3P' target='_blank'>구매</a></td>
-            </tr><tr>
+            </tr><tr onclick="window.open('https://link.coupang.com/a/Tevch')">
             <td>Apple 워치 8 45mm GPS+Cellular × 스테인리스 스틸 × 실버 / 화이트 스포츠 밴드</td>
             <td>45mm_GPS+Cellular</td>
-            <td>974,000원</td>
+            <td>985,000원</td>
             <td><a href='https://link.coupang.com/a/Tev63' target='_blank'>구매</a></td>
-            </tr><tr>
+            </tr><tr onclick="window.open('https://link.coupang.com/a/Tevch')">
             <td>Apple 워치 8 45mm GPS+Cellular × product red / 레드 스포츠 밴드</td>
             <td>45mm_GPS+Cellular</td>
             <td>727,000원</td>
             <td><a href='https://link.coupang.com/a/Tewcp' target='_blank'>구매</a></td>
-            </tr><tr>
+            </tr><tr onclick="window.open('https://link.coupang.com/a/Tevch')">
             <td>Apple 워치 8 45mm GPS+Cellular × 미드나이트 / 미드나이트 스포츠 밴드</td>
             <td>45mm_GPS+Cellular</td>
             <td>759,000원</td>
             <td><a href='https://link.coupang.com/a/Tewh2' target='_blank'>구매</a></td>
-            </tr><tr>
+            </tr><tr onclick="window.open('https://link.coupang.com/a/Tevch')">
             <td>Apple 워치 8 45mm GPS+Cellular × 스타라이트 / 스타라이트 스포츠 밴드</td>
             <td>45mm_GPS+Cellular</td>
-            <td>704,290원</td>
+            <td>739,000원</td>
             <td><a href='https://link.coupang.com/a/TewnL' target='_blank'>구매</a></td>
-            </tr><tr>
+            </tr><tr onclick="window.open('https://link.coupang.com/a/Tevch')">
             <td>Apple 워치 8 45mm GPS+Cellular × 실버 / 화이트 스포츠 밴드</td>
             <td>45mm_GPS+Cellular</td>
             <td>682,770원</td>

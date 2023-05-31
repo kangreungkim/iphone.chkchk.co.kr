@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-30 16:51:10 +09:00
+date: 2023-05-31 10:02:12 +09:00
 categories: [IPHONE]
 image: assets/images/iphone13/iphone13-mini.jpg
 price: "1,046,300"
-today: "2023-05-30"
+today: "2023-05-31"
 featured: false
 comments: true
 title: 아이폰13
@@ -34,70 +34,70 @@ chart_path: "/assets/images/chart/IPHONE13_chart.png"
       <th>제품링크</th>
     </tr>
   </thead>
-  <tbody><tr>
+  <tbody><tr onclick="window.open('https://link.coupang.com/a/SOUTm')">
         <td>apple iphone13 그린 128gb </td>
         <td>128gb</td>
         <td>1,046,300원</td>
         <td><a href='https://link.coupang.com/a/SOUTm' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/SOU2r')">
         <td>apple iphone13 미드나이트 128gb </td>
         <td>128gb</td>
         <td>1,046,300원</td>
         <td><a href='https://link.coupang.com/a/SOU2r' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/SOU6A')">
         <td>apple iphone13 블루 128gb </td>
         <td>128gb</td>
         <td>1,057,300원</td>
         <td><a href='https://link.coupang.com/a/SOU6A' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/SOU9z')">
         <td>apple iphone13 스타라이트 128gb </td>
         <td>128gb</td>
         <td>1,046,300원</td>
         <td><a href='https://link.coupang.com/a/SOU9z' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/SOVki')">
         <td>apple iphone13 그린 256gb </td>
         <td>256gb</td>
-        <td>1,156,500원</td>
+        <td>1,118,490원</td>
         <td><a href='https://link.coupang.com/a/SOVki' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/SOVnU')">
         <td>apple iphone13 레드 256gb </td>
         <td>256gb</td>
-        <td>1,156,500원</td>
+        <td>1,118,490원</td>
         <td><a href='https://link.coupang.com/a/SOVnU' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/SOVqc')">
         <td>apple iphone13 블루 256gb </td>
         <td>256gb</td>
-        <td>1,156,500원</td>
+        <td>1,118,490원</td>
         <td><a href='https://link.coupang.com/a/SOVqc' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/SOVsX')">
         <td>apple iphone13 스타라이트 256gb </td>
         <td>256gb</td>
-        <td>1,156,500원</td>
+        <td>1,118,490원</td>
         <td><a href='https://link.coupang.com/a/SOVsX' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/SOVvl')">
         <td>apple iphone13 그린 512gb </td>
         <td>512gb</td>
-        <td>1,300,000원</td>
+        <td>1,253,780원</td>
         <td><a href='https://link.coupang.com/a/SOVvl' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/SOVxV')">
         <td>apple iphone13 레드 512gb </td>
         <td>512gb</td>
-        <td>1,300,000원</td>
+        <td>1,253,780원</td>
         <td><a href='https://link.coupang.com/a/SOVxV' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/SOVAD')">
         <td>apple iphone13 블루 512gb </td>
         <td>512gb</td>
-        <td>1,300,000원</td>
+        <td>1,253,780원</td>
         <td><a href='https://link.coupang.com/a/SOVAD' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/SOVCL')">
         <td>apple iphone13 스타라이트 512gb </td>
         <td>512gb</td>
-        <td>1,350,000원</td>
+        <td>1,253,780원</td>
         <td><a href='https://link.coupang.com/a/SOVCL' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/SOVEZ')">
         <td>apple iphone13 핑크 512gb </td>
         <td>512gb</td>
-        <td>1,300,000원</td>
+        <td>1,253,780원</td>
         <td><a href='https://link.coupang.com/a/SOVEZ' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>

@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-30 16:51:44 +09:00
+date: 2023-05-31 10:02:46 +09:00
 categories: [애플펜슬]
 image: assets/images/apple_parts/apple-pencil1th.png
-price: "138,720"
-today: "2023-05-30"
+price: "138,570"
+today: "2023-05-31"
 featured: false
 comments: true
 title: 애플팬슬 1세대
@@ -43,10 +43,10 @@ Apple Pencil은 iPad의 성능을 확장시키고, 새로운 창의적 가능성
       <th>제품링크</th>
     </tr>
   </thead>
-  <tbody><tr>
+  <tbody><tr onclick="window.open('https://link.coupang.com/a/SG8PG')">
         <td>Apple 정품 애플펜슬 1세대</td>
         <td>pencil1th</td>
-        <td>138,720원</td>
+        <td>138,570원</td>
         <td><a href='https://link.coupang.com/a/SG8PG' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>

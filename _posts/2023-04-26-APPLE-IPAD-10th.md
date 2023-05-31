@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-30 16:51:33 +09:00
+date: 2023-05-31 10:02:35 +09:00
 categories: [IPAD]
 image: assets/images/ipad/ipad10th.png
-price: "829,480"
-today: "2023-05-30"
+price: "803,480"
+today: "2023-05-31"
 featured: false
 comments: true
 title: 아이패드 10세대[2022] 셀룰러
@@ -70,45 +70,45 @@ chart_path: "/assets/images/chart/IPAD-10th.Wifi_chart.png"
       <th>제품링크</th>
     </tr>
   </thead>
-  <tbody><tr>
+  <tbody><tr onclick="window.open('https://link.coupang.com/a/SA3Jl')">
         <td>Apple 2022 아이패드 10세대 블루 64gb wi-fi</td>
         <td>64gbWifi</td>
-        <td>557,900원</td>
+        <td>540,900원</td>
         <td><a href='https://link.coupang.com/a/SA3Jl' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/SA4Hu')">
         <td>Apple 2022 아이패드 10세대 실버 64gb wi-fi</td>
         <td>64gbWifi</td>
-        <td>579,400원</td>
+        <td>549,900원</td>
         <td><a href='https://link.coupang.com/a/SA4Hu' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/SA4XU')">
         <td>Apple 2022 아이패드 10세대 옐로우 64gb wi-fi</td>
         <td>64gbWifi</td>
-        <td>592,290원</td>
+        <td>590,290원</td>
         <td><a href='https://link.coupang.com/a/SA4XU' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/SA49T')">
         <td>Apple 2022 아이패드 10세대 핑크 64gb wi-fi</td>
         <td>64gbWifi</td>
-        <td>611,290원</td>
+        <td>614,290원</td>
         <td><a href='https://link.coupang.com/a/SA49T' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/SA4xc')">
         <td>Apple 2022 아이패드 10세대 블루  256gb wi-fi</td>
         <td>256gbWifi</td>
-        <td>802,480원</td>
+        <td>795,480원</td>
         <td><a href='https://link.coupang.com/a/SA4xc' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/SA4PI')">
         <td>Apple 2022 아이패드 10세대 실버 256gb wi-fi</td>
         <td>256gbWifi</td>
-        <td>802,480원</td>
+        <td>795,480원</td>
         <td><a href='https://link.coupang.com/a/SA4PI' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/SA44n')">
         <td>Apple 2022 아이패드 10세대 옐로우 256gb wi-fi</td>
         <td>256gbWifi</td>
-        <td>802,480원</td>
+        <td>795,480원</td>
         <td><a href='https://link.coupang.com/a/SA44n' target='_blank'>구매</a></td>
-        </tr><tr>
+        </tr><tr onclick="window.open('https://link.coupang.com/a/SA5fG')">
         <td>Apple 2022 아이패드 10세대 핑크 256gb wi-fi</td>
         <td>256gbWifi</td>
-        <td>829,480원</td>
+        <td>836,480원</td>
         <td><a href='https://link.coupang.com/a/SA5fG' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>
@@ -123,42 +123,42 @@ chart_path: "/assets/images/chart/IPAD-10th.Wifi_chart.png"
     </tr>
   </thead>
   <tbody>               
-                <tr>
+                <tr onclick="window.open('https://link.coupang.com/a/SA5fG')">
             <td>Apple 2022 아이패드 10세대 블루 64gb wi-fi + cellular</td>
             <td>64gbCellular</td>
-            <td>829,480원</td>
+            <td>836,480원</td>
             <td><a href='https://link.coupang.com/a/SA4iJ' target='_blank'>구매</a></td>
-            </tr><tr>
+            </tr><tr onclick="window.open('https://link.coupang.com/a/SA5fG')">
             <td>Apple 2022 아이패드 10세대 실버 64gb wi-fi+ cellular</td>
             <td>64gbCellular</td>
-            <td>829,480원</td>
+            <td>803,480원</td>
             <td><a href='https://link.coupang.com/a/SA4LR' target='_blank'>구매</a></td>
-            </tr><tr>
+            </tr><tr onclick="window.open('https://link.coupang.com/a/SA5fG')">
             <td>Apple 2022 아이패드 10세대 옐로우 64gb wi-fi+ cellular</td>
             <td>64gbCellular</td>
-            <td>829,480원</td>
+            <td>836,480원</td>
             <td><a href='https://link.coupang.com/a/SA41r' target='_blank'>구매</a></td>
-            </tr><tr>
+            </tr><tr onclick="window.open('https://link.coupang.com/a/SA5fG')">
             <td>Apple 2022 아이패드 10세대 핑크 64gb wi-fii+ cellular</td>
             <td>64gbCellular</td>
-            <td>829,480원</td>
+            <td>836,480원</td>
             <td><a href='https://link.coupang.com/a/SA5dg' target='_blank'>구매</a></td>
-            </tr><tr>
+            </tr><tr onclick="window.open('https://link.coupang.com/a/SA5fG')">
             <td>Apple 2022 아이패드 10세대 블루 256gb wi-fi + cellular</td>
             <td>256gbCellular</td>
-            <td>1,046,230원</td>
+            <td>1,055,230원</td>
             <td><a href='https://link.coupang.com/a/SA4D3' target='_blank'>구매</a></td>
-            </tr><tr>
+            </tr><tr onclick="window.open('https://link.coupang.com/a/SA5fG')">
             <td>Apple 2022 아이패드 10세대 실버 256gb wi-fi+ cellular</td>
             <td>256gbCellular</td>
-            <td>1,046,230원</td>
+            <td>1,055,230원</td>
             <td><a href='https://link.coupang.com/a/SA4Ui' target='_blank'>구매</a></td>
-            </tr><tr>
+            </tr><tr onclick="window.open('https://link.coupang.com/a/SA5fG')">
             <td>Apple 2022 아이패드 10세대 옐로우 256gb wi-fi+ cellular</td>
             <td>256gbCellular</td>
             <td>1,055,230원</td>
             <td><a href='https://link.coupang.com/a/SA47s' target='_blank'>구매</a></td>
-            </tr><tr>
+            </tr><tr onclick="window.open('https://link.coupang.com/a/SA5fG')">
             <td>Apple 2022 아이패드 10세대 핑크 256gb wi-fii+ cellular</td>
             <td>256gbCellular</td>
             <td>1,055,230원</td>
