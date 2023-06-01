@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-31 10:02:46 +09:00
+date: 2023-06-01 10:02:46 +09:00
 categories: [애플펜슬]
 image: assets/images/apple_parts/apple-pencil1th.png
 price: "138,570"
-today: "2023-05-31"
+today: "2023-06-01"
 featured: false
 comments: true
 title: 애플팬슬 1세대

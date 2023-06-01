@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-31 10:03:00 +09:00
+date: 2023-06-01 10:03:01 +09:00
 categories: [에어팟]
 image: assets/images/apple_parts/apple_airpotmax.png
-price: "641,390"
-today: "2023-05-31"
+price: "680,770"
+today: "2023-06-01"
 featured: false
 comments: true
 title: Apple 에어팟 맥스 블루투스 헤드셋
@@ -36,7 +36,7 @@ AirPods Max는 하이파이 오디오와 업계 최고 수준의 액티브 노�
   <tbody><tr onclick="window.open('https://link.coupang.com/a/SG9Bv')">
         <td>Apple 에어팟 맥스 블루투스헤드셋 실버</td>
         <td>airpot_max</td>
-        <td>722,550원</td>
+        <td>723,240원</td>
         <td><a href='https://link.coupang.com/a/SG9Bv' target='_blank'>구매</a></td>
         </tr><tr onclick="window.open('https://link.coupang.com/a/SG9DB')">
         <td>Apple 에어팟 맥스 블루투스헤드셋 그린</td>
@@ -46,12 +46,12 @@ AirPods Max는 하이파이 오디오와 업계 최고 수준의 액티브 노�
         </tr><tr onclick="window.open('https://link.coupang.com/a/SG9Fk')">
         <td>Apple 에어팟 맥스 블루투스헤드셋 스카이블루</td>
         <td>airpot_max</td>
-        <td>641,390원</td>
+        <td>680,770원</td>
         <td><a href='https://link.coupang.com/a/SG9Fk' target='_blank'>구매</a></td>
         </tr><tr onclick="window.open('https://link.coupang.com/a/SG9G0')">
         <td>Apple 에어팟 맥스 블루투스헤드셋 스페이스그레이</td>
         <td>airpot_max</td>
-        <td>656,770원</td>
+        <td>680,770원</td>
         <td><a href='https://link.coupang.com/a/SG9G0' target='_blank'>구매</a></td>
         </tr><tr onclick="window.open('https://link.coupang.com/a/SG9JL')">
         <td>Apple 에어팟 맥스 블루투스헤드셋 핑크</td>

@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-31 10:02:14 +09:00
+date: 2023-06-01 10:02:14 +09:00
 categories: [IPHONE]
 image: assets/images/iphone13/iphone13-mini.jpg
-price: "856,500"
-today: "2023-05-31"
+price: "856,520"
+today: "2023-06-01"
 featured: false
 comments: true
 title: 아이폰13 미니
@@ -34,12 +34,12 @@ chart_path: "/assets/images/chart/IPHONE13MINI_chart.png"
   <tbody><tr onclick="window.open('https://link.coupang.com/a/SOVOH')">
         <td>apple iphone13mini 그린 128gb </td>
         <td>128gb</td>
-        <td>856,500원</td>
+        <td>912,000원</td>
         <td><a href='https://link.coupang.com/a/SOVOH' target='_blank'>구매</a></td>
         </tr><tr onclick="window.open('https://link.coupang.com/a/SOVSa')">
         <td>apple iphone13mini 레드 128gb </td>
         <td>128gb</td>
-        <td>902,000원</td>
+        <td>912,000원</td>
         <td><a href='https://link.coupang.com/a/SOVSa' target='_blank'>구매</a></td>
         </tr><tr onclick="window.open('https://link.coupang.com/a/SOVVe')">
         <td>apple iphone13mini 미드나이트 128gb </td>
@@ -49,22 +49,22 @@ chart_path: "/assets/images/chart/IPHONE13MINI_chart.png"
         </tr><tr onclick="window.open('https://link.coupang.com/a/SOVXj')">
         <td>apple iphone13mini 블루 128gb </td>
         <td>128gb</td>
-        <td>856,500원</td>
+        <td>912,000원</td>
         <td><a href='https://link.coupang.com/a/SOVXj' target='_blank'>구매</a></td>
         </tr><tr onclick="window.open('https://link.coupang.com/a/SOVY5')">
         <td>apple iphone13mini 핑크 128gb </td>
         <td>128gb</td>
-        <td>865,000원</td>
+        <td>874,000원</td>
         <td><a href='https://link.coupang.com/a/SOVY5' target='_blank'>구매</a></td>
         </tr><tr onclick="window.open('https://link.coupang.com/a/SQ75I')">
         <td>apple iphone13mini 그린 256gb </td>
         <td>256gb</td>
-        <td>1,035,400원</td>
+        <td>1,046,400원</td>
         <td><a href='https://link.coupang.com/a/SQ75I' target='_blank'>구매</a></td>
         </tr><tr onclick="window.open('https://link.coupang.com/a/SQ7fL')">
         <td>apple iphone13mini 레드 256gb </td>
         <td>256gb</td>
-        <td>1,035,400원</td>
+        <td>1,046,400원</td>
         <td><a href='https://link.coupang.com/a/SQ7fL' target='_blank'>구매</a></td>
         </tr><tr onclick="window.open('https://link.coupang.com/a/SQ7tt')">
         <td>apple iphone13mini 미드나이트 256gb </td>
@@ -74,7 +74,7 @@ chart_path: "/assets/images/chart/IPHONE13MINI_chart.png"
         </tr><tr onclick="window.open('https://link.coupang.com/a/SQ7CP')">
         <td>apple iphone13mini 블루 256gb </td>
         <td>256gb</td>
-        <td>1,035,400원</td>
+        <td>1,046,400원</td>
         <td><a href='https://link.coupang.com/a/SQ7CP' target='_blank'>구매</a></td>
         </tr><tr onclick="window.open('https://link.coupang.com/a/SQ7JQ')">
         <td>apple iphone13mini 스타라이트 256gb </td>
@@ -89,32 +89,32 @@ chart_path: "/assets/images/chart/IPHONE13MINI_chart.png"
         </tr><tr onclick="window.open('https://link.coupang.com/a/SOWgL')">
         <td>apple iphone13mini 그린 512gb </td>
         <td>512gb</td>
-        <td>1,291,600원</td>
+        <td>1,305,600원</td>
         <td><a href='https://link.coupang.com/a/SOWgL' target='_blank'>구매</a></td>
         </tr><tr onclick="window.open('https://link.coupang.com/a/SOWja')">
         <td>apple iphone13mini 레드 512gb </td>
         <td>512gb</td>
-        <td>1,291,600원</td>
+        <td>1,305,600원</td>
         <td><a href='https://link.coupang.com/a/SOWja' target='_blank'>구매</a></td>
         </tr><tr onclick="window.open('https://link.coupang.com/a/SOWk0')">
         <td>apple iphone13mini 미드나이트 512gb </td>
         <td>512gb</td>
-        <td>1,211,000원</td>
+        <td>1,224,000원</td>
         <td><a href='https://link.coupang.com/a/SOWk0' target='_blank'>구매</a></td>
         </tr><tr onclick="window.open('https://link.coupang.com/a/SOWmC')">
         <td>apple iphone13mini 블루 512gb </td>
         <td>512gb</td>
-        <td>1,291,600원</td>
+        <td>1,305,600원</td>
         <td><a href='https://link.coupang.com/a/SOWmC' target='_blank'>구매</a></td>
         </tr><tr onclick="window.open('https://link.coupang.com/a/SOWoP')">
         <td>apple iphone13mini 스타라이트 512gb </td>
         <td>512gb</td>
-        <td>1,211,000원</td>
+        <td>1,224,000원</td>
         <td><a href='https://link.coupang.com/a/SOWoP' target='_blank'>구매</a></td>
         </tr><tr onclick="window.open('https://link.coupang.com/a/SOWqA')">
         <td>apple iphone13mini 핑크 512gb </td>
         <td>512gb</td>
-        <td>1,291,600원</td>
+        <td>1,305,600원</td>
         <td><a href='https://link.coupang.com/a/SOWqA' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>

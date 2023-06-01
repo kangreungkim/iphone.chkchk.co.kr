@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-05-31 10:02:21 +09:00
+date: 2023-06-01 10:02:21 +09:00
 categories: [IPHONE]
 image: assets/images/iphone14/iphone14-promax.jpg
-price: "1,524,000"
-today: "2023-05-31"
+price: "1,540,000"
+today: "2023-06-01"
 featured: false
 comments: true
 title: 아이폰14 프로맥스
@@ -37,7 +37,7 @@ chart_path: "/assets/images/chart/IPHONE14PROMAX_chart.png"
   <tbody><tr onclick="window.open('https://link.coupang.com/a/SOYZQ')">
         <td>apple iphone14promax 골드 128gb </td>
         <td>128gb</td>
-        <td>1,524,000원</td>
+        <td>1,540,000원</td>
         <td><a href='https://link.coupang.com/a/SOYZQ' target='_blank'>구매</a></td>
         </tr><tr onclick="window.open('https://link.coupang.com/a/SOY16')">
         <td>apple iphone14promax 딥퍼플 128gb </td>
@@ -47,7 +47,7 @@ chart_path: "/assets/images/chart/IPHONE14PROMAX_chart.png"
         </tr><tr onclick="window.open('https://link.coupang.com/a/SOY4h')">
         <td>apple iphone14promax 스페이스블랙 128gb </td>
         <td>128gb</td>
-        <td>1,562,500원</td>
+        <td>1,627,500원</td>
         <td><a href='https://link.coupang.com/a/SOY4h' target='_blank'>구매</a></td>
         </tr><tr onclick="window.open('https://link.coupang.com/a/SOY6u')">
         <td>apple iphone14promax 실버 128gb </td>
@@ -57,27 +57,27 @@ chart_path: "/assets/images/chart/IPHONE14PROMAX_chart.png"
         </tr><tr onclick="window.open('https://link.coupang.com/a/SOY8s')">
         <td>apple iphone14promax 골드 256gb </td>
         <td>256gb</td>
-        <td>1,664,500원</td>
+        <td>1,681,500원</td>
         <td><a href='https://link.coupang.com/a/SOY8s' target='_blank'>구매</a></td>
         </tr><tr onclick="window.open('https://link.coupang.com/a/SOY9V')">
         <td>apple iphone14promax 딥퍼플 256gb </td>
         <td>256gb</td>
-        <td>1,749,000원</td>
+        <td>1,767,000원</td>
         <td><a href='https://link.coupang.com/a/SOY9V' target='_blank'>구매</a></td>
         </tr><tr onclick="window.open('https://link.coupang.com/a/SOZca')">
         <td>apple iphone14promax 스페이스블랙 256gb </td>
         <td>256gb</td>
-        <td>1,737,600원</td>
+        <td>1,767,000원</td>
         <td><a href='https://link.coupang.com/a/SOZca' target='_blank'>구매</a></td>
         </tr><tr onclick="window.open('https://link.coupang.com/a/SOZei')">
         <td>apple iphone14promax 실버 256gb </td>
         <td>256gb</td>
-        <td>1,758,000원</td>
+        <td>1,765,000원</td>
         <td><a href='https://link.coupang.com/a/SOZei' target='_blank'>구매</a></td>
         </tr><tr onclick="window.open('https://link.coupang.com/a/SOZgP')">
         <td>apple iphone14promax 골드 512gb </td>
         <td>512gb</td>
-        <td>1,978,000원</td>
+        <td>2,112,000원</td>
         <td><a href='https://link.coupang.com/a/SOZgP' target='_blank'>구매</a></td>
         </tr><tr onclick="window.open('https://link.coupang.com/a/SOZjn')">
         <td>apple iphone14promax 딥퍼플 512gb </td>
@@ -87,12 +87,12 @@ chart_path: "/assets/images/chart/IPHONE14PROMAX_chart.png"
         </tr><tr onclick="window.open('https://link.coupang.com/a/SOZls')">
         <td>apple iphone14promax 스페이스블랙 512gb </td>
         <td>512gb</td>
-        <td>2,025,000원</td>
+        <td>2,046,000원</td>
         <td><a href='https://link.coupang.com/a/SOZls' target='_blank'>구매</a></td>
         </tr><tr onclick="window.open('https://link.coupang.com/a/SOZnK')">
         <td>apple iphone14promax 실버 512gb </td>
         <td>512gb</td>
-        <td>1,978,000원</td>
+        <td>2,046,000원</td>
         <td><a href='https://link.coupang.com/a/SOZnK' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>
