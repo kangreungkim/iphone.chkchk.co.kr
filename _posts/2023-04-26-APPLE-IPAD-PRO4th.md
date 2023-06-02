@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2023-06-02 12:20:02 +09:00
+date: 2023-06-02 14:26:41 +09:00
 categories: [아이패드]
 image: assets/images/ipad/ipadpro4th.png
-price: "1,315,000"
+price: "1,079,900"
 today: "2023-06-02"
 featured: false
 comments: false

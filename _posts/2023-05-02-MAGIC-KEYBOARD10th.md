@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2023-06-02 12:20:15 +09:00
+date: 2023-06-02 14:26:54 +09:00
 categories: [애플parts]
 image: assets/images/apple_parts/MAGIC-KEYBOARD10th.png
-price: "338,900"
+price: "138,570"
 today: "2023-06-02"
 featured: false
 comments: false
