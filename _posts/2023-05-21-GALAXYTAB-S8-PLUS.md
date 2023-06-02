@@ -1,12 +1,12 @@
 ---
 layout: post
-date: 2023-06-01 10:03:12 +09:00
+date: 2023-06-02 10:03:11 +09:00
 categories: [GALAXY]
 image: assets/images/galaxy/galaxytab-s8plus.png
-price: "950,430"
-today: "2023-06-01"
+price: "927,550"
+today: "2023-06-02"
 featured: false
-comments: true
+comments: false
 title: 갤럭시탭8 PLUS
 author: GALAXY
 chart_path: "/assets/images/chart/GALAXYTAB-S8PLUS_chart.png"
@@ -28,72 +28,72 @@ chart_path: "/assets/images/chart/GALAXYTAB-S8PLUS_chart.png"
       <th>제품링크</th>
     </tr>
   </thead>
-  <tbody><tr onclick="window.open('https://link.coupang.com/a/SBXWy')">
+  <tbody><tr>
         <td>갤럭시탭S8plus 그라파이트 128gb wi-fi</td>
         <td>128gbwifi</td>
-        <td>977,550원</td>
+        <td>927,550원</td>
         <td><a href='https://link.coupang.com/a/SBXWy' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SBXZq')">
+        </tr><tr>
         <td>갤럭시탭S8plus 그라파이트 128gb wi-fi+5g</td>
         <td>128gb5g</td>
-        <td>1,097,520원</td>
+        <td>1,094,340원</td>
         <td><a href='https://link.coupang.com/a/SBXZq' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SBX1O')">
+        </tr><tr>
         <td>갤럭시탭S8plus 그라파이트 256gb wi-fi</td>
         <td>256gbwifi</td>
-        <td>1,063,050원</td>
+        <td>1,053,050원</td>
         <td><a href='https://link.coupang.com/a/SBX1O' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SBX30')">
+        </tr><tr>
         <td>갤럭시탭S8plus 그라파이트 256gb wi-fi+5g</td>
         <td>256gb5g</td>
-        <td>1,234,050원</td>
+        <td>1,224,050원</td>
         <td><a href='https://link.coupang.com/a/SBX30' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SBX55')">
+        </tr><tr>
         <td>갤럭시탭S8plus 그라파이트 512gb wi-fi</td>
         <td>512gbwifi</td>
-        <td>1,224,550원</td>
+        <td>1,213,550원</td>
         <td><a href='https://link.coupang.com/a/SBX55' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SBX8o')">
+        </tr><tr>
         <td>갤럭시탭S8plus 그라파이트 512gb wi-fi+5g</td>
         <td>512gb5g</td>
         <td>1,525,000원</td>
         <td><a href='https://link.coupang.com/a/SBX8o' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SBYaG')">
+        </tr><tr>
         <td>갤럭시탭S8plus 실버 128gb wi-fi</td>
         <td>128gbwifi</td>
-        <td>977,550원</td>
+        <td>927,550원</td>
         <td><a href='https://link.coupang.com/a/SBYaG' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SBYcO')">
+        </tr><tr>
         <td>갤럭시탭S8plus 실버 128gb wi-fi+5g</td>
         <td>128gb5g</td>
         <td>1,122,400원</td>
         <td><a href='https://link.coupang.com/a/SBYcO' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SBYeQ')">
+        </tr><tr>
         <td>갤럭시탭S8plus 실버 256gb wi-fi</td>
         <td>256gbwifi</td>
-        <td>950,430원</td>
+        <td>1,053,050원</td>
         <td><a href='https://link.coupang.com/a/SBYeQ' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SBYgY')">
+        </tr><tr>
         <td>갤럭시탭S8plus 실버 256gb wi-fi+5g</td>
         <td>256gb5g</td>
         <td>1,219,770원</td>
         <td><a href='https://link.coupang.com/a/SBYgY' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SBYi2')">
+        </tr><tr>
         <td>갤럭시탭S8plus 핑크골드 128gb wi-fi</td>
         <td>128gbwifi</td>
-        <td>977,550원</td>
+        <td>927,550원</td>
         <td><a href='https://link.coupang.com/a/SBYi2' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SBYkN')">
+        </tr><tr>
         <td>갤럭시탭S8plus 핑크골드 128gb wi-fi+5g</td>
         <td>128gb5g</td>
-        <td>1,097,520원</td>
+        <td>1,094,340원</td>
         <td><a href='https://link.coupang.com/a/SBYkN' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SBYmI')">
+        </tr><tr>
         <td>갤럭시탭S8plus 핑크골드 256gb wi-fi</td>
         <td>256gbwifi</td>
-        <td>950,430원</td>
+        <td>935,170원</td>
         <td><a href='https://link.coupang.com/a/SBYmI' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SBYoO')">
+        </tr><tr>
         <td>갤럭시탭S8plus 핑크골드 256gb wi-fi+5g</td>
         <td>256gb5g</td>
         <td>1,219,770원</td>

@@ -1,12 +1,12 @@
 ---
 layout: post
-date: 2023-06-01 10:03:10 +09:00
+date: 2023-06-02 10:03:10 +09:00
 categories: [GALAXY]
 image: assets/images/galaxy/galaxytab-s8.png
-price: "744,050"
-today: "2023-06-01"
+price: "727,050"
+today: "2023-06-02"
 featured: false
-comments: true
+comments: false
 title: 갤럭시탭8
 author: GALAXY
 chart_path: "/assets/images/chart/GALAXYTAB-S8_chart.png"
@@ -28,65 +28,65 @@ chart_path: "/assets/images/chart/GALAXYTAB-S8_chart.png"
       <th>제품링크</th>
     </tr>
   </thead>
-  <tbody><tr onclick="window.open('https://link.coupang.com/a/SBThO')">
+  <tbody><tr>
         <td>갤럭시탭S8 그라파이트 128gb wi-fi</td>
         <td>128gbwifi</td>
-        <td>787,380원</td>
+        <td>727,050원</td>
         <td><a href='https://link.coupang.com/a/SBThO' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SBTkD')">
+        </tr><tr>
         <td>갤럭시탭S8 그라파이트 128gb wi-fi+5g</td>
         <td>128gb5g</td>
-        <td>890,530원</td>
+        <td>895,000원</td>
         <td><a href='https://link.coupang.com/a/SBTkD' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SBTm5')">
+        </tr><tr>
         <td>갤럭시탭S8 그라파이트 256gb wi-fi</td>
         <td>256gbwifi</td>
-        <td>863,000원</td>
+        <td>838,610원</td>
         <td><a href='https://link.coupang.com/a/SBTm5' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SBTpx')">
+        </tr><tr>
         <td>갤럭시탭S8 그라파이트 256gb wi-fi+5g</td>
         <td>256gb5g</td>
-        <td>980,000원</td>
+        <td>985,500원</td>
         <td><a href='https://link.coupang.com/a/SBTpx' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SBTsf')">
+        </tr><tr>
         <td>갤럭시탭S8 실버 128gb wi-fi</td>
         <td>128gbwifi</td>
-        <td>744,050원</td>
+        <td>727,050원</td>
         <td><a href='https://link.coupang.com/a/SBTsf' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SBTxD')">
+        </tr><tr>
         <td>갤럭시탭S8 실버 128gb wi-fi+5g</td>
         <td>128gb5g</td>
         <td>884,340원</td>
         <td><a href='https://link.coupang.com/a/SBTxD' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SBTAP')">
+        </tr><tr>
         <td>갤럭시탭S8 실버 256gb wi-fi</td>
         <td>256gbwifi</td>
-        <td>863,000원</td>
+        <td>838,610원</td>
         <td><a href='https://link.coupang.com/a/SBTAP' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SBTDL')">
+        </tr><tr>
         <td>갤럭시탭S8 실버 256gb wi-fi+5g</td>
         <td>256gb5g</td>
         <td>1,030,750원</td>
         <td><a href='https://link.coupang.com/a/SBTDL' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SBTGy')">
+        </tr><tr>
         <td>갤럭시탭S8 핑크골드 128gb wi-fi</td>
         <td>128gbwifi</td>
-        <td>787,380원</td>
+        <td>744,050원</td>
         <td><a href='https://link.coupang.com/a/SBTGy' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SBTUM')">
+        </tr><tr>
         <td>갤럭시탭S8 핑크골드 128gb wi-fi+5g</td>
         <td>128gb5g</td>
         <td>1,015,000원</td>
         <td><a href='https://link.coupang.com/a/SBTUM' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SBTZ9')">
+        </tr><tr>
         <td>갤럭시탭S8 핑크골드 256gb wi-fi</td>
         <td>256gbwifi</td>
-        <td>863,000원</td>
+        <td>838,610원</td>
         <td><a href='https://link.coupang.com/a/SBTZ9' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SBT2z')">
+        </tr><tr>
         <td>갤럭시탭S8 핑크골드 256gb wi-fi+5g</td>
         <td>256gb5g</td>
-        <td>980,000원</td>
+        <td>985,500원</td>
         <td><a href='https://link.coupang.com/a/SBT2z' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>

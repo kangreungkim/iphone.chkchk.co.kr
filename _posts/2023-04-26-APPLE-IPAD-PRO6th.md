@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-06-01 10:02:45 +09:00
+date: 2023-06-02 10:02:44 +09:00
 categories: [IPAD]
 image: assets/images/ipad/ipadpro6th.png
-price: "1,757,130"
-today: "2023-06-01"
+price: "1,744,480"
+today: "2023-06-02"
 featured: false
 comments: true
 title: 아이패드 프로 12.9인치 6세대
@@ -69,52 +69,52 @@ chart_path: "/assets/images/chart/IPAD-PRO6th.Wifi_chart.png"
       <th>제품링크</th>
     </tr>
   </thead>
-  <tbody><tr onclick="window.open('https://link.coupang.com/a/SA7lR')">
+  <tbody><tr>
         <td>Apple 2022 아이패드 프로 12.9 6세대 M2칩 M2칩 스페이스그레이 128gb wi-fi</td>
         <td>128gbWifi</td>
-        <td>1,438,000원</td>
+        <td>1,513,200원</td>
         <td><a href='https://link.coupang.com/a/SA7lR' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SA7Nm')">
+        </tr><tr>
         <td>Apple 2022 아이패드 프로 12.9 6세대 M2칩 M2칩 실버 128gb wi-fi</td>
         <td>128gbWifi</td>
-        <td>1,422,900원</td>
+        <td>1,498,550원</td>
         <td><a href='https://link.coupang.com/a/SA7Nm' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SA7rK')">
+        </tr><tr>
         <td>Apple 2022 아이패드 프로 12.9 6세대 M2칩 M2칩 스페이스그레이  256gb wi-fi</td>
         <td>256gbWifi</td>
-        <td>1,600,000원</td>
+        <td>1,650,240원</td>
         <td><a href='https://link.coupang.com/a/SA7rK' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SA71N')">
+        </tr><tr>
         <td>Apple 2022 아이패드 프로 12.9 6세대 M2칩 M2칩 실버  256gb wi-fi</td>
         <td>256gbWifi</td>
-        <td>1,600,000원</td>
+        <td>1,650,240원</td>
         <td><a href='https://link.coupang.com/a/SA71N' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SA7xz')">
+        </tr><tr>
         <td>Apple 2022 아이패드 프로 12.9 6세대 M2칩 M2칩 스페이스그레이 512gb wi-fi</td>
         <td>512gbWifi</td>
-        <td>1,986,630원</td>
+        <td>2,003,630원</td>
         <td><a href='https://link.coupang.com/a/SA7xz' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SA7XE')">
+        </tr><tr>
         <td>Apple 2022 아이패드 프로 12.9 6세대 M2칩 M2칩 실버 512gb wi-fi</td>
         <td>512gbWifi</td>
-        <td>1,986,630원</td>
+        <td>2,003,630원</td>
         <td><a href='https://link.coupang.com/a/SA7XE' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SA7C4')">
+        </tr><tr>
         <td>Apple 2022 아이패드 프로 12.9 6세대 M2칩 M2칩 스페이스그레이 1tb wi-fi</td>
         <td>1tbWifi</td>
         <td>2,555,630원</td>
         <td><a href='https://link.coupang.com/a/SA7C4' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SA774')">
+        </tr><tr>
         <td>Apple 2022 아이패드 프로 12.9 6세대 M2칩 M2칩 실버 1tb wi-fi</td>
         <td>1tbWifi</td>
         <td>2,555,630원</td>
         <td><a href='https://link.coupang.com/a/SA774' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SA7HT')">
+        </tr><tr>
         <td>Apple 2022 아이패드 프로 12.9 6세대 M2칩 M2칩 스페이스그레이 2tb wi-fi</td>
         <td>2tbWifi</td>
-        <td>3,107,630원</td>
+        <td>3,083,630원</td>
         <td><a href='https://link.coupang.com/a/SA7HT' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SA8dA')">
+        </tr><tr>
         <td>Apple 2022 아이패드 프로 12.9 6세대 M2칩 M2칩 실버 2tb wi-fi</td>
         <td>2tbWifi</td>
         <td>3,107,630원</td>
@@ -132,52 +132,52 @@ chart_path: "/assets/images/chart/IPAD-PRO6th.Wifi_chart.png"
     </tr>
   </thead>
   <tbody>               
-                <tr onclick="window.open('https://link.coupang.com/a/SA8dA')">
+                <tr>
             <td>Apple 2022 아이패드 프로 12.9 6세대 M2칩 M2칩 스페이스그레이 128gb wi-fi + cellular</td>
             <td>128gbCellular</td>
-            <td>1,757,130원</td>
+            <td>1,744,480원</td>
             <td><a href='https://link.coupang.com/a/SA7pf' target='_blank'>구매</a></td>
-            </tr><tr onclick="window.open('https://link.coupang.com/a/SA8dA')">
+            </tr><tr>
             <td>Apple 2022 아이패드 프로 12.9 6세대 M2칩 M2칩 실버 128gb wi-fi + cellular</td>
             <td>128gbCellular</td>
-            <td>1,757,130원</td>
+            <td>1,744,480원</td>
             <td><a href='https://link.coupang.com/a/SA7PI' target='_blank'>구매</a></td>
-            </tr><tr onclick="window.open('https://link.coupang.com/a/SA8dA')">
+            </tr><tr>
             <td>Apple 2022 아이패드 프로 12.9 6세대 M2칩 M2칩 스페이스그레이 256gb wi-fi + cellular</td>
             <td>256gbCellular</td>
             <td>1,969,000원</td>
             <td><a href='https://link.coupang.com/a/SA7ut' target='_blank'>구매</a></td>
-            </tr><tr onclick="window.open('https://link.coupang.com/a/SA8dA')">
+            </tr><tr>
             <td>Apple 2022 아이패드 프로 12.9 6세대 M2칩 M2칩 실버 256gb wi-fi + cellular</td>
             <td>256gbCellular</td>
-            <td>1,949,480원</td>
+            <td>1,886,480원</td>
             <td><a href='https://link.coupang.com/a/SA7UT' target='_blank'>구매</a></td>
-            </tr><tr onclick="window.open('https://link.coupang.com/a/SA8dA')">
+            </tr><tr>
             <td>Apple 2022 아이패드 프로 12.9 6세대 M2칩 M2칩 스페이스그레이 512gb wi-fi+ cellular</td>
             <td>512gbCellular</td>
-            <td>2,298,050원</td>
+            <td>2,248,860원</td>
             <td><a href='https://link.coupang.com/a/SA7zR' target='_blank'>구매</a></td>
-            </tr><tr onclick="window.open('https://link.coupang.com/a/SA8dA')">
+            </tr><tr>
             <td>Apple 2022 아이패드 프로 12.9 6세대 M2칩 M2칩 실버 512gb wi-fi+ cellular</td>
             <td>512gbCellular</td>
             <td>2,226,430원</td>
             <td><a href='https://link.coupang.com/a/SA75R' target='_blank'>구매</a></td>
-            </tr><tr onclick="window.open('https://link.coupang.com/a/SA8dA')">
+            </tr><tr>
             <td>Apple 2022 아이패드 프로 12.9 6세대 M2칩 M2칩 스페이스그레이 1tb wi-fi+ cellular</td>
             <td>1tbCellular</td>
             <td>2,763,880원</td>
             <td><a href='https://link.coupang.com/a/SA7Fg' target='_blank'>구매</a></td>
-            </tr><tr onclick="window.open('https://link.coupang.com/a/SA8dA')">
+            </tr><tr>
             <td>Apple 2022 아이패드 프로 12.9 6세대 M2칩 M2칩 실버 1tb wi-fi+ cellular</td>
             <td>1tbCellular</td>
             <td>2,763,880원</td>
             <td><a href='https://link.coupang.com/a/SA8aL' target='_blank'>구매</a></td>
-            </tr><tr onclick="window.open('https://link.coupang.com/a/SA8dA')">
+            </tr><tr>
             <td>Apple 2022 아이패드 프로 12.9 6세대 M2칩 M2칩 스페이스그레이 2tb wi-fi+ cellular</td>
             <td>2tnCellular</td>
             <td>3,310,880원</td>
             <td><a href='https://link.coupang.com/a/SA7Kc' target='_blank'>구매</a></td>
-            </tr><tr onclick="window.open('https://link.coupang.com/a/SA8dA')">
+            </tr><tr>
             <td>Apple 2022 아이패드 프로 12.9 6세대 M2칩 M2칩 실버 2tb wi-fi+ cellular</td>
             <td>2tnCellular</td>
             <td>3,423,800원</td>

@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-06-01 10:02:33 +09:00
+date: 2023-06-02 10:02:32 +09:00
 categories: [APPLEWATCH]
 image: assets/images/applewatch/watchse2.png
-price: "344,040"
-today: "2023-06-01"
+price: "355,020"
+today: "2023-06-02"
 featured: false
 comments: true
 title: 애플워치SE2
@@ -38,32 +38,32 @@ SE2는 고중력 가속도계와 향상된 자이로스코프를 제공하며, �
       <th>제품링크</th>
     </tr>
   </thead>
-  <tbody><tr onclick="window.open('https://link.coupang.com/a/TeQoA')">
+  <tbody><tr>
         <td>Apple 워치 se2 40mm GPS × 알루미늄 × 미드나이트 / 미드나이트 스포츠밴드</td>
         <td>40mm_GPS</td>
-        <td>307,000원</td>
+        <td>316,800원</td>
         <td><a href='https://link.coupang.com/a/TeQoA' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/TeQuX')">
+        </tr><tr>
         <td>Apple 워치 se2 40mm GPS × 알루미늄 × 스타라이트 / 스타라이트 스포츠밴드</td>
         <td>40mm_GPS</td>
-        <td>307,000원</td>
+        <td>316,800원</td>
         <td><a href='https://link.coupang.com/a/TeQuX' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/TeQCS')">
+        </tr><tr>
         <td>Apple 워치 se2 40mm GPS × 알루미늄 × 실버 / 화이트  스포츠밴드</td>
         <td>40mm_GPS</td>
-        <td>307,000원</td>
+        <td>316,800원</td>
         <td><a href='https://link.coupang.com/a/TeQCS' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/TeQLa')">
+        </tr><tr>
         <td>Apple 워치 se2 40mm GPS+Cellular × 알루미늄 × 미드나이트 / 미드나이트 스포츠밴드</td>
         <td>40mm_GPS+Cellular</td>
         <td>403,000원</td>
         <td><a href='https://link.coupang.com/a/TeQLa' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/TeQRC')">
+        </tr><tr>
         <td>Apple 워치 se2 40mm GPS+Cellular × 알루미늄 × 스타라이트 / 스타라이트 스포츠밴드</td>
         <td>40mm_GPS+Cellular</td>
-        <td>405,550원</td>
+        <td>407,550원</td>
         <td><a href='https://link.coupang.com/a/TeQRC' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/TeQVS')">
+        </tr><tr>
         <td>Apple 워치 se2 40mm GPS+Cellular × 알루미늄 × 실버 / 화이트  스포츠밴드</td>
         <td>40mm_GPS+Cellular</td>
         <td>407,550원</td>
@@ -81,35 +81,35 @@ SE2는 고중력 가속도계와 향상된 자이로스코프를 제공하며, �
     </tr>
   </thead>
   <tbody>               
-                <tr onclick="window.open('https://link.coupang.com/a/TeQVS')">
+                <tr>
             <td>Apple 워치 se2 44mm GPS × 알루미늄 × 미드나이트 / 미드나이트 스포츠밴드</td>
             <td>44mm_GPS</td>
-            <td>344,040원</td>
+            <td>355,020원</td>
             <td><a href='https://link.coupang.com/a/TeQ4B' target='_blank'>구매</a></td>
-            </tr><tr onclick="window.open('https://link.coupang.com/a/TeQVS')">
+            </tr><tr>
             <td>Apple 워치 se2 44mm GPS × 알루미늄 × 스타라이트 / 스타라이트 스포츠밴드</td>
             <td>44mm_GPS</td>
-            <td>356,000원</td>
+            <td>363,000원</td>
             <td><a href='https://link.coupang.com/a/TeQ9G' target='_blank'>구매</a></td>
-            </tr><tr onclick="window.open('https://link.coupang.com/a/TeQVS')">
+            </tr><tr>
             <td>Apple 워치 se2 44mm GPS × 알루미늄 × 실버 / 화이트  스포츠밴드</td>
             <td>44mm_GPS</td>
-            <td>347,000원</td>
+            <td>358,000원</td>
             <td><a href='https://link.coupang.com/a/TeRgi' target='_blank'>구매</a></td>
-            </tr><tr onclick="window.open('https://link.coupang.com/a/TeQVS')">
+            </tr><tr>
             <td>Apple 워치 se2 44mm GPS+Cellular × 알루미늄 × 미드나이트 / 미드나이트 스포츠밴드</td>
             <td>44mm_GPS+Cellular</td>
-            <td>445,550원</td>
+            <td>440,550원</td>
             <td><a href='https://link.coupang.com/a/TeRoJ' target='_blank'>구매</a></td>
-            </tr><tr onclick="window.open('https://link.coupang.com/a/TeQVS')">
+            </tr><tr>
             <td>Apple 워치 se2 44mm GPS+Cellular × 알루미늄 × 스타라이트 / 스타라이트 스포츠밴드</td>
             <td>44mm_GPS+Cellular</td>
             <td>469,000원</td>
             <td><a href='https://link.coupang.com/a/TeRtt' target='_blank'>구매</a></td>
-            </tr><tr onclick="window.open('https://link.coupang.com/a/TeQVS')">
+            </tr><tr>
             <td>Apple 워치 se2 44mm GPS+Cellular × 알루미늄 × 실버 / 화이트  스포츠밴드</td>
             <td>44mm_GPS+Cellular</td>
-            <td>459,590원</td>
+            <td>449,600원</td>
             <td><a href='https://link.coupang.com/a/TeRyA' target='_blank'>구매</a></td>
             </tr>
 </tbody>

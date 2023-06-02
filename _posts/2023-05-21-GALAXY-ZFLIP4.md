@@ -1,12 +1,12 @@
 ---
 layout: post
-date: 2023-06-01 10:03:06 +09:00
+date: 2023-06-02 10:03:06 +09:00
 categories: [GALAXY]
 image: assets/images/galaxy/galaxy_zflip4.png
 price: "1,076,020"
-today: "2023-06-01"
+today: "2023-06-02"
 featured: false
-comments: true
+comments: false
 title: 갤럭시 ZFLIP4
 author: GALAXY
 chart_path: "/assets/images/chart/GALAXY-ZFLIP4_chart.png"
@@ -28,27 +28,27 @@ chart_path: "/assets/images/chart/GALAXY-ZFLIP4_chart.png"
       <th>제품링크</th>
     </tr>
   </thead>
-  <tbody><tr onclick="window.open('https://link.coupang.com/a/SHIIP')">
+  <tbody><tr>
         <td>갤럭시폰zflip4 그라파이트 256gb</td>
         <td>256gb</td>
-        <td>1,091,610원</td>
+        <td>1,139,360원</td>
         <td><a href='https://link.coupang.com/a/SHIIP' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SHILC')">
+        </tr><tr>
         <td>갤럭시폰zflip4 보라퍼플 256gb</td>
         <td>256gb</td>
-        <td>1,118,100원</td>
+        <td>1,150,050원</td>
         <td><a href='https://link.coupang.com/a/SHILC' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SHINW')">
+        </tr><tr>
         <td>갤럭시폰zflip4 블루 256gb</td>
         <td>256gb</td>
         <td>1,138,550원</td>
         <td><a href='https://link.coupang.com/a/SHINW' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SHIQm')">
+        </tr><tr>
         <td>갤럭시폰zflip4 핑크골드 256gb</td>
         <td>256gb</td>
-        <td>1,118,100원</td>
+        <td>1,139,360원</td>
         <td><a href='https://link.coupang.com/a/SHIQm' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SHIZg')">
+        </tr><tr>
         <td>갤럭시폰zflip4 핑크골드 512gb</td>
         <td>512gb</td>
         <td>1,076,020원</td>

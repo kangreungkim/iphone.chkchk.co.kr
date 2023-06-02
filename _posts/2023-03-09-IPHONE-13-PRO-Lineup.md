@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-06-01 10:02:16 +09:00
+date: 2023-06-02 10:02:15 +09:00
 categories: [IPHONE]
 image: assets/images/iphone13/iphone13-pro.jpg
 price: "1,350,000"
-today: "2023-06-01"
+today: "2023-06-02"
 featured: false
 comments: true
 title: 아이폰13 프로
@@ -32,27 +32,27 @@ chart_path: "/assets/images/chart/IPHONE13PRO_chart.png"
       <th>제품링크</th>
     </tr>
   </thead>
-  <tbody><tr onclick="window.open('https://link.coupang.com/a/SOWuA')">
+  <tbody><tr>
         <td>apple iphone13pro 골드 128gb </td>
         <td>128gb</td>
         <td>1,350,000원</td>
         <td><a href='https://link.coupang.com/a/SOWuA' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SOWw1')">
+        </tr><tr>
         <td>apple iphone13pro 그래파이트 128gb </td>
         <td>128gb</td>
         <td>1,350,000원</td>
         <td><a href='https://link.coupang.com/a/SOWw1' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SOWyU')">
+        </tr><tr>
         <td>apple iphone13pro 시에라블루 128gb </td>
         <td>128gb</td>
         <td>1,350,000원</td>
         <td><a href='https://link.coupang.com/a/SOWyU' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SOWAC')">
+        </tr><tr>
         <td>apple iphone13pro 실버 128gb </td>
         <td>128gb</td>
         <td>1,350,000원</td>
         <td><a href='https://link.coupang.com/a/SOWAC' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SQ3q6')">
+        </tr><tr>
         <td>apple iphone13pro 알파인그린 128gb </td>
         <td>128gb</td>
         <td>1,350,000원</td>

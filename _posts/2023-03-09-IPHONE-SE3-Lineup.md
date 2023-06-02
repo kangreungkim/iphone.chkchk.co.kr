@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-06-01 10:02:23 +09:00
+date: 2023-06-02 10:02:22 +09:00
 categories: [IPHONE]
 image: assets/images/iphone-se3/iphone-se3.png
-price: "559,530"
-today: "2023-06-01"
+price: "515,450"
+today: "2023-06-02"
 featured: false
 comments: true
 title: 아이폰 SE3
@@ -33,42 +33,42 @@ chart_path: "/assets/images/chart/IPHONE-SE3_chart.png"
       <th>제품링크</th>
     </tr>
   </thead>
-  <tbody><tr onclick="window.open('https://link.coupang.com/a/SOZrL')">
+  <tbody><tr>
         <td>apple iphonese3 product red 64gb </td>
         <td>64gb</td>
-        <td>639,000원</td>
+        <td>629,000원</td>
         <td><a href='https://link.coupang.com/a/SOZrL' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SOZuC')">
+        </tr><tr>
         <td>apple iphonese3 스타라이트 64gb </td>
         <td>64gb</td>
-        <td>559,530원</td>
+        <td>515,450원</td>
         <td><a href='https://link.coupang.com/a/SOZuC' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SOZx2')">
+        </tr><tr>
         <td>apple iphonese3 product red 128gb </td>
         <td>128gb</td>
-        <td>670,530원</td>
+        <td>699,000원</td>
         <td><a href='https://link.coupang.com/a/SOZx2' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SOZBl')">
+        </tr><tr>
         <td>apple iphonese3 미드나이트 128gb </td>
         <td>128gb</td>
         <td>655,000원</td>
         <td><a href='https://link.coupang.com/a/SOZBl' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SOZJU')">
+        </tr><tr>
         <td>apple iphonese3 스타라이트 128gb </td>
         <td>128gb</td>
         <td>720,000원</td>
         <td><a href='https://link.coupang.com/a/SOZJU' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SOZL6')">
+        </tr><tr>
         <td>apple iphonese3 product red 256gb </td>
         <td>256gb</td>
         <td>880,000원</td>
         <td><a href='https://link.coupang.com/a/SOZL6' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SOZOg')">
+        </tr><tr>
         <td>apple iphonese3 미드나이트 256gb </td>
         <td>256gb</td>
-        <td>870,000원</td>
+        <td>880,000원</td>
         <td><a href='https://link.coupang.com/a/SOZOg' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SOZPV')">
+        </tr><tr>
         <td>apple iphonese3 스타라이트 256gb </td>
         <td>256gb</td>
         <td>870,000원</td>

@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-06-01 10:02:20 +09:00
+date: 2023-06-02 10:02:19 +09:00
 categories: [IPHONE]
 image: assets/images/iphone14/iphone14-pro.png
 price: "1,389,880"
-today: "2023-06-01"
+today: "2023-06-02"
 featured: false
 comments: true
 title: 아이폰14 프로
@@ -35,65 +35,65 @@ chart_path: "/assets/images/chart/IPHONE14PRO_chart.png"
       <th>제품링크</th>
     </tr>
   </thead>
-  <tbody><tr onclick="window.open('https://link.coupang.com/a/SOYqH')">
+  <tbody><tr>
         <td>apple iphone14pro 골드 128gb </td>
         <td>128gb</td>
         <td>1,389,880원</td>
         <td><a href='https://link.coupang.com/a/SOYqH' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SOYs5')">
+        </tr><tr>
         <td>apple iphone14pro 딥퍼플 128gb </td>
         <td>128gb</td>
         <td>1,405,070원</td>
         <td><a href='https://link.coupang.com/a/SOYs5' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SOYvt')">
+        </tr><tr>
         <td>apple iphone14pro 스페이스블랙 128gb </td>
         <td>128gb</td>
         <td>1,397,480원</td>
         <td><a href='https://link.coupang.com/a/SOYvt' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SOYxD')">
+        </tr><tr>
         <td>apple iphone14pro 실버 128gb </td>
         <td>128gb</td>
-        <td>1,393,770원</td>
+        <td>1,411,000원</td>
         <td><a href='https://link.coupang.com/a/SOYxD' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SOYzH')">
+        </tr><tr>
         <td>apple iphone14pro 골드 256gb </td>
         <td>256gb</td>
         <td>1,549,380원</td>
         <td><a href='https://link.coupang.com/a/SOYzH' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SOYCd')">
+        </tr><tr>
         <td>apple iphone14pro 딥퍼플 256gb </td>
         <td>256gb</td>
         <td>1,549,380원</td>
         <td><a href='https://link.coupang.com/a/SOYCd' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SOYEY')">
+        </tr><tr>
         <td>apple iphone14pro 스페이스블랙 256gb </td>
         <td>256gb</td>
         <td>1,517,080원</td>
         <td><a href='https://link.coupang.com/a/SOYEY' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SOYLE')">
+        </tr><tr>
         <td>apple iphone14pro 실버 256gb </td>
         <td>256gb</td>
         <td>1,524,390원</td>
         <td><a href='https://link.coupang.com/a/SOYLE' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SOYNI')">
+        </tr><tr>
         <td>apple iphone14pro 골드 512gb </td>
         <td>512gb</td>
-        <td>1,804,200원</td>
+        <td>1,754,000원</td>
         <td><a href='https://link.coupang.com/a/SOYNI' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SOYPE')">
+        </tr><tr>
         <td>apple iphone14pro 딥퍼플 512gb </td>
         <td>512gb</td>
-        <td>1,804,200원</td>
+        <td>1,754,000원</td>
         <td><a href='https://link.coupang.com/a/SOYPE' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SOYRG')">
+        </tr><tr>
         <td>apple iphone14pro 스페이스블랙 512gb </td>
         <td>512gb</td>
-        <td>1,803,200원</td>
+        <td>1,754,000원</td>
         <td><a href='https://link.coupang.com/a/SOYRG' target='_blank'>구매</a></td>
-        </tr><tr onclick="window.open('https://link.coupang.com/a/SOYUa')">
+        </tr><tr>
         <td>apple iphone14pro 실버 512gb </td>
         <td>512gb</td>
-        <td>1,799,000원</td>
+        <td>1,754,000원</td>
         <td><a href='https://link.coupang.com/a/SOYUa' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>
