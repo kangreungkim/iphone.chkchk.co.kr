@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-02 12:00:05 +09:00
+date: 2023-06-02 12:20:27 +09:00
 categories: [갤럭시]
 image: assets/images/galaxy/galaxy_s23Plus.png
 price: "1,224,900"
@@ -30,12 +30,12 @@ chart_path: "/assets/images/chart/GALAXY-S23-PLUS_chart.png"
   </thead>
   <tbody><tr>
         <td>갤럭시폰S23plus 라벤더 512gb</td>
-        <td>512gb</td>
+        <td></td>
         <td>1,224,900원</td>
         <td><a href='https://link.coupang.com/a/SHEmF' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시폰S23plus 크림 512gb</td>
-        <td>512gb</td>
+        <td></td>
         <td>1,252,900원</td>
         <td><a href='https://link.coupang.com/a/SHEoX' target='_blank'>구매</a></td>
         </tr></tbody>

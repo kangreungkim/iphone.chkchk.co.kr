@@ -1,12 +1,12 @@
 ---
 layout: post
-date: 2023-06-02 11:59:17 +09:00
+date: 2023-06-02 12:19:38 +09:00
 categories: [아이폰]
 image: assets/images/iphone13/iphone13-pro.jpg
 price: "1,350,000"
 today: "2023-06-02"
 featured: false
-comments: true
+comments: false
 title: 아이폰13 프로
 author: 아이폰
 chart_path: "/assets/images/chart/IPHONE13PRO_chart.png"
@@ -34,27 +34,27 @@ chart_path: "/assets/images/chart/IPHONE13PRO_chart.png"
   </thead>
   <tbody><tr>
         <td>apple iphone13pro 골드 128gb </td>
-        <td>128gb</td>
+        <td></td>
         <td>1,350,000원</td>
         <td><a href='https://link.coupang.com/a/SOWuA' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone13pro 그래파이트 128gb </td>
-        <td>128gb</td>
+        <td></td>
         <td>1,350,000원</td>
         <td><a href='https://link.coupang.com/a/SOWw1' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone13pro 시에라블루 128gb </td>
-        <td>128gb</td>
+        <td></td>
         <td>1,350,000원</td>
         <td><a href='https://link.coupang.com/a/SOWyU' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone13pro 실버 128gb </td>
-        <td>128gb</td>
+        <td></td>
         <td>1,350,000원</td>
         <td><a href='https://link.coupang.com/a/SOWAC' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone13pro 알파인그린 128gb </td>
-        <td>128gb</td>
+        <td></td>
         <td>1,350,000원</td>
         <td><a href='https://link.coupang.com/a/SQ3q6' target='_blank'>구매</a></td>
         </tr></tbody>

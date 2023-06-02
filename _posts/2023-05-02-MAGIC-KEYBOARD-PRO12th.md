@@ -1,12 +1,12 @@
 ---
 layout: post
-date: 2023-06-02 11:59:58 +09:00
+date: 2023-06-02 12:20:19 +09:00
 categories: [애플parts]
 image: assets/images/apple_parts/MAGIC-KEYBOARDpro12.png
 price: "486,450"
 today: "2023-06-02"
 featured: false
-comments: true
+comments: false
 title: Apple 정품 매직 키보드 iPad Pro 12.9 용
 author: 애플parts
 chart_path: "/assets/images/chart/APPLEPARTS.m_keyboard_p12_chart.png"
@@ -40,7 +40,7 @@ Magic Keyboard는 iPad Pro 12.9의 멋진 파트너입니다. 최고의 타이�
   </thead>
   <tbody><tr>
         <td>Apple 정품 매직 키보드 iPad Pro 12.9 호환용</td>
-        <td>m_keyboard_p12</td>
+        <td></td>
         <td>486,450원</td>
         <td><a href='https://link.coupang.com/a/SG8ZN' target='_blank'>구매</a></td>
         </tr></tbody>
