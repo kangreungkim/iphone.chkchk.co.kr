@@ -1,14 +1,14 @@
 ---
 layout: post
-date: 2023-06-02 10:02:13 +09:00
-categories: [IPHONE]
+date: 2023-06-02 11:59:16 +09:00
+categories: [아이폰]
 image: assets/images/iphone13/iphone13-mini.jpg
 price: "856,520"
 today: "2023-06-02"
 featured: false
 comments: true
 title: 아이폰13 미니
-author: IPHONE
+author: 아이폰
 chart_path: "/assets/images/chart/IPHONE13MINI_chart.png"
 ---
 

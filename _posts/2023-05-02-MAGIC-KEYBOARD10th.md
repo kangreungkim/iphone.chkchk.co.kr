@@ -1,14 +1,14 @@
 ---
 layout: post
-date: 2023-06-02 10:02:51 +09:00
-categories: [애플키보드]
+date: 2023-06-02 11:59:54 +09:00
+categories: [애플parts]
 image: assets/images/apple_parts/MAGIC-KEYBOARD10th.png
 price: "338,900"
 today: "2023-06-02"
 featured: false
 comments: true
 title: Apple 정품 Smart Keyboard Folio iPad 10세대용
-author: 애플키보드
+author: 애플parts
 chart_path: "/assets/images/chart/APPLEPARTS.m_keyboard_10th_chart.png"
 ---
 

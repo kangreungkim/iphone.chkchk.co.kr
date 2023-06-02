@@ -1,14 +1,14 @@
 ---
 layout: post
-date: 2023-06-02 10:02:26 +09:00
-categories: [APPLEWATCH]
+date: 2023-06-02 11:59:29 +09:00
+categories: [애플워치]
 image: assets/images/applewatch/watch7.png
 price: "441,320"
 today: "2023-06-02"
 featured: false
 comments: true
 title: 애플워치7
-author: APPLEWATCH
+author: 애플워치
 chart_path: "/assets/images/chart/AppleWatch7_chart.png"
 ---
 

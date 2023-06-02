@@ -1,14 +1,14 @@
 ---
 layout: post
-date: 2023-06-02 10:03:06 +09:00
-categories: [GALAXY]
+date: 2023-06-02 12:00:08 +09:00
+categories: [갤럭시]
 image: assets/images/galaxy/galaxy_zflip4.png
 price: "1,076,020"
 today: "2023-06-02"
 featured: false
 comments: false
 title: 갤럭시 ZFLIP4
-author: GALAXY
+author: 갤럭시
 chart_path: "/assets/images/chart/GALAXY-ZFLIP4_chart.png"
 ---
 

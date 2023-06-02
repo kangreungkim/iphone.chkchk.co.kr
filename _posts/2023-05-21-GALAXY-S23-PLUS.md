@@ -1,14 +1,14 @@
 ---
 layout: post
-date: 2023-06-02 10:03:03 +09:00
-categories: [GALAXY]
+date: 2023-06-02 12:00:05 +09:00
+categories: [갤럭시]
 image: assets/images/galaxy/galaxy_s23Plus.png
 price: "1,224,900"
 today: "2023-06-02"
 featured: false
 comments: false
 title: 갤럭시 S23 PLUS
-author: GALAXY
+author: 갤럭시
 chart_path: "/assets/images/chart/GALAXY-S23-PLUS_chart.png"
 ---
 

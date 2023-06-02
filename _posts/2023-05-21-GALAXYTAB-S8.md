@@ -1,14 +1,14 @@
 ---
 layout: post
-date: 2023-06-02 10:03:10 +09:00
-categories: [GALAXY]
+date: 2023-06-02 12:00:12 +09:00
+categories: [갤럭시]
 image: assets/images/galaxy/galaxytab-s8.png
 price: "727,050"
 today: "2023-06-02"
 featured: false
 comments: false
 title: 갤럭시탭8
-author: GALAXY
+author: 갤럭시
 chart_path: "/assets/images/chart/GALAXYTAB-S8_chart.png"
 ---
 

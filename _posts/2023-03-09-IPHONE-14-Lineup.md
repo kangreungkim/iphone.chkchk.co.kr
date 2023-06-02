@@ -1,14 +1,14 @@
 ---
 layout: post
-date: 2023-06-02 10:02:16 +09:00
-categories: [IPHONE]
+date: 2023-06-02 11:59:19 +09:00
+categories: [아이폰]
 image: assets/images/iphone14/iphone14.png
 price: "1,029,000"
 today: "2023-06-02"
 featured: false
 comments: true
 title: 아이폰14
-author: IPHONE
+author: 아이폰
 chart_path: "/assets/images/chart/IPHONE14_chart.png"
 ---
 

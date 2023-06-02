@@ -1,14 +1,14 @@
 ---
 layout: post
-date: 2023-06-02 10:02:21 +09:00
-categories: [IPHONE]
+date: 2023-06-02 11:59:23 +09:00
+categories: [아이폰]
 image: assets/images/iphone14/iphone14-promax.jpg
 price: "1,524,000"
 today: "2023-06-02"
 featured: false
 comments: true
 title: 아이폰14 프로맥스
-author: IPHONE
+author: 아이폰
 chart_path: "/assets/images/chart/IPHONE14PROMAX_chart.png"
 ---
 

@@ -1,14 +1,14 @@
 ---
 layout: post
-date: 2023-06-02 10:02:38 +09:00
-categories: [IPAD]
+date: 2023-06-02 11:59:41 +09:00
+categories: [아이패드]
 image: assets/images/ipad/ipadpro4th.png
 price: "1,315,000"
 today: "2023-06-02"
 featured: false
 comments: true
 title: 아이패드 프로 11인치 4세대
-author: IPAD
+author: 아이패드
 chart_path2: "/assets/images/chart/IPAD-PRO4th.Cellular_chart2.png"
 chart_path: "/assets/images/chart/IPAD-PRO4th.Wifi_chart.png"
 ---

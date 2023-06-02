@@ -1,14 +1,14 @@
 ---
 layout: post
-date: 2023-06-02 10:02:35 +09:00
-categories: [IPAD]
+date: 2023-06-02 11:59:38 +09:00
+categories: [아이패드]
 image: assets/images/ipad/ipad10th.png
 price: "836,480"
 today: "2023-06-02"
 featured: false
 comments: true
 title: 아이패드 10세대[2022] 셀룰러
-author: IPAD
+author: 아이패드
 chart_path2: "/assets/images/chart/IPAD-10th.Cellular_chart2.png"
 chart_path: "/assets/images/chart/IPAD-10th.Wifi_chart.png"
 ---

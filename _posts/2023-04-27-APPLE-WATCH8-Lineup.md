@@ -1,14 +1,14 @@
 ---
 layout: post
-date: 2023-06-02 10:02:25 +09:00
-categories: [APPLEWATCH]
+date: 2023-06-02 11:59:27 +09:00
+categories: [애플워치]
 image: assets/images/applewatch/watch8.png
 price: "564,550"
 today: "2023-06-02"
 featured: false
 comments: true
 title: 애플워치8
-author: APPLEWATCH
+author: 애플워치
 chart_path2: "/assets/images/chart/AppleWatch8.45mm_chart2.png"
 chart_path: "/assets/images/chart/AppleWatch8.41mm_chart.png"
 ---

@@ -1,14 +1,14 @@
 ---
 layout: post
-date: 2023-06-02 10:02:41 +09:00
-categories: [IPAD]
+date: 2023-06-02 11:59:44 +09:00
+categories: [아이패드]
 image: assets/images/ipad/ipadair5th.png
 price: "975,340"
 today: "2023-06-02"
 featured: true
 comments: true
 title: 아이패드 에어5세대
-author: IPAD
+author: 아이패드
 chart_path2: "/assets/images/chart/IPAD-AIR5th.Cellular_chart2.png"
 chart_path: "/assets/images/chart/IPAD-AIR5th.Wifi_chart.png"
 ---

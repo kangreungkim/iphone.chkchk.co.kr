@@ -1,14 +1,14 @@
 ---
 layout: post
-date: 2023-06-02 10:02:49 +09:00
-categories: [애플키보드]
+date: 2023-06-02 11:59:51 +09:00
+categories: [애플parts]
 image: assets/images/apple_parts/SMART-KEYBOARD-FOLIO45.png
 price: "257,300"
 today: "2023-06-02"
 featured: false
 comments: true
 title: Apple 정품 Smart Keyboard Folio iPad Pro11 4세대 / Air 5세대용
-author: 애플키보드
+author: 애플parts
 chart_path: "/assets/images/chart/APPLEPARTS.s_keyboard_Folio11_chart.png"
 ---
 

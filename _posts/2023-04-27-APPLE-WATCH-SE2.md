@@ -1,14 +1,14 @@
 ---
 layout: post
-date: 2023-06-02 10:02:32 +09:00
-categories: [APPLEWATCH]
+date: 2023-06-02 11:59:35 +09:00
+categories: [애플워치]
 image: assets/images/applewatch/watchse2.png
 price: "355,020"
 today: "2023-06-02"
 featured: false
 comments: true
 title: 애플워치SE2
-author: APPLEWATCH
+author: 애플워치
 chart_path2: "/assets/images/chart/AppleWatchSE2.44mm_chart2.png"
 chart_path: "/assets/images/chart/AppleWatchSE2.40mm_chart.png"
 ---

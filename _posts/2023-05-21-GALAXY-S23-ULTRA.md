@@ -1,14 +1,14 @@
 ---
 layout: post
-date: 2023-06-02 10:03:04 +09:00
-categories: [GALAXY]
+date: 2023-06-02 12:00:07 +09:00
+categories: [갤럭시]
 image: assets/images/galaxy/galaxy_s23Ultra.png
 price: "1,349,490"
 today: "2023-06-02"
 featured: false
 comments: false
 title: 갤럭시 S23 ULTRA
-author: GALAXY
+author: 갤럭시
 chart_path: "/assets/images/chart/GALAXY-S23-ULTRA_chart.png"
 ---
 
