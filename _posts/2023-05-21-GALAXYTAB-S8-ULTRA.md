@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-06-02 14:27:15 +09:00
+date: 2023-06-03 10:03:13 +09:00
 categories: [갤럭시]
 image: assets/images/galaxy/galaxytab-s8ultra.png
 price: "1,122,650"
-today: "2023-06-02"
+today: "2023-06-03"
 featured: false
 comments: false
 title: 갤럭시탭8 ULTRA
@@ -23,7 +23,7 @@ chart_path: "/assets/images/chart/GALAXYTAB-S8ULTRA_chart.png"
   <thead>
     <tr>
       <th>제품명</th>
-      <th>SPEC</th>
+      <th></th>
       <th>판매가격</th>
       <th>제품링크</th>
     </tr>
@@ -46,7 +46,7 @@ chart_path: "/assets/images/chart/GALAXYTAB-S8ULTRA_chart.png"
         </tr><tr>
         <td>갤럭시탭S8ultra 그라파이트 512gb wi-fi</td>
         <td></td>
-        <td>1,364,650원</td>
+        <td>1,327,150원</td>
         <td><a href='https://link.coupang.com/a/SB0Kg' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시탭S8ultra 그라파이트 512gb wi-fi+5g</td>

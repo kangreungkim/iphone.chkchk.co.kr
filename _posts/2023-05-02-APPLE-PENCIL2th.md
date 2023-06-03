@@ -1,14 +1,14 @@
 ---
 layout: post
-date: 2023-06-02 14:26:50 +09:00
-categories: [애플parts]
+date: 2023-06-03 10:02:48 +09:00
+categories: [Apple Accessories]
 image: assets/images/apple_parts/apple-pencil2th.png
 price: "138,570"
-today: "2023-06-02"
+today: "2023-06-03"
 featured: true
 comments: false
 title: 애플팬슬 2세대
-author: 애플parts
+author: Apple Accessories
 chart_path: "/assets/images/chart/APPLEPARTS.pencil2th_chart.png"
 ---
 
@@ -40,7 +40,7 @@ iPad Pro, iPad Air, iPad mini의 디자인에 맞춰 제작된 이 Apple Pencil�
   <thead>
     <tr>
       <th>제품명</th>
-      <th>SPEC</th>
+      <th></th>
       <th>판매가격</th>
       <th>제품링크</th>
     </tr>

@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-06-02 14:26:32 +09:00
+date: 2023-06-03 10:02:30 +09:00
 categories: [애플워치]
 image: assets/images/applewatch/watchse.png
 price: "359,000"
-today: "2023-06-02"
+today: "2023-06-03"
 featured: false
 comments: false
 title: 애플워치SE
@@ -27,7 +27,7 @@ Apple Watch SE(GPS+Cellular)모델은 이동통신 연결을 통해 긴급 구�
   <thead>
     <tr>
       <th>제품명</th>
-      <th>SPEC</th>
+      <th></th>
       <th>판매가격</th>
       <th>제품링크</th>
     </tr>

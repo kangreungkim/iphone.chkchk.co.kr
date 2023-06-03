@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-06-02 14:26:17 +09:00
+date: 2023-06-03 10:02:16 +09:00
 categories: [아이폰]
 image: assets/images/iphone13/iphone13-pro.jpg
 price: "1,350,000"
-today: "2023-06-02"
+today: "2023-06-03"
 featured: false
 comments: false
 title: 아이폰13 프로
@@ -27,7 +27,7 @@ chart_path: "/assets/images/chart/IPHONE13PRO_chart.png"
   <thead>
     <tr>
       <th>제품명</th>
-      <th>SPEC</th>
+      <th></th>
       <th>판매가격</th>
       <th>제품링크</th>
     </tr>

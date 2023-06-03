@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-06-02 14:26:14 +09:00
+date: 2023-06-03 10:02:13 +09:00
 categories: [아이폰]
 image: assets/images/iphone13/iphone13-mini.jpg
-price: "1,046,300"
-today: "2023-06-02"
+price: "1,024,500"
+today: "2023-06-03"
 featured: false
 comments: false
 title: 아이폰13
@@ -29,7 +29,7 @@ chart_path: "/assets/images/chart/IPHONE13_chart.png"
   <thead>
     <tr>
       <th>제품명</th>
-      <th>SPEC</th>
+      <th></th>
       <th>판매가격</th>
       <th>제품링크</th>
     </tr>
@@ -37,22 +37,22 @@ chart_path: "/assets/images/chart/IPHONE13_chart.png"
   <tbody><tr>
         <td>apple iphone13 그린 128gb </td>
         <td></td>
-        <td>1,046,300원</td>
+        <td>1,024,500원</td>
         <td><a href='https://link.coupang.com/a/SOUTm' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone13 미드나이트 128gb </td>
         <td></td>
-        <td>1,046,300원</td>
+        <td>1,035,500원</td>
         <td><a href='https://link.coupang.com/a/SOU2r' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone13 블루 128gb </td>
         <td></td>
-        <td>1,057,300원</td>
+        <td>1,024,500원</td>
         <td><a href='https://link.coupang.com/a/SOU6A' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone13 스타라이트 128gb </td>
         <td></td>
-        <td>1,046,300원</td>
+        <td>1,024,500원</td>
         <td><a href='https://link.coupang.com/a/SOU9z' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone13 그린 256gb </td>
@@ -77,17 +77,17 @@ chart_path: "/assets/images/chart/IPHONE13_chart.png"
         </tr><tr>
         <td>apple iphone13 그린 512gb </td>
         <td></td>
-        <td>1,290,000원</td>
+        <td>1,300,000원</td>
         <td><a href='https://link.coupang.com/a/SOVvl' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone13 레드 512gb </td>
         <td></td>
-        <td>1,290,000원</td>
+        <td>1,300,000원</td>
         <td><a href='https://link.coupang.com/a/SOVxV' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone13 블루 512gb </td>
         <td></td>
-        <td>1,290,000원</td>
+        <td>1,300,000원</td>
         <td><a href='https://link.coupang.com/a/SOVAD' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone13 스타라이트 512gb </td>

@@ -1,14 +1,14 @@
 ---
 layout: post
-date: 2023-06-02 14:26:48 +09:00
-categories: [애플parts]
+date: 2023-06-03 10:02:46 +09:00
+categories: [Apple Accessories]
 image: assets/images/apple_parts/apple-pencil1th.png
 price: "138,570"
-today: "2023-06-02"
+today: "2023-06-03"
 featured: false
 comments: false
 title: 애플팬슬 1세대
-author: 애플parts
+author: Apple Accessories
 chart_path: "/assets/images/chart/APPLEPARTS.pencil1th_chart.png"
 ---
 
@@ -38,7 +38,7 @@ Apple Pencil은 iPad의 성능을 확장시키고, 새로운 창의적 가능성
   <thead>
     <tr>
       <th>제품명</th>
-      <th>SPEC</th>
+      <th></th>
       <th>판매가격</th>
       <th>제품링크</th>
     </tr>
