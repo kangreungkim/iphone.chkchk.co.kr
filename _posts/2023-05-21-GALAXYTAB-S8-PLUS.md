@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-06-03 10:03:12 +09:00
+date: 2023-06-04 10:03:12 +09:00
 categories: [갤럭시]
 image: assets/images/galaxy/galaxytab-s8plus.png
 price: "935,170"
-today: "2023-06-03"
+today: "2023-06-04"
 featured: false
 comments: false
 title: 갤럭시탭8 PLUS

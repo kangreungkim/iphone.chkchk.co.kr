@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-06-03 10:02:18 +09:00
+date: 2023-06-04 10:02:18 +09:00
 categories: [아이폰]
 image: assets/images/iphone14/iphone14-plus.jpg
 price: "1,164,240"
-today: "2023-06-03"
+today: "2023-06-04"
 featured: false
 comments: false
 title: 아이폰14 플러스
@@ -34,7 +34,7 @@ chart_path: "/assets/images/chart/IPHONE14PLUS_chart.png"
   <tbody><tr>
         <td>apple iphone14plus 레드 128gb </td>
         <td></td>
-        <td>1,259,200원</td>
+        <td>1,289,200원</td>
         <td><a href='https://link.coupang.com/a/SOXMI' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone14plus 미드나이트 128gb </td>
@@ -59,7 +59,7 @@ chart_path: "/assets/images/chart/IPHONE14PLUS_chart.png"
         </tr><tr>
         <td>apple iphone14plus 레드 256gb </td>
         <td></td>
-        <td>1,405,000원</td>
+        <td>1,440,000원</td>
         <td><a href='https://link.coupang.com/a/SOXYu' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone14plus 미드나이트 256gb </td>
@@ -104,7 +104,7 @@ chart_path: "/assets/images/chart/IPHONE14PLUS_chart.png"
         </tr><tr>
         <td>apple iphone14plus 퍼플 512gb </td>
         <td></td>
-        <td>1,696,000원</td>
+        <td>1,728,000원</td>
         <td><a href='https://link.coupang.com/a/SOYko' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>
