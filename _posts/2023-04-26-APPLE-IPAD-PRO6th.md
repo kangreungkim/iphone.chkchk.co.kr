@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-06-04 10:02:45 +09:00
+date: 2023-06-05 10:02:44 +09:00
 categories: [아이패드]
 image: assets/images/ipad/ipadpro6th.png
 price: "1,467,650"
-today: "2023-06-04"
+today: "2023-06-05"
 featured: false
 comments: false
 title: 아이패드 프로 12.9인치 6세대
@@ -113,7 +113,7 @@ chart_path: "/assets/images/chart/IPAD-PRO6th.Cellular_chart.png"
         </tr><tr>
         <td>Apple 2022 아이패드 프로 12.9 6세대 M2칩 M2칩 스페이스그레이 2tb wi-fi</td>
         <td></td>
-        <td>3,107,630원</td>
+        <td>3,097,000원</td>
         <td><a href='https://link.coupang.com/a/SA7HT' target='_blank'>구매</a></td>
         </tr><tr>
         <td>Apple 2022 아이패드 프로 12.9 6세대 M2칩 M2칩 실버 2tb wi-fi</td>

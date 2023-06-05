@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-06-04 10:03:09 +09:00
+date: 2023-06-05 10:03:09 +09:00
 categories: [갤럭시]
 image: assets/images/galaxy/galaxytab-s7fe.png
-price: "549,400"
-today: "2023-06-04"
+price: "570,300"
+today: "2023-06-05"
 featured: false
 comments: false
 title: 갤럭시탭7 FE
@@ -31,7 +31,7 @@ chart_path: "/assets/images/chart/GALAXYTAB-S7FE_chart.png"
   <tbody><tr>
         <td>갤럭시탭S7 FE 미스틱실버 64gb wi-fi</td>
         <td></td>
-        <td>549,400원</td>
+        <td>570,300원</td>
         <td><a href='https://link.coupang.com/a/SBKEA' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시탭S7 FE 미스틱실버 64gb wi-fi+cellular</td>
@@ -41,7 +41,7 @@ chart_path: "/assets/images/chart/GALAXYTAB-S7FE_chart.png"
         </tr><tr>
         <td>갤럭시탭S7 FE 미스틱블랙 128gb wi-fi</td>
         <td></td>
-        <td>573,610원</td>
+        <td>582,240원</td>
         <td><a href='https://link.coupang.com/a/SBKNL' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시탭S7 FE 미스틱블랙 128gb wi-fi+cellular</td>
@@ -51,7 +51,7 @@ chart_path: "/assets/images/chart/GALAXYTAB-S7FE_chart.png"
         </tr><tr>
         <td>갤럭시탭S7 FE 미스틱그린 64gb wi-fi</td>
         <td></td>
-        <td>549,400원</td>
+        <td>570,300원</td>
         <td><a href='https://link.coupang.com/a/SBKTK' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시탭S7 FE 미스틱그린 64gb wi-fi+cellular</td>
@@ -61,7 +61,7 @@ chart_path: "/assets/images/chart/GALAXYTAB-S7FE_chart.png"
         </tr><tr>
         <td>갤럭시탭S7 FE 미스틱그린 128gb wi-fi</td>
         <td></td>
-        <td>573,610원</td>
+        <td>582,240원</td>
         <td><a href='https://link.coupang.com/a/SBKYc' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시탭S7 FE 미스틱그린 128gb wi-fi+cellular</td>
@@ -71,7 +71,7 @@ chart_path: "/assets/images/chart/GALAXYTAB-S7FE_chart.png"
         </tr><tr>
         <td>갤럭시탭S7 FE 미스틱핑크 64gb wi-fi</td>
         <td></td>
-        <td>549,400원</td>
+        <td>570,300원</td>
         <td><a href='https://link.coupang.com/a/SBK2N' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시탭S7 FE 미스틱핑크 64gb wi-fi+cellular</td>
@@ -81,7 +81,7 @@ chart_path: "/assets/images/chart/GALAXYTAB-S7FE_chart.png"
         </tr><tr>
         <td>갤럭시탭S7 FE 미스틱핑크 128gb wi-fi</td>
         <td></td>
-        <td>573,610원</td>
+        <td>582,240원</td>
         <td><a href='https://link.coupang.com/a/SBK7u' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시탭S7 FE 미스틱핑크 128gb wi-fi+cellular</td>
