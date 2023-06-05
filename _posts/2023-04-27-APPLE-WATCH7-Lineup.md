@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-05 13:55:58 +09:00
+date: 2023-06-05 14:03:11 +09:00
 categories: [애플워치]
 image: assets/images/applewatch/watch7.png
 price: "441,320"
