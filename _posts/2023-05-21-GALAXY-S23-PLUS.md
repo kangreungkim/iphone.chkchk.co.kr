@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-05 14:03:48 +09:00
+date: 2023-06-05 14:26:02 +09:00
 categories: [갤럭시]
 image: assets/images/galaxy/galaxy_s23Plus.png
 price: "1,221,900"

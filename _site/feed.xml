@@ -5,8 +5,8 @@
     <description>애플 아이폰, 아이패드, 애플워치, 맥북 M2, 갤럭시S23, 갤럭시탭 S8</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Jun 2023 14:20:22 +0900</pubDate>
-    <lastBuildDate>Mon, 05 Jun 2023 14:20:22 +0900</lastBuildDate>
+    <pubDate>Mon, 05 Jun 2023 14:21:02 +0900</pubDate>
+    <lastBuildDate>Mon, 05 Jun 2023 14:21:02 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -21,7 +21,7 @@
 &lt;/thread&gt;
 &lt;tbody&gt;
 &lt;tr&gt;&lt;td&gt;최근 최저가&lt;/td&gt;&lt;td&gt;754,600&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;오늘(2023-06-05 02:06:26 PM KST) 판매가(최저가)&lt;/td&gt;&lt;td&gt;795,800&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;오늘(2023-06-05 14시06분) 판매가(최저가)&lt;/td&gt;&lt;td&gt;795,800&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/main&gt;

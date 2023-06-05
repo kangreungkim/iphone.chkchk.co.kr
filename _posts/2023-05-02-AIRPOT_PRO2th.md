@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-05 14:03:44 +09:00
+date: 2023-06-05 14:25:58 +09:00
 categories: [Apple Accessories]
 image: assets/images/apple_parts/apple_airpotpro2th.png
 price: "306,510"

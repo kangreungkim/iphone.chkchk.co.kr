@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-05 14:02:59 +09:00
+date: 2023-06-05 14:25:14 +09:00
 categories: [아이폰]
 image: assets/images/iphone13/iphone13-pro.jpg
 price: "1,350,000"

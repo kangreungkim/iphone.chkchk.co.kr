@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-05 14:03:20 +09:00
+date: 2023-06-05 14:25:34 +09:00
 categories: [아이패드]
 image: assets/images/ipad/ipad10th.png
 price: "575,760"
@@ -24,7 +24,7 @@ chart_path: "/assets/images/chart/IPAD-10th.Wifi_chart.png"
 </thread>
 <tbody>
 <tr><td>최근 최저가</td><td>{{page.history_min_price}}</td></tr>
-<tr><td>오늘({{ page.date | date: "%Y-%m-%d %H시%M분" }}) 판매가(최저가)</td><td>{{page.price}}</td></tr>
+<tr><td>오늘({{ page.date | date: "%Y-%m-%d %H시%M분 %Z" }}) 판매가(최저가)</td><td>{{page.price}}</td></tr>
 </tbody>
 </table>
 </main>
