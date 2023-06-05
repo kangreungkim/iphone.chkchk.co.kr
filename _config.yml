@@ -40,6 +40,9 @@ authors:
     avatar: 'assets/images/galaxy/galaxy.png'
     description: "삼성 갤럭시"    
 
+# 타임존 설정
+timezone: Asia/Seoul
+
 # Plugins
 plugins:
   - jekyll-paginate
