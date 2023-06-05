@@ -1,9 +1,10 @@
 ---
 layout: post
-date: 2023-06-05 10:02:27 +09:00
+date: 2023-06-05 13:34:18 +09:00
 categories: [애플워치]
 image: assets/images/applewatch/watch7.png
 price: "441,320"
+history_min_price: "415,820"
 today: "2023-06-05"
 featured: false
 comments: false

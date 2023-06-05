@@ -1,9 +1,10 @@
 ---
 layout: post
-date: 2023-06-05 10:02:33 +09:00
+date: 2023-06-05 13:34:24 +09:00
 categories: [애플워치]
 image: assets/images/applewatch/watchse2.png
 price: "315,000"
+history_min_price: "302,710"
 today: "2023-06-05"
 featured: false
 comments: false

@@ -1,9 +1,10 @@
 ---
 layout: post
-date: 2023-06-05 10:02:42 +09:00
+date: 2023-06-05 13:34:33 +09:00
 categories: [아이패드]
 image: assets/images/ipad/ipadair5th.png
 price: "795,800"
+history_min_price: "754,600"
 today: "2023-06-05"
 featured: true
 comments: false
@@ -60,7 +61,8 @@ chart_path: "/assets/images/chart/IPAD-AIR5th.Cellular_chart.png"
 ![alt text]({{page.chart_path2}} "아이패드 에어 5세대 Cellular 판매가격 차트")
 
 ## 아이패드 에어 5세대 {{page.today}} 판매가격
-- 아래 가격은 이벤트정책에 따라 더 싸질 수도 있으며, 정책이 소진되면 더 비싸질 수 있습니다.<main>
+- 아래 가격은 이벤트정책에 따라 더 싸질 수도 있으며, 정책이 소진되면 더 비싸질 수 있습니다.
+<main>
 <table id="rwd-table-large">
   <thead>
     <tr>

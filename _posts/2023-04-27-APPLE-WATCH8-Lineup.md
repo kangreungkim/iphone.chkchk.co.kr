@@ -1,9 +1,10 @@
 ---
 layout: post
-date: 2023-06-05 10:02:25 +09:00
+date: 2023-06-05 13:34:17 +09:00
 categories: [애플워치]
 image: assets/images/applewatch/watch8.png
 price: "515,740"
+history_min_price: "487,000"
 today: "2023-06-05"
 featured: false
 comments: false

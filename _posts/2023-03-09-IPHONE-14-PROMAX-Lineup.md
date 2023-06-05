@@ -1,9 +1,10 @@
 ---
 layout: post
-date: 2023-06-05 10:02:21 +09:00
+date: 2023-06-05 13:34:12 +09:00
 categories: [아이폰]
 image: assets/images/iphone14/iphone14-promax.jpg
 price: "1,524,000"
+history_min_price: "1,417,500"
 today: "2023-06-05"
 featured: false
 comments: false

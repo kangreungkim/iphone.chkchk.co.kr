@@ -1,9 +1,10 @@
 ---
 layout: post
-date: 2023-06-05 10:02:12 +09:00
+date: 2023-06-05 13:34:03 +09:00
 categories: [아이폰]
 image: assets/images/iphone13/iphone13-mini.jpg
 price: "1,024,500"
+history_min_price: "951,570"
 today: "2023-06-05"
 featured: false
 comments: false
