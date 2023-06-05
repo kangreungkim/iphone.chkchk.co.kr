@@ -5,8 +5,8 @@
     <description>애플 아이폰, 아이패드, 애플워치, 맥북 M2, 갤럭시S23, 갤럭시탭 S8</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Jun 2023 14:31:08 +0900</pubDate>
-    <lastBuildDate>Mon, 05 Jun 2023 14:31:08 +0900</lastBuildDate>
+    <pubDate>Mon, 05 Jun 2023 14:31:20 +0900</pubDate>
+    <lastBuildDate>Mon, 05 Jun 2023 14:31:20 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
