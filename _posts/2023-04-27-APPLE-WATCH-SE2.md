@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-05 13:34:24 +09:00
+date: 2023-06-05 13:56:04 +09:00
 categories: [애플워치]
 image: assets/images/applewatch/watchse2.png
 price: "315,000"
@@ -14,7 +14,21 @@ chart_path2: "/assets/images/chart/AppleWatchSE2.44mm_chart2.png"
 chart_path: "/assets/images/chart/AppleWatchSE2.40mm_chart.png"
 ---
 
-{{page.today}} 애플워치 SE2 {{page.price}}원
+<main>
+<table>
+<thread>
+<tr>
+<th>일자</th>
+<th>판매가</th>
+</tr>
+</thread>
+<tbody>
+<tr><td>최근 최저가</td><td>{{page.history_min_price}}</td></tr>
+<tr><td>오늘({{ page.date | date: "%Y-%m-%d %H시%M분" }}) 판매가(최저가)</td><td>{{page.price}}</td></tr>
+</tbody>
+</table>
+</main>
+
 
 Apple Watch SE(GPS+Cellular)모델은 이동통신 연결을 통해 긴급 구조 요청 기능을 사용할 수 있습니다. 셀룰러 없이 Apple Watch로 긴급 구조 요청 기능을 사용하려면 근처에 IPHONE이 있어야 합니다.
 애플 워치 SE와 SE2는 기본적으로 디자인은 동일하다.

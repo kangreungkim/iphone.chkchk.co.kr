@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-05 13:34:09 +09:00
+date: 2023-06-05 13:55:49 +09:00
 categories: [아이폰]
 image: assets/images/iphone14/iphone14-plus.jpg
 price: "1,164,240"
@@ -13,7 +13,21 @@ author: 아이폰
 chart_path: "/assets/images/chart/IPHONE14PLUS_chart.png"
 ---
 
-{{page.today}} 아이폰14 PLUS 최저가 {{page.price}}원
+<main>
+<table>
+<thread>
+<tr>
+<th>일자</th>
+<th>판매가</th>
+</tr>
+</thread>
+<tbody>
+<tr><td>최근 최저가</td><td>{{page.history_min_price}}</td></tr>
+<tr><td>오늘({{ page.date | date: "%Y-%m-%d %H시%M분" }}) 판매가(최저가)</td><td>{{page.price}}</td></tr>
+</tbody>
+</table>
+</main>
+
 
 아이폰14 PLUS의 장점은 배터리 용량입니다. 다른것은 전작과 14기본모델대비 뚜렷한 차이를 보이고 있지 않습니다.
 아이폰 14 플러스의 배터리 용량은 현재까지 출시한 모든 아이폰 모델의 무게 대비 배터리 용량이 가장 큽니다. 따라서 무게는 가볍지만 배터리 용량은 아이폰 14보다 더 많아졌기 때문에 하루 종일 사용해도 방전을 걱정할 필요가 없을 정도입니다. 만약 배터리 용량 때문에라도 기기를 바꿀 계획이라면 크게 신경 쓸 필요 없는 모델이 될 것입니다.

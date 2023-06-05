@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-05 13:34:18 +09:00
+date: 2023-06-05 13:55:58 +09:00
 categories: [애플워치]
 image: assets/images/applewatch/watch7.png
 price: "441,320"
@@ -13,7 +13,21 @@ author: 애플워치
 chart_path: "/assets/images/chart/AppleWatch7_chart.png"
 ---
 
-{{page.today}} 애플워치7 {{page.price}}원
+<main>
+<table>
+<thread>
+<tr>
+<th>일자</th>
+<th>판매가</th>
+</tr>
+</thread>
+<tbody>
+<tr><td>최근 최저가</td><td>{{page.history_min_price}}</td></tr>
+<tr><td>오늘({{ page.date | date: "%Y-%m-%d %H시%M분" }}) 판매가(최저가)</td><td>{{page.price}}</td></tr>
+</tbody>
+</table>
+</main>
+
 
 애플워치7의 가장 만족스러웠던 부분은 Assistive touch(한손조작)기능 입니다.
 그외 헬스케어, 얇아진 디자인(10.7mm -> 9mm), 국제 긴급 구조 요청5

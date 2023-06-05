@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-05 13:34:30 +09:00
+date: 2023-06-05 13:56:10 +09:00
 categories: [아이패드]
 image: assets/images/ipad/ipadpro4th.png
 price: "1,070,550"
@@ -15,7 +15,21 @@ chart_path: "/assets/images/chart/IPAD-PRO4th.Wifi_chart.png"
 chart_path: "/assets/images/chart/IPAD-PRO4th.Cellular_chart.png"
 ---
 
-{{page.today}} 아이패드 프로 11인치 4세대 최저가 {{page.price}}원
+<main>
+<table>
+<thread>
+<tr>
+<th>일자</th>
+<th>판매가</th>
+</tr>
+</thread>
+<tbody>
+<tr><td>최근 최저가</td><td>{{page.history_min_price}}</td></tr>
+<tr><td>오늘({{ page.date | date: "%Y-%m-%d %H시%M분" }}) 판매가(최저가)</td><td>{{page.price}}</td></tr>
+</tbody>
+</table>
+</main>
+
 
 프로 11인치는 크기, 디자인까지 에어 5세대와 아주 흡사하여 에어5의 상위호환 포지션의 제품입니다.
 에어 5세대와 비교하자면 M1 프로세서의 후속작인 M2 프로세서가 탑재된점, 그리고 가변 120hz 주사율을 지원하는 패널로 업그레이드되었다는 점입니다.

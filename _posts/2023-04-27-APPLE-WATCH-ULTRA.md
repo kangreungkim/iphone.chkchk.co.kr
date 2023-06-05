@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-05 13:34:20 +09:00
+date: 2023-06-05 13:56:00 +09:00
 categories: [애플워치]
 image: assets/images/applewatch/watchultra.png
 price: "1,025,000"
@@ -13,7 +13,21 @@ author: 애플워치
 chart_path: "/assets/images/chart/AppleWatchUltra_chart.png"
 ---
 
-{{page.today}} 애플워치 울트라 {{page.price}}원
+<main>
+<table>
+<thread>
+<tr>
+<th>일자</th>
+<th>판매가</th>
+</tr>
+</thread>
+<tbody>
+<tr><td>최근 최저가</td><td>{{page.history_min_price}}</td></tr>
+<tr><td>오늘({{ page.date | date: "%Y-%m-%d %H시%M분" }}) 판매가(최저가)</td><td>{{page.price}}</td></tr>
+</tbody>
+</table>
+</main>
+
 
 애플 워치 울트라는 운동 선수를 위해 다른 애플 워치 모델에는 없는 다음과 같은 기능을 제공한다.
  

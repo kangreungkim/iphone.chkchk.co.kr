@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-05 13:34:14 +09:00
+date: 2023-06-05 13:55:54 +09:00
 categories: [아이폰]
 image: assets/images/iphone-se3/iphone-se3.png
 price: "515,450"
@@ -13,7 +13,21 @@ author: 아이폰
 chart_path: "/assets/images/chart/IPHONE-SE3_chart.png"
 ---
 
-{{page.today}} 아이폰 SE3 최저가 {{page.price}}원
+<main>
+<table>
+<thread>
+<tr>
+<th>일자</th>
+<th>판매가</th>
+</tr>
+</thread>
+<tbody>
+<tr><td>최근 최저가</td><td>{{page.history_min_price}}</td></tr>
+<tr><td>오늘({{ page.date | date: "%Y-%m-%d %H시%M분" }}) 판매가(최저가)</td><td>{{page.price}}</td></tr>
+</tbody>
+</table>
+</main>
+
 
 아이폰SE의 작은 화면은 단점이지만, 반면 작은 사이즈의 스마트폰을 선호하는 소비자에게는 관심을 끌만하다.
 아이폰SE 사이즈는 세로13.8cm x 가로6.7cm x 두께0.7cm, 무게 144g으로 콤팩트하다. 

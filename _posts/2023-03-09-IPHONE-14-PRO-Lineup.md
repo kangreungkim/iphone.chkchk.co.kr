@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-05 13:34:11 +09:00
+date: 2023-06-05 13:55:51 +09:00
 categories: [아이폰]
 image: assets/images/iphone14/iphone14-pro.png
 price: "1,389,880"
@@ -13,7 +13,21 @@ author: 아이폰
 chart_path: "/assets/images/chart/IPHONE14PRO_chart.png"
 ---
 
-{{page.today}} 아이폰14 PRO 최저가 {{page.price}}원
+<main>
+<table>
+<thread>
+<tr>
+<th>일자</th>
+<th>판매가</th>
+</tr>
+</thread>
+<tbody>
+<tr><td>최근 최저가</td><td>{{page.history_min_price}}</td></tr>
+<tr><td>오늘({{ page.date | date: "%Y-%m-%d %H시%M분" }}) 판매가(최저가)</td><td>{{page.price}}</td></tr>
+</tbody>
+</table>
+</main>
+
 
 애플은 고급 모델과 일반 모델의 디자인을 차별화했다. 아이폰14 프로 시리즈엔 ‘다이내믹 아일랜드’라 이름 붙인 새로운 디자인이 적용됐다. 기존 아이폰의 상징과도 같았던 전면 카메라 상단 ‘M자’ 형태 노치(화면 상단 테두리) 디자인이 카메라 모듈 부분만 구멍을 뚫은 펀치홀 카메라로 변경됐다. 펀치홀 카메라 부분은 하나의 디스플레이 창으로 이용할 수 있다.
 

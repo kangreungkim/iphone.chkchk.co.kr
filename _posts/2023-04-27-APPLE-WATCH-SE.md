@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-05 13:34:21 +09:00
+date: 2023-06-05 13:56:01 +09:00
 categories: [애플워치]
 image: assets/images/applewatch/watchse.png
 price: "359,000"

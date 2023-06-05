@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-05 13:34:12 +09:00
+date: 2023-06-05 13:55:52 +09:00
 categories: [아이폰]
 image: assets/images/iphone14/iphone14-promax.jpg
 price: "1,524,000"
@@ -13,7 +13,21 @@ author: 아이폰
 chart_path: "/assets/images/chart/IPHONE14PROMAX_chart.png"
 ---
 
-{{page.today}} 아이폰14 PROMAX 최저가 {{page.price}}원
+<main>
+<table>
+<thread>
+<tr>
+<th>일자</th>
+<th>판매가</th>
+</tr>
+</thread>
+<tbody>
+<tr><td>최근 최저가</td><td>{{page.history_min_price}}</td></tr>
+<tr><td>오늘({{ page.date | date: "%Y-%m-%d %H시%M분" }}) 판매가(최저가)</td><td>{{page.price}}</td></tr>
+</tbody>
+</table>
+</main>
+
 
 아이폰14 프로와 아이폰14 프로 맥스는 거의 모든 기능이 동일합니다.
 

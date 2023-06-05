@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-05 13:35:02 +09:00
+date: 2023-06-05 13:56:42 +09:00
 categories: [갤럭시]
 image: assets/images/galaxy/galaxytab-s8.png
 price: "721,000"

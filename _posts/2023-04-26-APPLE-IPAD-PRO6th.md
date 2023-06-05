@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-05 13:34:36 +09:00
+date: 2023-06-05 13:56:16 +09:00
 categories: [아이패드]
 image: assets/images/ipad/ipadpro6th.png
 price: "1,467,650"
@@ -15,7 +15,21 @@ chart_path: "/assets/images/chart/IPAD-PRO6th.Wifi_chart.png"
 chart_path: "/assets/images/chart/IPAD-PRO6th.Cellular_chart.png"
 ---
 
-{{page.today}} 아이패드 프로 12.9인치 6세대 최저가 {{page.price}}원
+<main>
+<table>
+<thread>
+<tr>
+<th>일자</th>
+<th>판매가</th>
+</tr>
+</thread>
+<tbody>
+<tr><td>최근 최저가</td><td>{{page.history_min_price}}</td></tr>
+<tr><td>오늘({{ page.date | date: "%Y-%m-%d %H시%M분" }}) 판매가(최저가)</td><td>{{page.price}}</td></tr>
+</tbody>
+</table>
+</main>
+
 
 프로 12.9인치의 압도적인 크기의 디스플레이, 그외 스펙상 차이가 없는 아이패드 프로 11인치와 12.9인치
 12.9인치의 경우 리퀴드 레티나 XDR 디스플레이가 적용된 모델이지만

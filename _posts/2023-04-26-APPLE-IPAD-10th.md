@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-05 13:34:27 +09:00
+date: 2023-06-05 13:56:07 +09:00
 categories: [아이패드]
 image: assets/images/ipad/ipad10th.png
 price: "575,760"
@@ -15,7 +15,21 @@ chart_path: "/assets/images/chart/IPAD-10th.Wifi_chart.png"
 chart_path: "/assets/images/chart/IPAD-10th.Cellular_chart.png"
 ---
 
-{{page.today}} 아이패드 10세대 최저가 {{page.price}}원
+<main>
+<table>
+<thread>
+<tr>
+<th>일자</th>
+<th>판매가</th>
+</tr>
+</thread>
+<tbody>
+<tr><td>최근 최저가</td><td>{{page.history_min_price}}</td></tr>
+<tr><td>오늘({{ page.date | date: "%Y-%m-%d %H시%M분" }}) 판매가(최저가)</td><td>{{page.price}}</td></tr>
+</tbody>
+</table>
+</main>
+
 
 아이패드 10세대는 10.9인치 화면으로 완전히 새로운 디자인으로 재설계되었으며 얇은 베젤, 평평하고 각진 디자인, A14 바이오닉 칩, USB-C 포트, Touch ID 전원 버튼, 가로 방향 페이스타임 카메라, 5G 통신 등을 특징으로 합니다.
 또한 Wi-Fi 6 및 Bluetooth 5.2 지원 그리고 펑션키가 있는 새로운 전용 매직 키보드 폴리오 액세서리를 선택할 수 있습니다.

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-05 13:34:17 +09:00
+date: 2023-06-05 13:55:57 +09:00
 categories: [애플워치]
 image: assets/images/applewatch/watch8.png
 price: "515,740"
@@ -14,7 +14,21 @@ chart_path2: "/assets/images/chart/AppleWatch8.45mm_chart2.png"
 chart_path: "/assets/images/chart/AppleWatch8.41mm_chart.png"
 ---
 
-{{page.today}} 애플워치8 {{page.price}}원
+<main>
+<table>
+<thread>
+<tr>
+<th>일자</th>
+<th>판매가</th>
+</tr>
+</thread>
+<tbody>
+<tr><td>최근 최저가</td><td>{{page.history_min_price}}</td></tr>
+<tr><td>오늘({{ page.date | date: "%Y-%m-%d %H시%M분" }}) 판매가(최저가)</td><td>{{page.price}}</td></tr>
+</tbody>
+</table>
+</main>
+
 
 온종일 지속되는 18시간의 배터리 사용 시간을 자랑하는 Apple Watch Series 8은 손목 온도 감지 기능, 충돌 감지, 국제 로밍 등을 도입하며, 심전도 앱 및 충돌 감지 등 최고의 건강 및 안전 기능을 제공한다.
 애플워치7과의 큰 차이점은 "피부온도센서"와 "충돌감지기능"을 포함하고 있습니다.

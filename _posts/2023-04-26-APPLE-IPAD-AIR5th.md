@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-05 13:34:33 +09:00
+date: 2023-06-05 13:56:13 +09:00
 categories: [아이패드]
 image: assets/images/ipad/ipadair5th.png
 price: "795,800"
@@ -15,7 +15,21 @@ chart_path: "/assets/images/chart/IPAD-AIR5th.Wifi_chart.png"
 chart_path: "/assets/images/chart/IPAD-AIR5th.Cellular_chart.png"
 ---
 
-{{page.today}} 아이패드 에어 5세대 최저가 {{page.price}}원
+<main>
+<table>
+<thread>
+<tr>
+<th>일자</th>
+<th>판매가</th>
+</tr>
+</thread>
+<tbody>
+<tr><td>최근 최저가</td><td>{{page.history_min_price}}</td></tr>
+<tr><td>오늘({{ page.date | date: "%Y-%m-%d %H시%M분" }}) 판매가(최저가)</td><td>{{page.price}}</td></tr>
+</tbody>
+</table>
+</main>
+
 
 아이패드 프로 5세대에 비해 저렴한 가격 경쟁력,
 아이패드 프로 5세대 보다 가격적인 면에서 더 저렴한 것이 큰 강점이기도 합니다. 같은 M1 칩을 탑재하는 것 외에도, 애플 펜슬 2, 매직 키보드, 스마트 폴리오 키보드, 그리고 아이패드 프로 5세대에서 사용할 수 있는 다른 모든 장치들에 대한 기본 지원도 가능한 것 또한 가성비면에서 뛰어난 성능을 보여 준다는 것을 말합니다.
