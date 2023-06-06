@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-05 20:02:21 +09:00
+date: 2023-06-06 10:02:21 +09:00
 categories: [아이폰]
 image: assets/images/iphone14/iphone14-promax.jpg
 price: "1,524,000"
 history_min_price: "1,417,500"
-today: "2023-06-05"
+today: "2023-06-06"
 featured: false
 comments: false
 title: 아이폰14 프로맥스
@@ -107,7 +107,7 @@ chart_path: "/assets/images/chart/IPHONE14PROMAX_chart.png"
         </tr><tr>
         <td>apple iphone14promax 실버 512gb </td>
         <td></td>
-        <td>1,978,000원</td>
+        <td>1,977,400원</td>
         <td><a href='https://link.coupang.com/a/SOZnK' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>

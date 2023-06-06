@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-05 20:02:51 +09:00
+date: 2023-06-06 10:02:51 +09:00
 categories: [Apple Accessories]
 image: assets/images/apple_parts/SMART-KEYBOARD-FOLIO6.png
 price: "272,050"
 history_min_price: "0"
-today: "2023-06-05"
+today: "2023-06-06"
 featured: false
 comments: false
 title: Apple 정품 Smart Keyboard Folio iPad Pro11 6세대
