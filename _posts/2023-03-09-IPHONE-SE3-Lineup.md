@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-06 20:02:23 +09:00
+date: 2023-06-07 10:02:23 +09:00
 categories: [아이폰]
 image: assets/images/iphone-se3/iphone-se3.png
 price: "515,450"
 history_min_price: "515,450"
-today: "2023-06-06"
+today: "2023-06-07"
 featured: false
 comments: false
 title: 아이폰 SE3
@@ -14,7 +14,7 @@ chart_path: "/assets/images/chart/IPHONE-SE3_chart.png"
 ---
 
 <main>
-<table>
+<table id="rwd-table-large">
 <thread>
 <tr>
 <th>일자</th>

@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-06 20:02:27 +09:00
+date: 2023-06-07 10:02:27 +09:00
 categories: [애플워치]
 image: assets/images/applewatch/watch7.png
 price: "441,320"
 history_min_price: "415,820"
-today: "2023-06-06"
+today: "2023-06-07"
 featured: false
 comments: false
 title: 애플워치7
@@ -14,7 +14,7 @@ chart_path: "/assets/images/chart/AppleWatch7_chart.png"
 ---
 
 <main>
-<table>
+<table id="rwd-table-large">
 <thread>
 <tr>
 <th>일자</th>

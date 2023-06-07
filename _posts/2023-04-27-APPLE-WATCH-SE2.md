@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-06 20:02:33 +09:00
+date: 2023-06-07 10:02:33 +09:00
 categories: [애플워치]
 image: assets/images/applewatch/watchse2.png
 price: "316,800"
 history_min_price: "302,710"
-today: "2023-06-06"
+today: "2023-06-07"
 featured: false
 comments: false
 title: 애플워치SE2
@@ -15,7 +15,7 @@ chart_path: "/assets/images/chart/AppleWatchSE2.40mm_chart.png"
 ---
 
 <main>
-<table>
+<table id="rwd-table-large">
 <thread>
 <tr>
 <th>일자</th>
@@ -76,12 +76,12 @@ SE2는 고중력 가속도계와 향상된 자이로스코프를 제공하며, �
         </tr><tr>
         <td>Apple 워치 se2 40mm GPS+Cellular × 알루미늄 × 스타라이트 / 스타라이트 스포츠밴드</td>
         <td></td>
-        <td>398,550원</td>
+        <td>407,550원</td>
         <td><a href='https://link.coupang.com/a/TeQRC' target='_blank'>구매</a></td>
         </tr><tr>
         <td>Apple 워치 se2 40mm GPS+Cellular × 알루미늄 × 실버 / 화이트  스포츠밴드</td>
         <td></td>
-        <td>407,550원</td>
+        <td>414,000원</td>
         <td><a href='https://link.coupang.com/a/TeQVS' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>

@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-06 20:02:18 +09:00
+date: 2023-06-07 10:02:18 +09:00
 categories: [아이폰]
 image: assets/images/iphone14/iphone14-plus.jpg
 price: "1,164,240"
 history_min_price: "1,077,500"
-today: "2023-06-06"
+today: "2023-06-07"
 featured: false
 comments: false
 title: 아이폰14 플러스
@@ -14,7 +14,7 @@ chart_path: "/assets/images/chart/IPHONE14PLUS_chart.png"
 ---
 
 <main>
-<table>
+<table id="rwd-table-large">
 <thread>
 <tr>
 <th>일자</th>
