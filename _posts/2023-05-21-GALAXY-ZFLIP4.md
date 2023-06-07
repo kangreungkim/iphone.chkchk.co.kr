@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2023-06-07 10:03:07 +09:00
+date: 2023-06-07 20:03:07 +09:00
 categories: [갤럭시]
 image: assets/images/galaxy/galaxy_zflip4.png
-price: "947,360"
+price: "947,040"
 history_min_price: "926,990"
 today: "2023-06-07"
 featured: false

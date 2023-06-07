@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2023-06-07 10:02:36 +09:00
+date: 2023-06-07 20:02:36 +09:00
 categories: [아이패드]
 image: assets/images/ipad/ipad10th.png
-price: "575,760"
+price: "574,010"
 history_min_price: "540,900"
 today: "2023-06-07"
 featured: false
