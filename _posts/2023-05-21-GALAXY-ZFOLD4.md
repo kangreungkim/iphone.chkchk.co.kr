@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-09 10:03:09 +09:00
+date: 2023-06-09 20:03:09 +09:00
 categories: [갤럭시]
 image: assets/images/galaxy/galaxy_zfold4.png
 price: "1,538,990"

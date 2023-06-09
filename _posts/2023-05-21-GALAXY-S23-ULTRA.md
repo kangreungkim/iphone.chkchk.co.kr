@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-09 10:03:06 +09:00
+date: 2023-06-09 20:03:06 +09:00
 categories: [갤럭시]
 image: assets/images/galaxy/galaxy_s23Ultra.png
 price: "1,295,490"

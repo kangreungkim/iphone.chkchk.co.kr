@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-09 10:02:22 +09:00
+date: 2023-06-09 20:02:22 +09:00
 categories: [아이폰]
 image: assets/images/iphone14/iphone14-promax.jpg
 price: "1,554,000"
