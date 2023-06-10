@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-09 20:03:02 +09:00
+date: 2023-06-10 10:03:02 +09:00
 categories: [Apple Accessories]
 image: assets/images/apple_parts/apple_airpotmax.png
-price: "651,100"
+price: "671,480"
 history_min_price: "0"
-today: "2023-06-09"
+today: "2023-06-10"
 featured: false
 comments: false
 title: Apple 에어팟 맥스 블루투스 헤드셋
@@ -37,7 +37,7 @@ AirPods Max는 하이파이 오디오와 업계 최고 수준의 액티브 노�
   <tbody><tr>
         <td>Apple 에어팟 맥스 블루투스헤드셋 실버</td>
         <td></td>
-        <td>722,550원</td>
+        <td>720,900원</td>
         <td><a href='https://link.coupang.com/a/SG9Bv' target='_blank'>구매</a></td>
         </tr><tr>
         <td>Apple 에어팟 맥스 블루투스헤드셋 그린</td>
@@ -47,17 +47,17 @@ AirPods Max는 하이파이 오디오와 업계 최고 수준의 액티브 노�
         </tr><tr>
         <td>Apple 에어팟 맥스 블루투스헤드셋 스카이블루</td>
         <td></td>
-        <td>671,770원</td>
+        <td>671,480원</td>
         <td><a href='https://link.coupang.com/a/SG9Fk' target='_blank'>구매</a></td>
         </tr><tr>
         <td>Apple 에어팟 맥스 블루투스헤드셋 스페이스그레이</td>
         <td></td>
-        <td>651,100원</td>
+        <td>685,100원</td>
         <td><a href='https://link.coupang.com/a/SG9G0' target='_blank'>구매</a></td>
         </tr><tr>
         <td>Apple 에어팟 맥스 블루투스헤드셋 핑크</td>
         <td></td>
-        <td>730,550원</td>
+        <td>713,170원</td>
         <td><a href='https://link.coupang.com/a/SG9JL' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>

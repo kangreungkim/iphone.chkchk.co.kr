@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-09 20:02:56 +09:00
+date: 2023-06-10 10:02:56 +09:00
 categories: [Apple Accessories]
 image: assets/images/apple_parts/MAGIC-KEYBOARDpro11.png
-price: "420,590"
+price: "408,590"
 history_min_price: "0"
-today: "2023-06-09"
+today: "2023-06-10"
 featured: false
 comments: false
 title: Apple 정품 매직 키보드 iPad Pro 11 4세대/iPad Air 5세대용
@@ -44,7 +44,7 @@ Magic Keyboard는 iPad Pro 11 및 iPad Air의 멋진 파트너입니다. 최고�
   <tbody><tr>
         <td>Apple 정품 매직 키보드 iPad Pro 11 4세대/iPad Air 5세대용</td>
         <td></td>
-        <td>421,550원</td>
+        <td>408,590원</td>
         <td><a href='https://link.coupang.com/a/SG8XP' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>
