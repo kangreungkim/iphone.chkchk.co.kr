@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-10 20:02:39 +09:00
+date: 2023-06-11 10:02:39 +09:00
 categories: [아이패드]
 image: assets/images/ipad/ipadpro4th.png
 price: "1,070,550"
 history_min_price: "1,037,900"
-today: "2023-06-10"
+today: "2023-06-11"
 featured: false
 comments: false
 title: 아이패드 프로 11인치 4세대

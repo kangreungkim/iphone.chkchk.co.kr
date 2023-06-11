@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-10 20:02:17 +09:00
+date: 2023-06-11 10:02:17 +09:00
 categories: [아이폰]
 image: assets/images/iphone14/iphone14.png
-price: "1,029,000"
+price: "1,050,000"
 history_min_price: "979,000"
-today: "2023-06-10"
+today: "2023-06-11"
 featured: false
 comments: false
 title: 아이폰14
@@ -53,7 +53,7 @@ chart_path: "/assets/images/chart/IPHONE14_chart.png"
         </tr><tr>
         <td>apple iphone14 미드나이트 128gb </td>
         <td></td>
-        <td>1,029,000원</td>
+        <td>1,050,000원</td>
         <td><a href='https://link.coupang.com/a/SOW5X' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone14 블루 128gb </td>
@@ -108,7 +108,7 @@ chart_path: "/assets/images/chart/IPHONE14_chart.png"
         </tr><tr>
         <td>apple iphone14 블루 512gb </td>
         <td></td>
-        <td>1,445,000원</td>
+        <td>1,430,000원</td>
         <td><a href='https://link.coupang.com/a/SOXuT' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone14 스타라이트 512gb </td>
