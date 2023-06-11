@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2023-06-11 10:02:49 +09:00
+date: 2023-06-11 20:02:48 +09:00
 categories: [Apple Accessories]
 image: assets/images/apple_parts/apple-pencil2th.png
-price: "181,000"
+price: "172,000"
 history_min_price: "0"
 today: "2023-06-11"
 featured: true
