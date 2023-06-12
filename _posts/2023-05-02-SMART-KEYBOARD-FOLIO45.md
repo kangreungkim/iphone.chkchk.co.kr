@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2023-06-12 10:02:50 +09:00
+date: 2023-06-12 20:02:49 +09:00
 categories: [Apple Accessories]
 image: assets/images/apple_parts/SMART-KEYBOARD-FOLIO45.png
-price: "257,300"
+price: "256,810"
 history_min_price: "0"
 today: "2023-06-12"
 featured: false
