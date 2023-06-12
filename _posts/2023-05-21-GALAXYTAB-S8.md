@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-11 20:03:11 +09:00
+date: 2023-06-12 10:03:12 +09:00
 categories: [갤럭시]
 image: assets/images/galaxy/galaxytab-s8.png
-price: "712,050"
+price: "709,050"
 history_min_price: "678,980"
-today: "2023-06-11"
+today: "2023-06-12"
 featured: false
 comments: false
 title: 갤럭시탭8
@@ -32,7 +32,7 @@ chart_path: "/assets/images/chart/GALAXYTAB-S8_chart.png"
   <tbody><tr>
         <td>갤럭시탭S8 그라파이트 128gb wi-fi</td>
         <td></td>
-        <td>712,050원</td>
+        <td>709,050원</td>
         <td><a href='https://link.coupang.com/a/SBThO' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시탭S8 그라파이트 128gb wi-fi+5g</td>
@@ -42,7 +42,7 @@ chart_path: "/assets/images/chart/GALAXYTAB-S8_chart.png"
         </tr><tr>
         <td>갤럭시탭S8 그라파이트 256gb wi-fi</td>
         <td></td>
-        <td>788,730원</td>
+        <td>803,130원</td>
         <td><a href='https://link.coupang.com/a/SBTm5' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시탭S8 그라파이트 256gb wi-fi+5g</td>
@@ -52,7 +52,7 @@ chart_path: "/assets/images/chart/GALAXYTAB-S8_chart.png"
         </tr><tr>
         <td>갤럭시탭S8 실버 128gb wi-fi</td>
         <td></td>
-        <td>712,050원</td>
+        <td>709,050원</td>
         <td><a href='https://link.coupang.com/a/SBTsf' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시탭S8 실버 128gb wi-fi+5g</td>
@@ -62,7 +62,7 @@ chart_path: "/assets/images/chart/GALAXYTAB-S8_chart.png"
         </tr><tr>
         <td>갤럭시탭S8 실버 256gb wi-fi</td>
         <td></td>
-        <td>788,730원</td>
+        <td>803,130원</td>
         <td><a href='https://link.coupang.com/a/SBTAP' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시탭S8 실버 256gb wi-fi+5g</td>
@@ -72,7 +72,7 @@ chart_path: "/assets/images/chart/GALAXYTAB-S8_chart.png"
         </tr><tr>
         <td>갤럭시탭S8 핑크골드 128gb wi-fi</td>
         <td></td>
-        <td>712,050원</td>
+        <td>709,050원</td>
         <td><a href='https://link.coupang.com/a/SBTGy' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시탭S8 핑크골드 128gb wi-fi+5g</td>
@@ -82,7 +82,7 @@ chart_path: "/assets/images/chart/GALAXYTAB-S8_chart.png"
         </tr><tr>
         <td>갤럭시탭S8 핑크골드 256gb wi-fi</td>
         <td></td>
-        <td>788,730원</td>
+        <td>803,130원</td>
         <td><a href='https://link.coupang.com/a/SBTZ9' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시탭S8 핑크골드 256gb wi-fi+5g</td>

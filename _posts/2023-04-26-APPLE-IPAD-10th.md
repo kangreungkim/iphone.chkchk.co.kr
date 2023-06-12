@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-11 20:02:36 +09:00
+date: 2023-06-12 10:02:36 +09:00
 categories: [아이패드]
 image: assets/images/ipad/ipad10th.png
 price: "575,760"
 history_min_price: "540,900"
-today: "2023-06-11"
+today: "2023-06-12"
 featured: false
 comments: false
 title: 아이패드 10세대[2022] 셀룰러
@@ -93,7 +93,7 @@ chart_path: "/assets/images/chart/IPAD-10th.Wifi_chart.png"
         </tr><tr>
         <td>Apple 2022 아이패드 10세대 실버 64gb wi-fi</td>
         <td></td>
-        <td>594,010원</td>
+        <td>587,760원</td>
         <td><a href='https://link.coupang.com/a/SA4Hu' target='_blank'>구매</a></td>
         </tr><tr>
         <td>Apple 2022 아이패드 10세대 옐로우 64gb wi-fi</td>

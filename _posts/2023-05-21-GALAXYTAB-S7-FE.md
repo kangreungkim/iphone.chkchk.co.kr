@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-11 20:03:09 +09:00
+date: 2023-06-12 10:03:10 +09:00
 categories: [갤럭시]
 image: assets/images/galaxy/galaxytab-s7fe.png
 price: "549,400"
 history_min_price: "528,200"
-today: "2023-06-11"
+today: "2023-06-12"
 featured: false
 comments: false
 title: 갤럭시탭7 FE
