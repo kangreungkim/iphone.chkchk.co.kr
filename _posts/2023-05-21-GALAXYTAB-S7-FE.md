@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-12 20:03:09 +09:00
+date: 2023-06-13 10:03:10 +09:00
 categories: [갤럭시]
 image: assets/images/galaxy/galaxytab-s7fe.png
 price: "549,400"
 history_min_price: "528,200"
-today: "2023-06-12"
+today: "2023-06-13"
 featured: false
 comments: false
 title: 갤럭시탭7 FE
@@ -37,7 +37,7 @@ chart_path: "/assets/images/chart/GALAXYTAB-S7FE_chart.png"
         </tr><tr>
         <td>갤럭시탭S7 FE 미스틱실버 64gb wi-fi+cellular</td>
         <td></td>
-        <td>630,700원</td>
+        <td>617,420원</td>
         <td><a href='https://link.coupang.com/a/SBKLq' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시탭S7 FE 미스틱블랙 128gb wi-fi</td>

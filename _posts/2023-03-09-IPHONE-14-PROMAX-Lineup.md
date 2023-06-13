@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-12 20:02:21 +09:00
+date: 2023-06-13 10:02:22 +09:00
 categories: [아이폰]
 image: assets/images/iphone14/iphone14-promax.jpg
 price: "1,524,000"
 history_min_price: "1,417,500"
-today: "2023-06-12"
+today: "2023-06-13"
 featured: false
 comments: false
 title: 아이폰14 프로맥스
@@ -52,7 +52,7 @@ chart_path: "/assets/images/chart/IPHONE14PROMAX_chart.png"
   <tbody><tr>
         <td>apple iphone14promax 골드 128gb </td>
         <td></td>
-        <td>1,612,000원</td>
+        <td>1,524,000원</td>
         <td><a href='https://link.coupang.com/a/SOYZQ' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone14promax 딥퍼플 128gb </td>
@@ -62,12 +62,12 @@ chart_path: "/assets/images/chart/IPHONE14PROMAX_chart.png"
         </tr><tr>
         <td>apple iphone14promax 스페이스블랙 128gb </td>
         <td></td>
-        <td>1,610,500원</td>
+        <td>1,599,500원</td>
         <td><a href='https://link.coupang.com/a/SOY4h' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone14promax 실버 128gb </td>
         <td></td>
-        <td>1,565,250원</td>
+        <td>1,554,430원</td>
         <td><a href='https://link.coupang.com/a/SOY6u' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone14promax 골드 256gb </td>
@@ -82,12 +82,12 @@ chart_path: "/assets/images/chart/IPHONE14PROMAX_chart.png"
         </tr><tr>
         <td>apple iphone14promax 스페이스블랙 256gb </td>
         <td></td>
-        <td>1,758,000원</td>
+        <td>1,748,000원</td>
         <td><a href='https://link.coupang.com/a/SOZca' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone14promax 실버 256gb </td>
         <td></td>
-        <td>1,753,000원</td>
+        <td>1,739,000원</td>
         <td><a href='https://link.coupang.com/a/SOZei' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone14promax 골드 512gb </td>
@@ -107,7 +107,7 @@ chart_path: "/assets/images/chart/IPHONE14PROMAX_chart.png"
         </tr><tr>
         <td>apple iphone14promax 실버 512gb </td>
         <td></td>
-        <td>2,025,000원</td>
+        <td>2,010,000원</td>
         <td><a href='https://link.coupang.com/a/SOZnK' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>
