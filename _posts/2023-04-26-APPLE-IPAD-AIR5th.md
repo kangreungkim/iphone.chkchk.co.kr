@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2023-06-13 10:02:43 +09:00
+date: 2023-06-13 20:02:42 +09:00
 categories: [아이패드]
 image: assets/images/ipad/ipadair5th.png
-price: "837,600"
+price: "812,730"
 history_min_price: "754,600"
 today: "2023-06-13"
 featured: true

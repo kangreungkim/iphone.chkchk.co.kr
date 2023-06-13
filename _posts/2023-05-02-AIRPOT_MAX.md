@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-13 10:03:02 +09:00
+date: 2023-06-13 20:03:02 +09:00
 categories: [Apple Accessories]
 image: assets/images/apple_parts/apple_airpotmax.png
 price: "670,770"

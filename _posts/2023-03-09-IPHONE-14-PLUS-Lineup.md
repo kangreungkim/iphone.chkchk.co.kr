@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-13 10:02:19 +09:00
+date: 2023-06-13 20:02:18 +09:00
 categories: [아이폰]
 image: assets/images/iphone14/iphone14-plus.jpg
 price: "1,117,800"
