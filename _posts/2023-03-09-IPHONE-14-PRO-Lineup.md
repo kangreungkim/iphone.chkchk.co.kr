@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-14 10:02:19 +09:00
+date: 2023-06-14 20:02:20 +09:00
 categories: [아이폰]
 image: assets/images/iphone14/iphone14-pro.png
 price: "1,362,060"
