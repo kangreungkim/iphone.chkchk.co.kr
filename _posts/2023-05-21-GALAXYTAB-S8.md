@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-15 20:03:12 +09:00
+date: 2023-06-16 10:03:12 +09:00
 categories: [갤럭시]
 image: assets/images/galaxy/galaxytab-s8.png
-price: "739,050"
+price: "741,050"
 history_min_price: "678,980"
-today: "2023-06-15"
+today: "2023-06-16"
 featured: false
 comments: false
 title: 갤럭시탭8
@@ -32,12 +32,12 @@ chart_path: "/assets/images/chart/GALAXYTAB-S8_chart.png"
   <tbody><tr>
         <td>갤럭시탭S8 그라파이트 128gb wi-fi</td>
         <td></td>
-        <td>739,050원</td>
+        <td>741,050원</td>
         <td><a href='https://link.coupang.com/a/SBThO' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시탭S8 그라파이트 128gb wi-fi+5g</td>
         <td></td>
-        <td>926,860원</td>
+        <td>923,610원</td>
         <td><a href='https://link.coupang.com/a/SBTkD' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시탭S8 그라파이트 256gb wi-fi</td>
@@ -47,12 +47,12 @@ chart_path: "/assets/images/chart/GALAXYTAB-S8_chart.png"
         </tr><tr>
         <td>갤럭시탭S8 그라파이트 256gb wi-fi+5g</td>
         <td></td>
-        <td>1,018,480원</td>
+        <td>1,008,610원</td>
         <td><a href='https://link.coupang.com/a/SBTpx' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시탭S8 실버 128gb wi-fi</td>
         <td></td>
-        <td>739,050원</td>
+        <td>741,050원</td>
         <td><a href='https://link.coupang.com/a/SBTsf' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시탭S8 실버 128gb wi-fi+5g</td>
@@ -72,7 +72,7 @@ chart_path: "/assets/images/chart/GALAXYTAB-S8_chart.png"
         </tr><tr>
         <td>갤럭시탭S8 핑크골드 128gb wi-fi</td>
         <td></td>
-        <td>739,050원</td>
+        <td>741,050원</td>
         <td><a href='https://link.coupang.com/a/SBTGy' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시탭S8 핑크골드 128gb wi-fi+5g</td>
@@ -87,7 +87,7 @@ chart_path: "/assets/images/chart/GALAXYTAB-S8_chart.png"
         </tr><tr>
         <td>갤럭시탭S8 핑크골드 256gb wi-fi+5g</td>
         <td></td>
-        <td>1,018,480원</td>
+        <td>1,008,610원</td>
         <td><a href='https://link.coupang.com/a/SBT2z' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>
