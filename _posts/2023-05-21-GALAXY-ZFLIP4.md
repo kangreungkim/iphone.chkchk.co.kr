@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-17 20:03:07 +09:00
+date: 2023-06-18 10:03:08 +09:00
 categories: [갤럭시]
 image: assets/images/galaxy/galaxy_zflip4.png
-price: "1,000,040"
+price: "1,000,360"
 history_min_price: "898,390"
-today: "2023-06-17"
+today: "2023-06-18"
 featured: false
 comments: false
 title: 갤럭시 ZFLIP4
@@ -32,7 +32,7 @@ chart_path: "/assets/images/chart/GALAXY-ZFLIP4_chart.png"
   <tbody><tr>
         <td>갤럭시폰zflip4 그라파이트 256gb</td>
         <td></td>
-        <td>1,000,040원</td>
+        <td>1,000,360원</td>
         <td><a href='https://link.coupang.com/a/SHIIP' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시폰zflip4 보라퍼플 256gb</td>
