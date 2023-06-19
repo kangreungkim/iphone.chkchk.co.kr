@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2023-06-19 10:02:29 +09:00
+date: 2023-06-19 20:02:29 +09:00
 categories: [애플워치]
 image: assets/images/applewatch/watchultra.png
-price: "1,026,060"
+price: "1,015,000"
 history_min_price: "920,340"
 today: "2023-06-19"
 featured: false

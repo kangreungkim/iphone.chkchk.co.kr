@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2023-06-19 10:03:05 +09:00
+date: 2023-06-19 20:03:06 +09:00
 categories: [갤럭시]
 image: assets/images/galaxy/galaxy_s23Plus.png
-price: "1,201,330"
+price: "1,194,660"
 history_min_price: "1,179,200"
 today: "2023-06-19"
 featured: false
