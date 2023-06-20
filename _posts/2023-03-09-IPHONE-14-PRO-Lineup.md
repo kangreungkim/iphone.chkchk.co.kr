@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-19 20:02:20 +09:00
+date: 2023-06-20 10:02:19 +09:00
 categories: [아이폰]
 image: assets/images/iphone14/iphone14-pro.png
 price: "1,333,380"
 history_min_price: "1,247,500"
-today: "2023-06-19"
+today: "2023-06-20"
 featured: false
 comments: false
 title: 아이폰14 프로
@@ -68,7 +68,7 @@ chart_path: "/assets/images/chart/IPHONE14PRO_chart.png"
         </tr><tr>
         <td>apple iphone14pro 실버 128gb </td>
         <td></td>
-        <td>1,362,060원</td>
+        <td>1,333,380원</td>
         <td><a href='https://link.coupang.com/a/SOYxD' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone14pro 골드 256gb </td>

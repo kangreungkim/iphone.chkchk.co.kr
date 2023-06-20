@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-19 20:03:07 +09:00
+date: 2023-06-20 10:03:06 +09:00
 categories: [갤럭시]
 image: assets/images/galaxy/galaxy_s23Ultra.png
-price: "1,282,480"
+price: "1,284,480"
 history_min_price: "1,275,490"
-today: "2023-06-19"
+today: "2023-06-20"
 featured: false
 comments: false
 title: 갤럭시 S23 ULTRA
@@ -32,17 +32,17 @@ chart_path: "/assets/images/chart/GALAXY-S23-ULTRA_chart.png"
   <tbody><tr>
         <td>갤럭시폰S23ultra 라벤더 256gb</td>
         <td></td>
-        <td>1,282,480원</td>
+        <td>1,284,480원</td>
         <td><a href='https://link.coupang.com/a/SHGhq' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시폰S23ultra 크림 256gb</td>
         <td></td>
-        <td>1,354,320원</td>
+        <td>1,284,480원</td>
         <td><a href='https://link.coupang.com/a/SHGk8' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시폰S23ultra 크림 512gb</td>
         <td></td>
-        <td>1,419,000원</td>
+        <td>1,410,710원</td>
         <td><a href='https://link.coupang.com/a/SHGvv' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>
