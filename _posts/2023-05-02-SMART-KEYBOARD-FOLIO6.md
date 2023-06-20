@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2023-06-20 10:02:52 +09:00
+date: 2023-06-20 20:02:52 +09:00
 categories: [Apple Accessories]
 image: assets/images/apple_parts/SMART-KEYBOARD-FOLIO6.png
-price: "272,050"
+price: "266,060"
 history_min_price: "0"
 today: "2023-06-20"
 featured: false

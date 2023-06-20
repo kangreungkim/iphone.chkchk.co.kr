@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2023-06-20 10:02:22 +09:00
+date: 2023-06-20 20:02:23 +09:00
 categories: [아이폰]
 image: assets/images/iphone-se3/iphone-se3.png
-price: "572,130"
+price: "547,040"
 history_min_price: "515,450"
 today: "2023-06-20"
 featured: false
