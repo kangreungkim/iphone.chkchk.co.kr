@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-20 20:02:12 +09:00
+date: 2023-06-21 10:02:13 +09:00
 categories: [아이폰]
 image: assets/images/iphone13/iphone13-mini.jpg
 price: "929,330"
 history_min_price: "929,330"
-today: "2023-06-20"
+today: "2023-06-21"
 featured: false
 comments: false
 title: 아이폰13
@@ -48,7 +48,7 @@ chart_path: "/assets/images/chart/IPHONE13_chart.png"
         </tr><tr>
         <td>apple iphone13 블루 128gb </td>
         <td></td>
-        <td>938,300원</td>
+        <td>929,330원</td>
         <td><a href='https://link.coupang.com/a/SOU6A' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone13 스타라이트 128gb </td>

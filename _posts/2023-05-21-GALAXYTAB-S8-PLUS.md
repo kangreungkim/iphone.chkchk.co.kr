@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-20 20:03:14 +09:00
+date: 2023-06-21 10:03:15 +09:00
 categories: [갤럭시]
 image: assets/images/galaxy/galaxytab-s8plus.png
 price: "939,970"
 history_min_price: "814,990"
-today: "2023-06-20"
+today: "2023-06-21"
 featured: false
 comments: false
 title: 갤럭시탭8 PLUS
@@ -32,7 +32,7 @@ chart_path: "/assets/images/chart/GALAXYTAB-S8PLUS_chart.png"
   <tbody><tr>
         <td>갤럭시탭S8plus 그라파이트 128gb wi-fi</td>
         <td></td>
-        <td>944,970원</td>
+        <td>939,970원</td>
         <td><a href='https://link.coupang.com/a/SBXWy' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시탭S8plus 그라파이트 128gb wi-fi+5g</td>
@@ -62,7 +62,7 @@ chart_path: "/assets/images/chart/GALAXYTAB-S8PLUS_chart.png"
         </tr><tr>
         <td>갤럭시탭S8plus 실버 128gb wi-fi</td>
         <td></td>
-        <td>944,970원</td>
+        <td>939,970원</td>
         <td><a href='https://link.coupang.com/a/SBYaG' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시탭S8plus 실버 128gb wi-fi+5g</td>
@@ -82,7 +82,7 @@ chart_path: "/assets/images/chart/GALAXYTAB-S8PLUS_chart.png"
         </tr><tr>
         <td>갤럭시탭S8plus 핑크골드 128gb wi-fi</td>
         <td></td>
-        <td>944,970원</td>
+        <td>939,970원</td>
         <td><a href='https://link.coupang.com/a/SBYi2' target='_blank'>구매</a></td>
         </tr><tr>
         <td>갤럭시탭S8plus 핑크골드 128gb wi-fi+5g</td>

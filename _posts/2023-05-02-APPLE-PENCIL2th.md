@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-20 20:02:49 +09:00
+date: 2023-06-21 10:02:50 +09:00
 categories: [Apple Accessories]
 image: assets/images/apple_parts/apple-pencil2th.png
 price: "175,000"
 history_min_price: "0"
-today: "2023-06-20"
+today: "2023-06-21"
 featured: true
 comments: false
 title: 애플팬슬 2세대

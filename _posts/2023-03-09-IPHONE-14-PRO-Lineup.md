@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-20 20:02:20 +09:00
+date: 2023-06-21 10:02:20 +09:00
 categories: [아이폰]
 image: assets/images/iphone14/iphone14-pro.png
-price: "1,333,380"
+price: "1,342,750"
 history_min_price: "1,247,500"
-today: "2023-06-20"
+today: "2023-06-21"
 featured: false
 comments: false
 title: 아이폰14 프로
@@ -53,62 +53,62 @@ chart_path: "/assets/images/chart/IPHONE14PRO_chart.png"
   <tbody><tr>
         <td>apple iphone14pro 골드 128gb </td>
         <td></td>
-        <td>1,412,670원</td>
+        <td>1,389,750원</td>
         <td><a href='https://link.coupang.com/a/SOYqH' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone14pro 딥퍼플 128gb </td>
         <td></td>
-        <td>1,405,070원</td>
+        <td>1,414,750원</td>
         <td><a href='https://link.coupang.com/a/SOYs5' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone14pro 스페이스블랙 128gb </td>
         <td></td>
-        <td>1,362,060원</td>
+        <td>1,371,750원</td>
         <td><a href='https://link.coupang.com/a/SOYvt' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone14pro 실버 128gb </td>
         <td></td>
-        <td>1,333,380원</td>
+        <td>1,342,750원</td>
         <td><a href='https://link.coupang.com/a/SOYxD' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone14pro 골드 256gb </td>
         <td></td>
-        <td>1,549,380원</td>
+        <td>1,559,000원</td>
         <td><a href='https://link.coupang.com/a/SOYzH' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone14pro 딥퍼플 256gb </td>
         <td></td>
-        <td>1,549,380원</td>
+        <td>1,559,000원</td>
         <td><a href='https://link.coupang.com/a/SOYCd' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone14pro 스페이스블랙 256gb </td>
         <td></td>
-        <td>1,549,380원</td>
+        <td>1,559,000원</td>
         <td><a href='https://link.coupang.com/a/SOYEY' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone14pro 실버 256gb </td>
         <td></td>
-        <td>1,549,380원</td>
+        <td>1,501,000원</td>
         <td><a href='https://link.coupang.com/a/SOYLE' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone14pro 골드 512gb </td>
         <td></td>
-        <td>1,822,800원</td>
+        <td>1,777,000원</td>
         <td><a href='https://link.coupang.com/a/SOYNI' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone14pro 딥퍼플 512gb </td>
         <td></td>
-        <td>1,822,800원</td>
+        <td>1,832,000원</td>
         <td><a href='https://link.coupang.com/a/SOYPE' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone14pro 스페이스블랙 512gb </td>
         <td></td>
-        <td>1,822,800원</td>
+        <td>1,832,000원</td>
         <td><a href='https://link.coupang.com/a/SOYRG' target='_blank'>구매</a></td>
         </tr><tr>
         <td>apple iphone14pro 실버 512gb </td>
         <td></td>
-        <td>1,822,800원</td>
+        <td>1,832,000원</td>
         <td><a href='https://link.coupang.com/a/SOYUa' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>

@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-20 20:02:34 +09:00
+date: 2023-06-21 10:02:34 +09:00
 categories: [애플워치]
 image: assets/images/applewatch/watchse2.png
 price: "320,000"
 history_min_price: "302,710"
-today: "2023-06-20"
+today: "2023-06-21"
 featured: false
 comments: false
 title: 애플워치SE2
@@ -61,12 +61,12 @@ SE2는 고중력 가속도계와 향상된 자이로스코프를 제공하며, �
         </tr><tr>
         <td>Apple 워치 se2 40mm GPS × 알루미늄 × 스타라이트 / 스타라이트 스포츠밴드</td>
         <td></td>
-        <td>320,000원</td>
+        <td>320,100원</td>
         <td><a href='https://link.coupang.com/a/TeQuX' target='_blank'>구매</a></td>
         </tr><tr>
         <td>Apple 워치 se2 40mm GPS × 알루미늄 × 실버 / 화이트  스포츠밴드</td>
         <td></td>
-        <td>320,000원</td>
+        <td>320,100원</td>
         <td><a href='https://link.coupang.com/a/TeQCS' target='_blank'>구매</a></td>
         </tr><tr>
         <td>Apple 워치 se2 40mm GPS+Cellular × 알루미늄 × 미드나이트 / 미드나이트 스포츠밴드</td>
@@ -104,7 +104,7 @@ SE2는 고중력 가속도계와 향상된 자이로스코프를 제공하며, �
             </tr><tr>
             <td>Apple 워치 se2 44mm GPS × 알루미늄 × 스타라이트 / 스타라이트 스포츠밴드</td>
             <td></td>
-            <td>369,000원</td>
+            <td>356,000원</td>
             <td><a href='https://link.coupang.com/a/TeQ9G' target='_blank'>구매</a></td>
             </tr><tr>
             <td>Apple 워치 se2 44mm GPS × 알루미늄 × 실버 / 화이트  스포츠밴드</td>
