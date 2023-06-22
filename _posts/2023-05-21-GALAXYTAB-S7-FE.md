@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2023-06-22 10:03:12 +09:00
+date: 2023-06-22 20:03:11 +09:00
 categories: [갤럭시]
 image: assets/images/galaxy/galaxytab-s7fe.png
-price: "559,300"
+price: "550,300"
 history_min_price: "528,200"
 today: "2023-06-22"
 featured: false
