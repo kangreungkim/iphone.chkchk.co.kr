@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-21 20:02:46 +09:00
+date: 2023-06-22 10:02:46 +09:00
 categories: [아이패드]
 image: assets/images/ipad/ipadpro6th.png
 price: "1,467,650"
 history_min_price: "1,422,900"
-today: "2023-06-21"
+today: "2023-06-22"
 featured: false
 comments: false
 title: 아이패드 프로 12.9인치 6세대
