@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-23 10:02:26 +09:00
+date: 2023-06-23 20:02:26 +09:00
 categories: [애플워치]
 image: assets/images/applewatch/watch8.png
 price: "488,040"

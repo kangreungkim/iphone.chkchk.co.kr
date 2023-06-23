@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-23 10:02:57 +09:00
+date: 2023-06-23 20:02:56 +09:00
 categories: [Apple Accessories]
 image: assets/images/apple_parts/MAGIC-KEYBOARDpro11.png
 price: "400,060"
