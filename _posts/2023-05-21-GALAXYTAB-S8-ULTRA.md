@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-22 20:03:15 +09:00
+date: 2023-06-23 10:03:16 +09:00
 categories: [갤럭시]
 image: assets/images/galaxy/galaxytab-s8ultra.png
 price: "1,091,000"
 history_min_price: "960,000"
-today: "2023-06-22"
+today: "2023-06-23"
 featured: false
 comments: false
 title: 갤럭시탭8 ULTRA
