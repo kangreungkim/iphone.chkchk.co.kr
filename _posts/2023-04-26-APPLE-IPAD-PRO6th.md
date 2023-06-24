@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2023-06-24 10:02:47 +09:00
+date: 2023-06-24 20:02:47 +09:00
 categories: [아이패드]
 image: assets/images/ipad/ipadpro6th.png
-price: "1,462,900"
+price: "1,462,810"
 history_min_price: "1,422,900"
 today: "2023-06-24"
 featured: false
