@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-23 20:03:05 +09:00
+date: 2023-06-24 10:03:06 +09:00
 categories: [갤럭시]
 image: assets/images/galaxy/galaxy_s23Plus.png
-price: "1,201,660"
+price: "1,208,660"
 history_min_price: "1,179,200"
-today: "2023-06-23"
+today: "2023-06-24"
 featured: false
 comments: false
 title: 갤럭시 S23 PLUS
@@ -37,7 +37,7 @@ chart_path: "/assets/images/chart/GALAXY-S23-PLUS_chart.png"
         </tr><tr>
         <td>갤럭시폰S23plus 크림 512gb</td>
         <td></td>
-        <td>1,201,660원</td>
+        <td>1,208,660원</td>
         <td><a href='https://link.coupang.com/a/SHEoX' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>

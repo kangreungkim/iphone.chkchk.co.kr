@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-23 20:02:55 +09:00
+date: 2023-06-24 10:02:56 +09:00
 categories: [Apple Accessories]
 image: assets/images/apple_parts/MAGIC-KEYBOARDpro10.png
 price: "217,360"
 history_min_price: "0"
-today: "2023-06-23"
+today: "2023-06-24"
 featured: false
 comments: false
 title: Apple 정품 매직 키보드 iPad Smart Keyboard pro 10세대/iPad 9세대/iPad Air 3세대용

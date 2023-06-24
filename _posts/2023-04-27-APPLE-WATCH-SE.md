@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2023-06-23 20:02:30 +09:00
+date: 2023-06-24 10:02:31 +09:00
 categories: [애플워치]
 image: assets/images/applewatch/watchse.png
 price: "359,000"
 history_min_price: "305,150"
-today: "2023-06-23"
+today: "2023-06-24"
 featured: false
 comments: false
 title: 애플워치SE
@@ -46,7 +46,7 @@ Apple Watch SE(GPS+Cellular)모델은 이동통신 연결을 통해 긴급 구�
         </tr><tr>
         <td>Apple 워치 se 44mm GPS+Cellular × 알루미늄 × 스페이스 그레이 / 안트라사이트/블랙 밴드</td>
         <td></td>
-        <td>430,140원</td>
+        <td>444,700원</td>
         <td><a href='https://link.coupang.com/a/TeQgE' target='_blank'>구매</a></td>
         </tr></tbody>
 </table>
